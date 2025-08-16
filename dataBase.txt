@@ -1,5 +1,5 @@
 {
-"UDSG": [
+  "UDSG": [
     [
       "RW02",
       17,
@@ -89,7 +89,7 @@
       13943,
       12631,
       12631,
-      "08/26 - ASPH/CONC. - NONE. - NONE.",
+      "08/26 - HIRL. ALS 08. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
       40.1355555555556,
       44.3855555555556,
       "PCN 80/R/C/X/T"
@@ -107,7 +107,7 @@
       13615,
       12631,
       12631,
-      "08/26 - ASPH/CONC. - NONE. - NONE.",
+      "08/26 - HIRL. ALS 08. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
       40.1355555555556,
       44.3855555555556,
       "PCN 80/R/C/X/T"
@@ -2015,7 +2015,7 @@
       9524,
       8212,
       8212,
-      "04/22 - RL. 0400-1300Z. ATND SKD 0400-1300Z. Jet A-1. Fire 4.",
+      "04/22 - RL. 0400-1300Z. ATND SKD 0400-1300Z. Jet A-1. Fire 3.",
       46.885,
       75.0008333333333,
       "PCN 45/R/A/X/T"
@@ -2033,7 +2033,7 @@
       9524,
       8212,
       8212,
-      "04/22 - RL. 0400-1300Z. ATND SKD 0400-1300Z. Jet A-1. Fire 4.",
+      "04/22 - RL. 0400-1300Z. ATND SKD 0400-1300Z. Jet A-1. Fire 3.",
       46.885,
       75.0008333333333,
       "PCN 45/R/A/X/T"
@@ -2094,7 +2094,7 @@
       "04/22 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       51.0175,
       71.4666666666667,
-      "PCN 71/F/C/W/U"
+      "PCN 73/F/C/W/T"
     ],
     [
       "RW22",
@@ -2112,7 +2112,7 @@
       "04/22 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       51.0175,
       71.4666666666667,
-      "PCN 71/F/C/W/U"
+      "PCN 73/F/C/W/T"
     ]
   ],
   "UACK": [
@@ -3303,7 +3303,7 @@
       9514,
       8691,
       8202,
-      "11/29 - HIRL. HIALS 11. HIALS 29 H24, 72hr PPR. Foreign Jet A-1. O/R. Fire 7 on working days. O/T and Hol CAT 6. CAT 9 maximum O/R 24hr in advance.",
+      "11/29 - HIRL. HIALS 11. HIALS 29 H24, 72hr PPR. Foreign Jet A-1. O/R. Fire 6 , CAT 9 Max O/R 24 hr in advance. Maintenece of increased category for a Max of 24 hr.",
       52.3191666666667,
       16.9666666666667,
       "PCN 60/R/A/W/T"
@@ -3321,7 +3321,7 @@
       9383,
       8691,
       8202,
-      "11/29 - HIRL. HIALS 11. HIALS 29 H24, 72hr PPR. Foreign Jet A-1. O/R. Fire 7 on working days. O/T and Hol CAT 6. CAT 9 maximum O/R 24hr in advance.",
+      "11/29 - HIRL. HIALS 11. HIALS 29 H24, 72hr PPR. Foreign Jet A-1. O/R. Fire 6 , CAT 9 Max O/R 24 hr in advance. Maintenece of increased category for a Max of 24 hr.",
       52.3191666666667,
       16.9666666666667,
       "PCN 60/R/A/W/T"
@@ -10254,10 +10254,10 @@
   "XLAP": [
     [
       "RW04",
-      45,
-      456,
+      41,
+      460,
       8530,
-      12,
+      15,
       "Plesetck",
       "XLAP",
       456,
@@ -10272,10 +10272,10 @@
     ],
     [
       "RW22",
-      225,
-      446,
+      221,
+      443,
       8530,
-      12,
+      15,
       "Plesetck",
       "XLAP",
       456,
@@ -10337,11 +10337,11 @@
       "Savasleyka",
       "XUDE",
       341,
-      8202,
-      8202,
-      8202,
-      8202,
-      "02/20M- CONCRETE. Summer, Winter: PCN 28/R/C/W/T, Spring, Autumn: PCN23/R/D/W/T.",
+      9843,
+      9843,
+      9843,
+      9548,
+      "02/20 - CONCRETE. Summer, Winter: PCN 28/R/C/W/T, Spring, Autumn: PCN23/R/D/W/T.",
       55.44,
       42.31,
       ""
@@ -10355,11 +10355,11 @@
       "Savasleyka",
       "XUDE",
       341,
-      8202,
-      8202,
-      8858,
-      8202,
-      "02/20M- CONCRETE. Summer, Winter: PCN 28/R/C/W/T, Spring, Autumn: PCN23/R/D/W/T.",
+      9843,
+      9843,
+      9843,
+      9843,
+      "02/20 - CONCRETE. Summer, Winter: PCN 28/R/C/W/T, Spring, Autumn: PCN23/R/D/W/T.",
       55.44,
       42.31,
       ""
@@ -11804,37 +11804,37 @@
       "RW04",
       41,
       1543,
-      9793,
+      10820,
       4,
       "Andizhan",
       "AZN",
-      1558,
-      9793,
-      10941,
-      9957,
-      9793,
-      "04/22 - RL. MIALS 04. Clsd until 31 DEC 24. Jet A-1. Fire 7.",
-      40.7183333333333,
-      72.2847222222222,
-      "PCN 19/R/B/X/T"
+      1568,
+      10820,
+      10820,
+      11017,
+      9836,
+      "04/22 - RL. MIALS 04. During hours of scheduled operations. Jet A-1. Fire 7.",
+      40.7186111111111,
+      72.2852777777778,
+      "PCN 64/R/B/W/T"
     ],
     [
       "RW22",
       221,
       1559,
-      9793,
+      10820,
       4,
       "Andizhan",
       "AZN",
-      1558,
-      9793,
-      11105,
-      9957,
-      9793,
-      "04/22 - RL. MIALS 04. Clsd until 31 DEC 24. Jet A-1. Fire 7.",
-      40.7183333333333,
-      72.2847222222222,
-      "PCN 19/R/B/X/T"
+      1568,
+      10820,
+      10820,
+      11017,
+      10820,
+      "04/22 - RL. MIALS 04. During hours of scheduled operations. Jet A-1. Fire 7.",
+      40.7186111111111,
+      72.2852777777778,
+      "PCN 64/R/B/W/T"
     ]
   ],
   "UTFF": [
@@ -12253,7 +12253,7 @@
       "PCN 69/F/A/X/T"
     ]
   ],
-"OAHR": [
+  "OAHR": [
     [
       "RW18",
       184,
@@ -12529,7 +12529,7 @@
       10499,
       10499,
       10499,
-      "17/35 - ASPHALT. - NONE.",
+      "17/35 - HIRL. Sun-Thu 0415-1030, CIV PPR. Customs: During operational requirements. F-3, O/R. Jet A-1, O/R. JP-8. Fire 9.",
       26.0336111111111,
       50.5180555555556,
       "PCN 52/F/A/X/T"
@@ -12547,7 +12547,7 @@
       10499,
       10499,
       9515,
-      "17/35 - ASPHALT. - NONE.",
+      "17/35 - HIRL. Sun-Thu 0415-1030, CIV PPR. Customs: During operational requirements. F-3, O/R. Jet A-1, O/R. JP-8. Fire 9.",
       26.0336111111111,
       50.5180555555556,
       "PCN 52/F/A/X/T"
@@ -13853,10 +13853,10 @@
       10180,
       10180,
       10180,
-      "02/20 - ASPHALT. PCR: 776/F/C/W/T, HIRL. Rwy 20 Right-Hand Circuit. H24. Customs: H24. Non-sked flts PNR. Jet A-1. ABN. Fire 7.",
+      "02/20 - ASPHALT. PCR: 776/F/C/W/T. HIRL. Rwy 20 Right-Hand Circuit. H24. Customs: H24. Non-sked flts PNR. Jet A-1. ABN. Fire 7.",
       26.1008333333333,
       91.5836111111111,
-      "PCN 83/F/C/W/T"
+      "PCN 83/F/C/W/T, "
     ],
     [
       "RW20",
@@ -13871,10 +13871,10 @@
       10180,
       10180,
       10180,
-      "02/20 - ASPHALT. PCR: 776/F/C/W/T, HIRL. Rwy 20 Right-Hand Circuit. H24. Customs: H24. Non-sked flts PNR. Jet A-1. ABN. Fire 7.",
+      "02/20 - ASPHALT. PCR: 776/F/C/W/T. HIRL. Rwy 20 Right-Hand Circuit. H24. Customs: H24. Non-sked flts PNR. Jet A-1. ABN. Fire 7.",
       26.1008333333333,
       91.5836111111111,
-      "PCN 83/F/C/W/T"
+      "PCN 83/F/C/W/T, "
     ]
   ],
   "VERP": [
@@ -14339,7 +14339,7 @@
       13123,
       13123,
       13123,
-      "09L/27R - ASPHALT. PCR: 888/F/B/W/T. HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
+      "09L/27R - ASPHALT. PCR: 888/F/B/W/T, HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
       13.1858333333333,
       77.7008333333333,
       "PCN 74/F/B/W/T"
@@ -14357,7 +14357,7 @@
       13123,
       13123,
       13123,
-      "09L/27R - ASPHALT. PCR: 888/F/B/W/T. HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
+      "09L/27R - ASPHALT. PCR: 888/F/B/W/T, HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
       13.1858333333333,
       77.7008333333333,
       "PCN 74/F/B/W/T"
@@ -14375,7 +14375,7 @@
       13123,
       13123,
       13123,
-      "09L/27R - ASPHALT. PCR: 888/F/B/W/T. HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
+      "09L/27R - ASPHALT. PCR: 888/F/B/W/T, HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
       13.1858333333333,
       77.7008333333333,
       "PCN 98/F/C/W/T, "
@@ -14393,7 +14393,7 @@
       13123,
       13123,
       13123,
-      "09L/27R - ASPHALT. PCR: 888/F/B/W/T. HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
+      "09L/27R - ASPHALT. PCR: 888/F/B/W/T, HIRL. Rwy 09L/27R first 150m/180m concrete 09R/27L - ASPHALT. PCR: 1069/F/C/W/T. HIRL. ALS. First 150m concrete H24. Customs. Jet A-1. ABN. Fire 10.",
       13.1858333333333,
       77.7008333333333,
       "PCN 98/F/C/W/T, "
@@ -14601,10 +14601,10 @@
       7644,
       7644,
       7644,
-      "06/24 - ASPHALT. PCR: 833/F/B/W/T. HIRL. By NOTAM. Non-sked flts to obtain positive clearance prior to departure due limited parking stands. Customs: H24. Jet A-1. ABN. Fire 7 , fire 8 1hr PNR.",
+      "06/24 - ASPHALT. PCR: 833/F/B/W/T, HIRL. By NOTAM. Non-sked flts to obtain positive clearance prior to departure due limited parking stands. Customs: H24. Jet A-1. ABN. Fire 7 , fire 8 1hr PNR.",
       12.9519444444444,
       74.8844444444445,
-      "PCN 88/F/B/W/T, "
+      "PCN 88/F/B/W/T"
     ],
     [
       "RW24",
@@ -14619,10 +14619,10 @@
       7644,
       7644,
       7644,
-      "06/24 - ASPHALT. PCR: 833/F/B/W/T. HIRL. By NOTAM. Non-sked flts to obtain positive clearance prior to departure due limited parking stands. Customs: H24. Jet A-1. ABN. Fire 7 , fire 8 1hr PNR.",
+      "06/24 - ASPHALT. PCR: 833/F/B/W/T, HIRL. By NOTAM. Non-sked flts to obtain positive clearance prior to departure due limited parking stands. Customs: H24. Jet A-1. ABN. Fire 7 , fire 8 1hr PNR.",
       12.9519444444444,
       74.8844444444445,
-      "PCN 88/F/B/W/T, "
+      "PCN 88/F/B/W/T"
     ]
   ],
   "VOMM": [
@@ -14754,7 +14754,7 @@
       "14/32 - HIRL. HIALS 32. H24. Customs. Jet A-1. ABN. Fire 9.",
       8.46888888888889,
       76.9172222222222,
-      "PCN 90/F/C/W/T, "
+      "PCN 90/F/C/W/T"
     ],
     [
       "RW32",
@@ -14772,7 +14772,7 @@
       "14/32 - HIRL. HIALS 32. H24. Customs. Jet A-1. ABN. Fire 9.",
       8.46888888888889,
       76.9172222222222,
-      "PCN 90/F/C/W/T, "
+      "PCN 90/F/C/W/T"
     ]
   ],
   "VOVZ": [
@@ -17683,10 +17683,10 @@
       4029,
       4029,
       3862,
-      "15/33 - HIRL. Rwy 33 Right-Hand Circuit. Use of CWY for Rwy 15 - coordination with ATC is required before line-up. Sun, Thu 0600-2000Z; Mon, Tue, Wed 0600-1800Z; Fri and Hol eve 0500-1700Z; Sat and Hol 0600-1800Z, Jewish New Year's eve Apt closed for Arrival/Departure at 1600Z, Yom Kipur - Day of Atonement at 1200Z untill holiday's following day. ATND SKD Sun-Thu 0500. Customs: PPR with Operation and Security Center. Landing and takeoff of Helicopters in medical evacuation or Israeli Police in operational emergency is allowed beyond operational hours for refueling purposes only, and requires prior coordination with AD Administration. F-3, Jet A-1. ABN. Fire 5.",
+      "15/33 - HIRL. Rwy 33 Right-Hand Circuit. Use of CWY for Rwy 15 - coordination with ATC is required before line-up. Mon-Wed 0600-1800Z, 1800-2000Z for skd commercial flt with mim 30 PAX; Sun, Thu 0600-2000Z; Fri, Hol eve 0500-1700Z; Sat, Hol 0600-1800Z, Jewish New Year's eve Apt clsd for Arr/Dep at 1600Z, Yom Kipur-Day of Atonement at 1200Z until hol's following day. A. Customs: PPR with Operation and Security Center. Landing and takeoff of Helicopters in medical evacuation or Israeli Police in operational emergency is allowed beyond operational hours for refueling purposes only, and requires prior coordination with AD Administration. F-3, Jet A-1. ABN. Fire 5.",
       32.8016666666667,
       35.035,
-      "PCN 39/F/C/Y/T, "
+      "PCN 39/F/C/Y/T"
     ],
     [
       "RW33",
@@ -17701,10 +17701,10 @@
       4029,
       4029,
       3671,
-      "15/33 - HIRL. Rwy 33 Right-Hand Circuit. Use of CWY for Rwy 15 - coordination with ATC is required before line-up. Sun, Thu 0600-2000Z; Mon, Tue, Wed 0600-1800Z; Fri and Hol eve 0500-1700Z; Sat and Hol 0600-1800Z, Jewish New Year's eve Apt closed for Arrival/Departure at 1600Z, Yom Kipur - Day of Atonement at 1200Z untill holiday's following day. ATND SKD Sun-Thu 0500. Customs: PPR with Operation and Security Center. Landing and takeoff of Helicopters in medical evacuation or Israeli Police in operational emergency is allowed beyond operational hours for refueling purposes only, and requires prior coordination with AD Administration. F-3, Jet A-1. ABN. Fire 5.",
+      "15/33 - HIRL. Rwy 33 Right-Hand Circuit. Use of CWY for Rwy 15 - coordination with ATC is required before line-up. Mon-Wed 0600-1800Z, 1800-2000Z for skd commercial flt with mim 30 PAX; Sun, Thu 0600-2000Z; Fri, Hol eve 0500-1700Z; Sat, Hol 0600-1800Z, Jewish New Year's eve Apt clsd for Arr/Dep at 1600Z, Yom Kipur-Day of Atonement at 1200Z until hol's following day. A. Customs: PPR with Operation and Security Center. Landing and takeoff of Helicopters in medical evacuation or Israeli Police in operational emergency is allowed beyond operational hours for refueling purposes only, and requires prior coordination with AD Administration. F-3, Jet A-1. ABN. Fire 5.",
       32.8016666666667,
       35.035,
-      "PCN 39/F/C/Y/T, "
+      "PCN 39/F/C/Y/T"
     ]
   ],
   "OJAI": [
@@ -18585,7 +18585,7 @@
       13123,
       13123,
       13123,
-      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. Customs: H24. Jet A-1. Fire 10.",
+      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. ATND SKD H24. Customs: H24. Jet A-1. Fire 10.",
       23.6,
       58.2833333333333,
       "PCN 91/F/A/W/T"
@@ -18603,7 +18603,7 @@
       13123,
       13123,
       12598,
-      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. Customs: H24. Jet A-1. Fire 10.",
+      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. ATND SKD H24. Customs: H24. Jet A-1. Fire 10.",
       23.6,
       58.2833333333333,
       "PCN 91/F/A/W/T"
@@ -18621,7 +18621,7 @@
       13386,
       13386,
       11811,
-      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. Customs: H24. Jet A-1. Fire 10.",
+      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. ATND SKD H24. Customs: H24. Jet A-1. Fire 10.",
       23.6,
       58.2833333333333,
       "PCN 91/F/A/W/T"
@@ -18639,7 +18639,7 @@
       13386,
       13386,
       13386,
-      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. Customs: H24. Jet A-1. Fire 10.",
+      "08L/26R - HIRL. Rwy 26R Right-Hand Circuit. Rwy closed between 0100-0200Z on Sun, Mon and Wed. Warning: unless otherwise notified by ATC, pilots should only land on the Rwy in use that is indicated by the flashing white RTIL. Closed Rwy will be marked by an illuminated white X and should not be used for landing under any circumstances. 08R/26L - RL. H24. Non-scheduled and private flights 72hr PPR. ATND SKD H24. Customs: H24. Jet A-1. Fire 10.",
       23.6,
       58.2833333333333,
       "PCN 91/F/A/W/T"
@@ -18659,7 +18659,7 @@
       13114,
       13114,
       13114,
-      "07/25 - ASPHALT. HIRL. HIALS. Rwy 07 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9 , CAT 10 O/R.",
+      "07/25 - ASPHALT. HIRL. HIALS. Rwy 07 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 , CAT 10 O/R.",
       17.0341666666667,
       54.0847222222222,
       "PCN 98/F/A/W/T"
@@ -18677,7 +18677,7 @@
       13114,
       13114,
       13114,
-      "07/25 - ASPHALT. HIRL. HIALS. Rwy 07 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9 , CAT 10 O/R.",
+      "07/25 - ASPHALT. HIRL. HIALS. Rwy 07 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 , CAT 10 O/R.",
       17.0341666666667,
       54.0847222222222,
       "PCN 98/F/A/W/T"
@@ -19637,7 +19637,7 @@
       13123,
       13123,
       13123,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 78/F/A/W/T"
@@ -19655,7 +19655,7 @@
       13123,
       13123,
       13123,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 78/F/A/W/T"
@@ -19673,7 +19673,7 @@
       13123,
       13123,
       13123,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 72/F/A/W/T"
@@ -19691,7 +19691,7 @@
       13123,
       13123,
       13123,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 72/F/A/W/T"
@@ -19709,7 +19709,7 @@
       12467,
       12467,
       12467,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 77/F/A/W/T"
@@ -19727,7 +19727,7 @@
       12467,
       12467,
       12467,
-      "16C/34C - ASPHALT. HIRL. HIALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. HIALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
+      "16C/34C - ASPHALT. HIRL. ALS. Rwy 34C Right-Hand Circuit. 16L/34R - ASPHALT. HIRL. HIALS. Rwy 34R Right-Hand Circuit. 16R/34L - ASPHALT. HIRL. ALS. Rwy 34L Right-Hand Circuit. H24. Customs. JP-4, JP-1. ABN. Fire 10.",
       21.6691666666667,
       39.1511111111111,
       "PCN 77/F/A/W/T"
@@ -20575,7 +20575,7 @@
       9547,
       9891,
       9547,
-      "09R/27L - HIRL. ALS 27L. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 4 Cat 7 avbl.",
+      "09L/27R - PAVED. ALS 27R. 09R/27L - HIRL. ALS 27L. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 4 Cat 9 avbl.",
       36.1688888888889,
       37.2183333333333,
       "PCN 56/F/D/X/T"
@@ -20593,7 +20593,7 @@
       9547,
       9826,
       9547,
-      "09R/27L - HIRL. ALS 27L. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 4 Cat 7 avbl.",
+      "09L/27R - PAVED. ALS 27R. 09R/27L - HIRL. ALS 27L. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 4 Cat 9 avbl.",
       36.1688888888889,
       37.2183333333333,
       "PCN 56/F/D/X/T"
@@ -20870,15 +20870,15 @@
       4,
       "Ankara (Esenboga Intl)",
       "ESB",
-      3127,
+      3158,
       11125,
       11125,
       11322,
       11125,
-      "03L/21R - HIRL. ALS. 03R/21L - HIRL. ALS. H24. Customs. F-3, Jet A-1. ABN. Fire 10.",
+      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
       40.1186111111111,
       32.9852777777778,
-      "PCN 110/F/C/W/T"
+      "PCN 139/F/A/W/T"
     ],
     [
       "RW21R",
@@ -20888,51 +20888,51 @@
       4,
       "Ankara (Esenboga Intl)",
       "ESB",
-      3127,
+      3158,
       11125,
       11125,
       12126,
       11125,
-      "03L/21R - HIRL. ALS. 03R/21L - HIRL. ALS. H24. Customs. F-3, Jet A-1. ABN. Fire 10.",
+      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
       40.1186111111111,
       32.9852777777778,
-      "PCN 110/F/C/W/T"
+      "PCN 139/F/A/W/T"
     ],
     [
       "RW03R",
       32,
       3099,
-      12310,
+      12303,
       4,
       "Ankara (Esenboga Intl)",
       "ESB",
-      3127,
-      12310,
-      12310,
-      12507,
-      12310,
-      "03L/21R - HIRL. ALS. 03R/21L - HIRL. ALS. H24. Customs. F-3, Jet A-1. ABN. Fire 10.",
+      3158,
+      12303,
+      12303,
+      12303,
+      12303,
+      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
       40.1186111111111,
       32.9852777777778,
-      "PCN 110/F/C/W/U"
+      "PCN 139/F/A/W/T,"
     ],
     [
       "RW21L",
       212,
       3126,
-      12310,
+      12303,
       4,
       "Ankara (Esenboga Intl)",
       "ESB",
-      3127,
-      12310,
-      12310,
-      12507,
-      12310,
-      "03L/21R - HIRL. ALS. 03R/21L - HIRL. ALS. H24. Customs. F-3, Jet A-1. ABN. Fire 10.",
+      3158,
+      12303,
+      12303,
+      12303,
+      12303,
+      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
       40.1186111111111,
       32.9852777777778,
-      "PCN 110/F/C/W/U"
+      "PCN 139/F/A/W/T,"
     ]
   ],
   "LTAF": [
@@ -20949,10 +20949,10 @@
       9022,
       9022,
       9022,
-      "05/23 - ASPHALT. HIRL. HIALS 05. MIALS 23. Rwy 23 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. F-4, Jet A-1. ABN. Fire 7.",
+      "05/23 - ASPHALT. PCR: 880/F/A/W/T, HIRL. HIALS 05. MIALS 23. Rwy 23 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. F-4, Jet A-1. ABN. Fire 7.",
       36.9691666666667,
       35.2688888888889,
-      "PCN 115/F/A/X/T"
+      "PCN 86/F/A/W/T"
     ],
     [
       "RW23",
@@ -20967,10 +20967,10 @@
       9022,
       9022,
       9022,
-      "05/23 - ASPHALT. HIRL. HIALS 05. MIALS 23. Rwy 23 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. F-4, Jet A-1. ABN. Fire 7.",
+      "05/23 - ASPHALT. PCR: 880/F/A/W/T, HIRL. HIALS 05. MIALS 23. Rwy 23 Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. F-4, Jet A-1. ABN. Fire 7.",
       36.9691666666667,
       35.2688888888889,
-      "PCN 115/F/A/X/T"
+      "PCN 86/F/A/W/T"
     ]
   ],
   "LTAI": [
@@ -21436,7 +21436,7 @@
       "07/25 - HIRL. ALS 07. HIALS 25. H24. Domestic and foreign Acft PPR 48 hr. ATND SKD H24. Customs: H24. F-4, Jet A-1, JP-8. ABN. Fire 9.",
       38.7672222222222,
       35.4852777777778,
-      "PCN 107/R/D/W/T,"
+      "PCN 107/R/D/W/T"
     ],
     [
       "RW25",
@@ -21454,7 +21454,7 @@
       "07/25 - HIRL. ALS 07. HIALS 25. H24. Domestic and foreign Acft PPR 48 hr. ATND SKD H24. Customs: H24. F-4, Jet A-1, JP-8. ABN. Fire 9.",
       38.7672222222222,
       35.4852777777778,
-      "PCN 107/R/D/W/T,"
+      "PCN 107/R/D/W/T"
     ]
   ],
   "LTAW": [
@@ -21471,10 +21471,10 @@
       8858,
       8858,
       8858,
-      "06/24 - CONCRETE. HIRL. MIALS 24. By NOTAM. ATND SKD By NOTAM. Customs: By NOTAM. Jet A-1. ABN. Fire 7.",
+      "06/24 - CONCRETE. PCR: 1090/R/A/W/T, HIRL. MIALS 24. By NOTAM. ATND SKD By NOTAM. Customs: By NOTAM. Jet A-1. ABN. Fire 7.",
       40.3180555555556,
       36.3844444444444,
-      "PCN 110/R/C/W/T,"
+      "PCN 108/R/A/W/T"
     ],
     [
       "RW24",
@@ -21489,10 +21489,10 @@
       8858,
       8858,
       8858,
-      "06/24 - CONCRETE. HIRL. MIALS 24. By NOTAM. ATND SKD By NOTAM. Customs: By NOTAM. Jet A-1. ABN. Fire 7.",
+      "06/24 - CONCRETE. PCR: 1090/R/A/W/T, HIRL. MIALS 24. By NOTAM. ATND SKD By NOTAM. Customs: By NOTAM. Jet A-1. ABN. Fire 7.",
       40.3180555555556,
       36.3844444444444,
-      "PCN 110/R/C/W/T,"
+      "PCN 108/R/A/W/T"
     ]
   ],
   "LTAY": [
@@ -21887,7 +21887,7 @@
       9810,
       9810,
       9810,
-      "09/27 - CONCRETE. HIRL. HIALS 27. By NOTAM. Customs: As sked flights. F-4, Jet A-1, JP-8. ABN. Fire 7 , Cat 4 (During mil base ops).",
+      "09/27 - CONCRETE. HIRL. HIALS 27. By NOTAM. ATND SKD By NOTAM (Prior request). Customs: Available during international flights. F-4, Jet A-1, JP-8. ABN. Fire 7 , Cat 4 (During mil base ops).",
       40.7336111111111,
       30.0833333333333,
       "PCN 80/R/C/W/T, "
@@ -21905,7 +21905,7 @@
       9810,
       9810,
       9810,
-      "09/27 - CONCRETE. HIRL. HIALS 27. By NOTAM. Customs: As sked flights. F-4, Jet A-1, JP-8. ABN. Fire 7 , Cat 4 (During mil base ops).",
+      "09/27 - CONCRETE. HIRL. HIALS 27. By NOTAM. ATND SKD By NOTAM (Prior request). Customs: Available during international flights. F-4, Jet A-1, JP-8. ABN. Fire 7 , Cat 4 (During mil base ops).",
       40.7336111111111,
       30.0833333333333,
       "PCN 80/R/C/W/T, "
@@ -22152,7 +22152,7 @@
       "09/27 - CONCRETE. HIRL. MIALS 27. By NOTAM. ATND SKD As AD Working Hours (Connect with fuelling Customs: By operational requirements (For customs prior coordination is required). Customs and immigration services provided for international flight when requested. Jet A-1. ABN. Fire 7.",
       39.8019444444444,
       30.5172222222222,
-      "PCN 110/R/D/W/T,"
+      "PCN 110/R/D/W/T"
     ],
     [
       "RW27",
@@ -22170,7 +22170,7 @@
       "09/27 - CONCRETE. HIRL. MIALS 27. By NOTAM. ATND SKD As AD Working Hours (Connect with fuelling Customs: By operational requirements (For customs prior coordination is required). Customs and immigration services provided for international flight when requested. Jet A-1. ABN. Fire 7.",
       39.8019444444444,
       30.5172222222222,
-      "PCN 110/R/D/W/T,"
+      "PCN 110/R/D/W/T"
     ]
   ],
   "LTBZ": [
@@ -22225,10 +22225,10 @@
       9843,
       9843,
       9843,
-      "07L/25R - CONCRETE. HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
+      "07L/25R - CONCRETE. PCR: 990/R/A/W/T, HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. PCR: 1070/R/A/W/T, HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
       38.5858333333333,
       39.2691666666667,
-      "PCN 110/R/C/W/T"
+      "PCN 98/R/A/W/T"
     ],
     [
       "RW25R",
@@ -22243,10 +22243,10 @@
       9843,
       9843,
       9843,
-      "07L/25R - CONCRETE. HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
+      "07L/25R - CONCRETE. PCR: 990/R/A/W/T, HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. PCR: 1070/R/A/W/T, HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
       38.5858333333333,
       39.2691666666667,
-      "PCN 110/R/C/W/T"
+      "PCN 98/R/A/W/T"
     ],
     [
       "RW07R",
@@ -22261,10 +22261,10 @@
       9843,
       9843,
       9843,
-      "07L/25R - CONCRETE. HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
+      "07L/25R - CONCRETE. PCR: 990/R/A/W/T, HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. PCR: 1070/R/A/W/T, HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
       38.5858333333333,
       39.2691666666667,
-      "PCN 110/R/C/W/T"
+      "PCN 107/R/A/W/T"
     ],
     [
       "RW25L",
@@ -22279,10 +22279,10 @@
       9843,
       9843,
       9843,
-      "07L/25R - CONCRETE. HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
+      "07L/25R - CONCRETE. PCR: 990/R/A/W/T, HIRL. MIALS. Rwy 07L/25R shall be used as Twy by civil Acft. It can be used as Rwy for landing and take off in emergency situations and when Rwy 07R/25L - CONCRETE. PCR: 1070/R/A/W/T, HIRL. H24. Customs. Jet A-1. ABN. Fire 7.",
       38.5858333333333,
       39.2691666666667,
-      "PCN 110/R/C/W/T"
+      "PCN 107/R/A/W/T"
     ]
   ],
   "LTCB": [
@@ -22523,7 +22523,7 @@
       11483,
       11483,
       11483,
-      "06L/24R - ASPHALT. HIRL. MIALS 06L. Rwy 06L/24R shall be used as Twy by civil Acft. It can be used as Rwy for landing or take off in emergency situations and when Rwy 06R/24L - ASPHALT. LCN 95. HIRL. MIALS 06R. By NOTAM. Customs. Jet A-1. ABN. Fire 7.",
+      "06L/24R - ASPHALT. HIRL. MIALS 06L. Rwy 06L/24R shall be used as Twy by civil Acft. It can be used as Rwy for landing or take off in emergency situations and when Rwy 06R/24L - ASPHALT. LCN 95, HIRL. MIALS 06R. By NOTAM. Customs. Jet A-1. ABN. Fire 7.",
       40.5519444444444,
       43.1025,
       "PCN 75/F/C/W/T"
@@ -22541,7 +22541,7 @@
       11483,
       11483,
       11483,
-      "06L/24R - ASPHALT. HIRL. MIALS 06L. Rwy 06L/24R shall be used as Twy by civil Acft. It can be used as Rwy for landing or take off in emergency situations and when Rwy 06R/24L - ASPHALT. LCN 95. HIRL. MIALS 06R. By NOTAM. Customs. Jet A-1. ABN. Fire 7.",
+      "06L/24R - ASPHALT. HIRL. MIALS 06L. Rwy 06L/24R shall be used as Twy by civil Acft. It can be used as Rwy for landing or take off in emergency situations and when Rwy 06R/24L - ASPHALT. LCN 95, HIRL. MIALS 06R. By NOTAM. Customs. Jet A-1. ABN. Fire 7.",
       40.5519444444444,
       43.1025,
       "PCN 75/F/C/W/T"
@@ -22825,10 +22825,10 @@
       9843,
       9843,
       9843,
-      "16/34 - CONCRETE. HIRL. By NOTAM. Customs: Avbl during Intl flights. Jet A-1. ABN. Fire 7.",
+      "16/34 - CONCRETE. PCR: 950/R/B/W/T. HIRL. By NOTAM. Customs: Avbl during Intl flights. Jet A-1. ABN. Fire 7.",
       39.6355555555556,
       43.0186111111111,
-      "PCN 110/R/D/W/T"
+      "PCN 90/R/B/W/T, "
     ],
     [
       "RW34",
@@ -22843,10 +22843,10 @@
       9843,
       9843,
       9843,
-      "16/34 - CONCRETE. HIRL. By NOTAM. Customs: Avbl during Intl flights. Jet A-1. ABN. Fire 7.",
+      "16/34 - CONCRETE. PCR: 950/R/B/W/T. HIRL. By NOTAM. Customs: Avbl during Intl flights. Jet A-1. ABN. Fire 7.",
       39.6355555555556,
       43.0186111111111,
-      "PCN 110/R/D/W/T"
+      "PCN 90/R/B/W/T, "
     ]
   ],
   "LTCP": [
@@ -22939,10 +22939,10 @@
       13123,
       13123,
       13123,
-      "04/22 - CONCRETE. HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 9.",
+      "04/22 - CONCRETE. PCR: 920/R/A/W/T. HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 9.",
       37.4511111111111,
       38.9013888888889,
-      "PCN 110/R/A/W/T"
+      "PCN 90/R/A/W/T, "
     ],
     [
       "RW22",
@@ -22957,10 +22957,10 @@
       13123,
       13123,
       13123,
-      "04/22 - CONCRETE. HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 9.",
+      "04/22 - CONCRETE. PCR: 920/R/A/W/T. HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 9.",
       37.4511111111111,
       38.9013888888889,
-      "PCN 110/R/A/W/T"
+      "PCN 90/R/A/W/T, "
     ]
   ],
   "LTCT": [
@@ -24023,7 +24023,7 @@
       10007,
       10007,
       10007,
-      "11/29 - ASPHALT. HIRL. Rwy 11 Runway closed. Rwy 29 Runway closed. Rwy 11 Right-Hand Circuit. 11R/29L - ASPHALT. HIRL. Rwy 11R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1, JP-8. ABN. Fire 9 , 10 operation available.",
+      "11/29 - ASPHALT. PCR: 1200/F/A/X/T, HIRL. Rwy 11 Runway closed. Rwy 29 Runway closed. Rwy 11 Right-Hand Circuit. 11R/29L - ASPHALT. PCR: 1270/F/A/X/T, HIRL. Rwy 11R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1, JP-8. ABN. Fire 9 , 10 operation available.",
       25.1019444444444,
       56.3177777777778,
       "PCN 139/F/A/X/T"
@@ -24041,7 +24041,7 @@
       10007,
       10007,
       10007,
-      "11/29 - ASPHALT. HIRL. Rwy 11 Runway closed. Rwy 29 Runway closed. Rwy 11 Right-Hand Circuit. 11R/29L - ASPHALT. HIRL. Rwy 11R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1, JP-8. ABN. Fire 9 , 10 operation available.",
+      "11/29 - ASPHALT. PCR: 1200/F/A/X/T, HIRL. Rwy 11 Runway closed. Rwy 29 Runway closed. Rwy 11 Right-Hand Circuit. 11R/29L - ASPHALT. PCR: 1270/F/A/X/T, HIRL. Rwy 11R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1, JP-8. ABN. Fire 9 , 10 operation available.",
       25.1019444444444,
       56.3177777777778,
       "PCN 139/F/A/X/T"
@@ -24064,7 +24064,7 @@
       "16/34 - HIRL. HIALS 34. Rwy 16/34 will be closed for planned maintenance every Tue 0500-0800Z. During planned maintenance PPR for training flights and to expect missed approach not below 500' AGL. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7 , CAT 9 60min PPR.",
       25.6022222222222,
       55.9341666666667,
-      "PCN 57/F/B/W/T, "
+      "PCN 57/F/B/W/T"
     ],
     [
       "RW34",
@@ -24082,7 +24082,7 @@
       "16/34 - HIRL. HIALS 34. Rwy 16/34 will be closed for planned maintenance every Tue 0500-0800Z. During planned maintenance PPR for training flights and to expect missed approach not below 500' AGL. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7 , CAT 9 60min PPR.",
       25.6022222222222,
       55.9341666666667,
-      "PCN 57/F/B/W/T, "
+      "PCN 57/F/B/W/T"
     ]
   ],
   "OMSJ": [
@@ -24313,7 +24313,7 @@
       "PCN 60"
     ]
   ],
-"ZBAA": [
+  "ZBAA": [
     [
       "RW18L",
       181,
@@ -26825,7 +26825,7 @@
       10827,
       10827,
       10499,
-      "18L/36R - Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
+      "18L/36R - HIRL. Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - HIRL. Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
       31.1855555555556,
       121.333611111111,
       ""
@@ -26843,7 +26843,7 @@
       10827,
       10827,
       10499,
-      "18L/36R - Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
+      "18L/36R - HIRL. Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - HIRL. Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
       31.1855555555556,
       121.333611111111,
       ""
@@ -26861,7 +26861,7 @@
       10531,
       10335,
       9350,
-      "18L/36R - Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
+      "18L/36R - HIRL. Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - HIRL. Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
       31.1855555555556,
       121.333611111111,
       ""
@@ -26879,7 +26879,7 @@
       10531,
       10335,
       9350,
-      "18L/36R - Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
+      "18L/36R - HIRL. Rwy 18L Right-Hand Circuit. first 100m concrete PCR: 880/R/B/W/T. 18R/36L - HIRL. Rwy 18R Right-Hand Circuit. H24. Customs: During sked operations and O/R. Jet A-1, J. Fire 9.",
       31.1855555555556,
       121.333611111111,
       ""
@@ -28548,7 +28548,7 @@
       "11/29 - ASPHALT. MIRL. MIALS 29. By operational requirements. Jet A-1. Fire 4.",
       43.6013888888889,
       104.366666666667,
-      "PCN 18/F/B/Y/T"
+      "PCN 32/F/B/Y/T"
     ],
     [
       "RW29",
@@ -28566,7 +28566,7 @@
       "11/29 - ASPHALT. MIRL. MIALS 29. By operational requirements. Jet A-1. Fire 4.",
       43.6013888888889,
       104.366666666667,
-      "PCN 18/F/B/Y/T"
+      "PCN 32/F/B/Y/T"
     ]
   ],
   "ZMKB": [
