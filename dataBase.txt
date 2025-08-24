@@ -1,4 +1,60 @@
 {
+"OOOO": [
+[
+"RW01", 
+7, 
+110, 
+10171, 
+7, 
+"Gelendzhik", 
+"GDZ", 
+131, 
+10171, 
+5905, 
+5905, 
+10171, 
+"01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",  
+44.5691666666667, 
+38.0022222222222, 
+"PCN 62/F/D/X/T"
+],
+[
+"RW01",
+ 7,
+ 110,
+ 10171,
+ 7,
+ "Gelendzhik",
+ "GDZ",
+ 131,
+ 10171,
+ 6561,
+ 6561,
+ 10171,
+ "01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+  44.5691666666667,
+ 38.0022222222222,
+ "PCN 62/F/D/X/T"
+],
+[
+"RW19",
+ 187,
+ 131,
+ 10171,
+ 7,
+ "Gelendzhik",
+"GDZ",
+ 131,
+ 10171,
+ 10663,
+ 10171,
+ 0,
+ "01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+  44.5691666666667,
+ 38.0022222222222,
+ "PCN 62/F/D/X/T"
+]
+],
   "UDSG": [
     [
       "RW02",
@@ -28722,3 +28778,4 @@
     ]
   ]
 }
+
