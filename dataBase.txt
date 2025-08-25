@@ -1,60 +1,78 @@
 {
-"OOOO": [
-[
-"RW01", 
-7, 
-90, 
-10171, 
-7, 
-"Gelendzhik", 
-"GDZ", 
-131, 
-5906, 
-5906, 
-5906, 
-10171, 
-"01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",  
-44.5691666666667, 
-38.0022222222222, 
-"PCN 62/F/D/X/T"
-],
-[
-"RW01EXT",
- 7,
- 90,
- 10171,
- 7,
- "Gelendzhik",
- "GDZ",
- 131,
- 6562,
- 6562,
- 6562,
- 0,
- "01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
-  44.5691666666667,
- 38.0022222222222,
- "PCN 62/F/D/X/T"
-],
-[
-"RW19",
- 187,
- 131,
- 10171,
- 7,
- "Gelendzhik",
-"GDZ",
- 131,
- 10171,
- 10663,
- 10171,
- 0,
- "01/19 - Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
-  44.5691666666667,
- 38.0022222222222,
- "PCN 62/F/D/X/T"
-]
-],
+"URKG": [
+    [
+      "RW01",
+      7,
+      90,
+      10171,
+      7,
+      "Gelendzhik",
+      "GDZ",
+      131,
+      5906,
+      5906,
+      5906,
+      10171,
+      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      44.5691666666667,
+      38.0022222222222,
+      "PCN 62/F/D/X/T"
+    ],
+    [
+      "RW01EXT",
+      7,
+      90,
+      10171,
+      7,
+      "Gelendzhik",
+      "GDZ",
+      131,
+      6562,
+      6562,
+      6562,
+      0,
+      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      44.5691666666667,
+      38.0022222222222,
+      "PCN 62/F/D/X/T"
+    ],
+    [
+      "RW19",
+      187,
+      131,
+      10171,
+      7,
+      "Gelendzhik",
+      "GDZ",
+      131,
+      10171,
+      10663,
+      10171,
+      0,
+      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      44.5691666666667,
+      38.0022222222222,
+      "PCN 62/F/D/X/T"
+    ],
+    [
+      "RW19EXT",
+      187,
+      131,
+      10171,
+      7,
+      "Gelendzhik",
+      "GDZ",
+      131,
+      10171,
+      0,
+      0,
+      0,
+      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      44.5691666666667,
+      38.0022222222222,
+      "PCN 62/F/D/X/T"
+    ]
+  ],
   "UDSG": [
     [
       "RW02",
@@ -28778,6 +28796,7 @@
     ]
   ]
 }
+
 
 
 
