@@ -1,38 +1,36 @@
 {
-  "RA-09001": {
+  "RA-09000": {
     "version": "B",
     "aircraft": [24452.0, 112.628],
-    "cockpit": [
-      {"label": "Cockpit crew:", "weight": 340.0, "position": -10.581},
-      {"label": "Cabin crew:", "weight": 170.0, "position": 0.930}
-    ],
-    "aircraft items": [
-      {"label": "Flight Deck Crew Baggage:", "weight": 44.0, "position": 0.616},
-      {"label": "Cabin Crew baggage:", "weight": 22.0, "position": 0.308},
-      {"label": "Pantry:", "weight": 220.0, "position": -4.915},
-      {"label": "Aircraft & Nav Documents:", "weight": 60.0, "position": -1.670},
-      {"label": "Life Jackets:", "weight": 26.0, "position": -0.300},
-      {"label": "Life Raft:", "weight": 139.0, "position": 0.380},
-      {"label": "Toilet Service - Aft Lav:", "weight": 24.0, "position": 0.210},
-      {"label": "Toilet Service - Crew Lav:", "weight": 18.0, "position": -0.460},
-      {"label": "Water Service:", "weight": 88.0, "position": 0.780}
-    ],
+    "cockpit": {
+      "Cockpit crew": [340.0, -10.581],
+      "Cabin crew": [170.0, 0.930]
+    },
+    "aircraft_items": {
+      "Flight Deck Crew Baggage": [44.0, 0.616],
+      "Cabin Crew baggage": [22.0, 0.308],
+      "Pantry": [220.0, -4.915],
+      "Aircraft & Nav Documents": [60.0, -1.670],
+      "Life Jackets": [26.0, -0.300],
+      "Life Raft": [139.0, 0.380],
+      "Toilet Service - Aft Lav": [24.0, 0.210],
+      "Toilet Service - Crew Lav": [18.0, -0.460],
+      "Water Service": [88.0, 0.780]
+    },
     "cabin": [
-      {"label": "Seat 1:", "weight": 0.0, "position": -182.4},
-      {"label": "Seat 2:", "weight": 0.0, "position": -182.4},
-      {"label": "Seat 3:", "weight": 0.0, "position": -135.3},
-      {"label": "Seat 4:", "weight": 0.0, "position": -135.3},
-      {"label": "Seat 5:", "weight": 0.0, "position": -94.1},
-      {"label": "Seat 6:", "weight": 0.0, "position": -94.1},
-      {"label": "Seat 7:", "weight": 0.0, "position": -35.3},
-      {"label": "Seat 8:", "weight": 0.0, "position": -35.3},
-      {"label": "Seat 9:", "weight": 0.0, "position": 5.3},
-      {"label": "Seat 10:", "weight": 0.0, "position": 5.3},
-      {"label": "Seat 11:", "weight": 0.0, "position": 26.8},
-      {"label": "Seat 12:", "weight": 0.0, "position": 26.8},
-      {"label": "Seat 13:", "weight": 0.0, "position": 52.9},
-      {"label": "Seat 14:", "weight": 0.0, "position": 52.9},
-      {"label": "cargo", "weight": 0.0, "position": 140.0}
+      {"Seat": "1", "weight": 0.0, "position": -200.0},
+      {"Seat": "2", "weight": 0.0, "position": -200.0},
+      {"Seat": "3", "weight": 0.0, "position": -138.0},
+      {"Seat": "4", "weight": 0.0, "position": -138.0},
+      {"Seat": "5", "weight": 0.0, "position": -88.0},
+      {"Seat": "6", "weight": 0.0, "position": -88.0},
+      {"Seat": "7", "weight": 0.0, "position": -42.1},
+      {"Seat": "8", "weight": 0.0, "position": -42.1},
+      {"Seat": "9", "weight": 0.0, "position": 5.3},
+      {"Seat": "10", "weight": 0.0, "position": 29.1},
+      {"Seat": "11", "weight": 0.0, "position": 29.1},
+      {"Seat": "12", "weight": 0.0, "position": 54.7},
+      {"cargo": [0.0, 140.0]}
     ],
     "fuel": [
       [500.0, -0.67],
