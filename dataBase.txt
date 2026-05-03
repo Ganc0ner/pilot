@@ -41,16 +41,16 @@
     [
       "RW03",
       26,
-      2900,
-      8694,
+      2898,
+      9229,
       7,
       "Yerevan (Erebuni)",
       "UDYE",
       2955,
-      8530,
-      9022,
-      8530,
-      8530,
+      9229,
+      9229,
+      9229,
+      9229,
       "03/21 - RL. ALS 03. H24(MIL FIC). ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       40.1175,
       44.4525,
@@ -59,16 +59,16 @@
     [
       "RW21",
       206,
-      2955,
-      8694,
+      2963,
+      9229,
       7,
       "Yerevan (Erebuni)",
       "UDYE",
       2955,
-      8530,
-      9186,
-      8530,
-      7382,
+      9229,
+      9885,
+      9229,
+      7674,
       "03/21 - RL. ALS 03. H24(MIL FIC). ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       40.1175,
       44.4525,
@@ -89,7 +89,7 @@
       13943,
       12631,
       12631,
-      "08/26 - HIRL. ALS 08. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
+      "08/26 - ASPH/CONC. - NONE. - NONE.",
       40.1355555555556,
       44.3855555555556,
       "PCN 80/R/C/X/T"
@@ -107,7 +107,7 @@
       13615,
       12631,
       12631,
-      "08/26 - HIRL. ALS 08. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
+      "08/26 - ASPH/CONC. - NONE. - NONE.",
       40.1355555555556,
       44.3855555555556,
       "PCN 80/R/C/X/T"
@@ -153,7 +153,7 @@
     [
       "RW17",
       173,
-      10,
+      11,
       10499,
       6,
       "Baku (Heydar Aliyev Intl)",
@@ -266,16 +266,16 @@
   "UBBL": [
     [
       "RW15",
-      146,
-      -52,
+      145,
+      -51,
       10827,
-      5,
+      6,
       "Lenkoran",
       "LLK",
       -35,
       10827,
       11811,
-      11024,
+      10827,
       10827,
       "15/33 - HIRL. 0200-2000Z. Customs: By operational requirements. Fire 6 H24.",
       38.7513888888889,
@@ -284,16 +284,16 @@
     ],
     [
       "RW33",
-      326,
-      -35,
+      325,
+      -34,
       10827,
-      5,
+      6,
       "Lenkoran",
       "LLK",
       -35,
       10827,
       11811,
-      11024,
+      10827,
       10827,
       "15/33 - HIRL. 0200-2000Z. Customs: By operational requirements. Fire 6 H24.",
       38.7513888888889,
@@ -378,10 +378,10 @@
   "UBBQ": [
     [
       "RW16",
-      161,
+      160,
       1129,
       11417,
-      6,
+      7,
       "Gabala",
       "GBB",
       1129,
@@ -396,10 +396,10 @@
     ],
     [
       "RW34",
-      341,
+      340,
       1116,
       11417,
-      6,
+      7,
       "Gabala",
       "GBB",
       1129,
@@ -530,10 +530,10 @@
   "UMGG": [
     [
       "RW10",
-      103,
+      102,
       460,
       8428,
-      8,
+      9,
       "Homiel",
       "GME",
       471,
@@ -548,10 +548,10 @@
     ],
     [
       "RW28",
-      283,
+      282,
       467,
       8428,
-      8,
+      9,
       "Homiel",
       "GME",
       471,
@@ -579,7 +579,7 @@
       9370,
       8550,
       8550,
-      "05/23 - CONC/ASPH. - NONE. - NONE.",
+      "05/23 - RL. Mon-Fri 0600-1330Z; day proceeding the legal holiday 0600-1230Z. O/T PPR. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A-1. Fire 6 , CAT 7 O/R.",
       55.1183333333333,
       30.35,
       "PCN 33/R/B/X/T"
@@ -597,7 +597,7 @@
       9534,
       8550,
       8550,
-      "05/23 - CONC/ASPH. - NONE. - NONE.",
+      "05/23 - RL. Mon-Fri 0600-1330Z; day proceeding the legal holiday 0600-1230Z. O/T PPR. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A-1. Fire 6 , CAT 7 O/R.",
       55.1183333333333,
       30.35,
       "PCN 33/R/B/X/T"
@@ -617,7 +617,7 @@
       9846,
       9846,
       9846,
-      "05/23 - HIRL. ALS 05. Mon-Thu 0620-1330Z, Fri 0620-1215Z. Sat, Sun, Hol unserviceable. Day proceeding the legal Hol Mon-Thu 0620-1230Z, Fri 0620-1115Z. ATND SKD By operational requirements. Customs: By operational requirements. Jet A-1. Fire 8 Fire protection level category is depending on the Acft type declared on the days of Flt Ops.",
+      "05/23 - HIRL. ALS 05. Mon-Thu 0620-1330Z, Fri 0620-1205Z. Sat, Sun, Hol unserviceable. Day proceeding the legal Hol Mon-Thu 0620-1230Z, Fri 0620-1105Z. ATND SKD By operational requirements. Customs: By operational requirements. Jet A-1. Fire 8 Fire protection level category is depending on the Acft type declared on the days of Flt Ops.",
       54.4344444444444,
       30.2855555555556,
       "PCN 69/R/C/W/T"
@@ -635,7 +635,7 @@
       10830,
       9846,
       9846,
-      "05/23 - HIRL. ALS 05. Mon-Thu 0620-1330Z, Fri 0620-1215Z. Sat, Sun, Hol unserviceable. Day proceeding the legal Hol Mon-Thu 0620-1230Z, Fri 0620-1115Z. ATND SKD By operational requirements. Customs: By operational requirements. Jet A-1. Fire 8 Fire protection level category is depending on the Acft type declared on the days of Flt Ops.",
+      "05/23 - HIRL. ALS 05. Mon-Thu 0620-1330Z, Fri 0620-1205Z. Sat, Sun, Hol unserviceable. Day proceeding the legal Hol Mon-Thu 0620-1230Z, Fri 0620-1105Z. ATND SKD By operational requirements. Customs: By operational requirements. Jet A-1. Fire 8 Fire protection level category is depending on the Acft type declared on the days of Flt Ops.",
       54.4344444444444,
       30.2855555555556,
       "PCN 69/R/C/W/T"
@@ -693,7 +693,7 @@
       13123,
       12139,
       12139,
-      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
+      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
       53.8691666666667,
       28.0188888888889,
       "PCN 85/R/B/W/T"
@@ -711,7 +711,7 @@
       13123,
       12139,
       12139,
-      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
+      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
       53.8691666666667,
       28.0188888888889,
       "PCN 85/R/B/W/T"
@@ -729,7 +729,7 @@
       13258,
       11946,
       11946,
-      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
+      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
       53.8691666666667,
       28.0188888888889,
       "PCN 50/R/B/X/T"
@@ -747,7 +747,7 @@
       13258,
       11946,
       11946,
-      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
+      "13L/31R - HIRL. ALS 13L. 13R/31L - HIRL. ALS 31L. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9 H24.",
       53.8691666666667,
       28.0188888888889,
       "PCN 50/R/B/X/T"
@@ -767,7 +767,7 @@
       8911,
       8419,
       8419,
-      "13/31 - RL. Mon-Thu 0700-1350Z; Fri 0700-1235Z; Sat, Sun, Hol unserviceable; Day proceeding the legal holiday Mon-Thu 0700-1250Z, Fri 0700-1135Z; PPR 48hr in advance. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A. Fire 6 , CAT 7 O/R.",
+      "13/31 - RL. Mon, Thu 1200-1830Z, Tue, Wed, Fri 0700-1300Z; Sat, Sun, Hol unserviceable; Day proceeding the legal holiday: Mon, Thu 1300-1830Z, Tue, Wed, Fri 0700-1200Z; PPR 48hr in advance. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A. Fire 6 , CAT 7 O/R.",
       53.9508333333333,
       30.085,
       "PCN 30/R/C/X/T"
@@ -785,7 +785,7 @@
       8911,
       8419,
       8419,
-      "13/31 - RL. Mon-Thu 0700-1350Z; Fri 0700-1235Z; Sat, Sun, Hol unserviceable; Day proceeding the legal holiday Mon-Thu 0700-1250Z, Fri 0700-1135Z; PPR 48hr in advance. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A. Fire 6 , CAT 7 O/R.",
+      "13/31 - RL. Mon, Thu 1200-1830Z, Tue, Wed, Fri 0700-1300Z; Sat, Sun, Hol unserviceable; Day proceeding the legal holiday: Mon, Thu 1300-1830Z, Tue, Wed, Fri 0700-1200Z; PPR 48hr in advance. ATND SKD By operational requirements. Customs: By operational requirements. F-3, Jet A. Fire 6 , CAT 7 O/R.",
       53.9508333333333,
       30.085,
       "PCN 30/R/C/X/T"
@@ -794,8 +794,8 @@
   "LBBG": [
     [
       "RW04",
-      39,
-      89,
+      38,
+      90,
       10505,
       6,
       "Burgas",
@@ -812,8 +812,8 @@
     ],
     [
       "RW22",
-      219,
-      120,
+      218,
+      121,
       10505,
       6,
       "Burgas",
@@ -870,7 +870,7 @@
   "LBPD": [
     [
       "RW12",
-      122,
+      121,
       563,
       8202,
       5,
@@ -888,7 +888,7 @@
     ],
     [
       "RW30",
-      302,
+      301,
       603,
       8202,
       5,
@@ -911,7 +911,7 @@
       89,
       1739,
       11811,
-      5,
+      6,
       "Sofia (Vasil Levski - Sofia)",
       "SOF",
       1745,
@@ -929,7 +929,7 @@
       269,
       1745,
       11811,
-      5,
+      6,
       "Sofia (Vasil Levski - Sofia)",
       "SOF",
       1745,
@@ -1136,7 +1136,7 @@
   "LKPD": [
     [
       "RW09",
-      88,
+      87,
       736,
       8202,
       5,
@@ -1147,14 +1147,14 @@
       8907,
       8202,
       8202,
-      "09/27 - HIRL. Rwy 09 Right-Hand Circuit. H24, for civil planes Mon-Sun 0700-1800Z, O/T O/R 24hr before in operational hrs contact ATND SKD H24 - O/R 3hr before, for civil planes Mon-Sun 0700-1800Z. Customs: O/R. F-3, Jet A-1. Fire 7 Higher CAT O/R 24h in advance.",
+      "09/27 - HIRLRwy 09 Right-Hand CircuitH24, for civil planes Mon-Sun 0700-1800Z, O/T O/R 24hr before in operational hrs contact ATND SKD H24 - O/R 3hr before, for civil planes Mon-Sun 0700-1800ZCustoms: O/RF-3, Jet A-1Fire 7 Higher CAT O/R 24h in advance.",
       50.0022222222222,
       15.7341666666667,
       "PCN 48/R/B/W/T"
     ],
     [
       "RW27",
-      268,
+      267,
       731,
       8202,
       5,
@@ -1165,7 +1165,7 @@
       8760,
       8202,
       8202,
-      "09/27 - HIRL. Rwy 09 Right-Hand Circuit. H24, for civil planes Mon-Sun 0700-1800Z, O/T O/R 24hr before in operational hrs contact ATND SKD H24 - O/R 3hr before, for civil planes Mon-Sun 0700-1800Z. Customs: O/R. F-3, Jet A-1. Fire 7 Higher CAT O/R 24h in advance.",
+      "09/27 - HIRLRwy 09 Right-Hand CircuitH24, for civil planes Mon-Sun 0700-1800Z, O/T O/R 24hr before in operational hrs contact ATND SKD H24 - O/R 3hr before, for civil planes Mon-Sun 0700-1800ZCustoms: O/RF-3, Jet A-1Fire 7 Higher CAT O/R 24h in advance.",
       50.0022222222222,
       15.7341666666667,
       "PCN 48/R/B/W/T"
@@ -1324,13 +1324,13 @@
   "EEEI": [
     [
       "RW06",
-      62,
-      65,
+      61,
+      66,
       9022,
-      9,
+      10,
       "Amari",
       "EEEI",
-      68,
+      70,
       9022,
       10006,
       9514,
@@ -1342,13 +1342,13 @@
     ],
     [
       "RW24",
-      242,
+      241,
       60,
       9022,
-      9,
+      10,
       "Amari",
       "EEEI",
-      68,
+      70,
       9022,
       9514,
       9514,
@@ -1452,7 +1452,7 @@
       "08/26 - HIRL. ALS. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 8 H24.",
       59.4022222222222,
       24.8191666666667,
-      "PCN 60/F/B/X/T"
+      "PCN 60/F/B/X/T, "
     ],
     [
       "RW26",
@@ -1470,7 +1470,7 @@
       "08/26 - HIRL. ALS. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 8 H24.",
       59.4022222222222,
       24.8191666666667,
-      "PCN 60/F/B/X/T"
+      "PCN 60/F/B/X/T, "
     ]
   ],
   "EETU": [
@@ -1563,10 +1563,10 @@
       8202,
       8202,
       8202,
-      "12/30 - ASPH/CONC. HIRL. ALS 12. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 6 Cat 7 O/R.",
+      "12/30 - CONC/ASPH. PCR: 520/F/B/X/U. HIRL. ALS 12. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 6 Cat 7 O/R.",
       41.6016666666667,
       41.6,
-      "PCN 35/F/B/X/T"
+      "PCN 35/F/B/X/T, "
     ],
     [
       "RW30",
@@ -1581,10 +1581,10 @@
       8202,
       8202,
       8202,
-      "12/30 - ASPH/CONC. HIRL. ALS 12. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 6 Cat 7 O/R.",
+      "12/30 - CONC/ASPH. PCR: 520/F/B/X/U. HIRL. ALS 12. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 6 Cat 7 O/R.",
       41.6016666666667,
       41.6,
-      "PCN 35/F/B/X/T"
+      "PCN 35/F/B/X/T, "
     ]
   ],
   "UGTB": [
@@ -1628,7 +1628,7 @@
   "LHBP": [
     [
       "RW13L",
-      128,
+      127,
       496,
       12162,
       5,
@@ -1646,7 +1646,7 @@
     ],
     [
       "RW31R",
-      308,
+      307,
       416,
       12162,
       5,
@@ -1664,7 +1664,7 @@
     ],
     [
       "RW13R",
-      128,
+      127,
       448,
       9872,
       5,
@@ -1682,7 +1682,7 @@
     ],
     [
       "RW31L",
-      308,
+      307,
       448,
       9872,
       5,
@@ -1713,7 +1713,7 @@
       8202,
       8202,
       8202,
-      "04R/22L - HIRL. Rwy 04R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
+      "04R/22L - HIRL. Rwy 04R Right-Hand Circuit. Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. ATND SKD Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. Customs: Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. Jet A-1. Fire 6 , CAT 7 O/R.",
       47.4841666666667,
       21.6025,
       "PCN 53/R/B/W/T"
@@ -1731,7 +1731,7 @@
       8202,
       8202,
       7218,
-      "04R/22L - HIRL. Rwy 04R Right-Hand Circuit. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
+      "04R/22L - HIRL. Rwy 04R Right-Hand Circuit. Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. ATND SKD Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. Customs: Mon: 0500-2359Z; Tue, Wed, Fri, Sat: 0600-2000Z; Thu: 0600-2300Z, Sun: 0800-2100Z. Jet A-1. Fire 6 , CAT 7 O/R.",
       47.4841666666667,
       21.6025,
       "PCN 53/R/B/W/T"
@@ -1903,7 +1903,7 @@
       6558,
       6558,
       6509,
-      "02/20 - CONC/ASPH. - NONE. - NONE.",
+      "02/20 - MIALS. Rwy 02 Right-Hand Circuit. H24. Customs: PPR. F-3, Jet A-1. ABN. IBN. Fire 5.",
       47.1177777777778,
       20.2336111111111,
       "PCN 24/R/A/W/T"
@@ -1921,7 +1921,7 @@
       6558,
       6558,
       6509,
-      "02/20 - CONC/ASPH. - NONE. - NONE.",
+      "02/20 - MIALS. Rwy 02 Right-Hand Circuit. H24. Customs: PPR. F-3, Jet A-1. ABN. IBN. Fire 5.",
       47.1177777777778,
       20.2336111111111,
       "PCN 24/R/A/W/T"
@@ -1941,7 +1941,7 @@
       15748,
       14764,
       14764,
-      "05L/23R - HIRL. ALS 23R. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 2 and below. H24. Customs. Jet A-1. Fire 9.",
+      "05L/23R - HIRL. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 3 and below. H24. Customs. Jet A-1. Fire 9.",
       43.3508333333333,
       77.035,
       "PCN 51/R/A/W/T"
@@ -1956,10 +1956,10 @@
       "ALA",
       2238,
       14764,
-      15748,
       14764,
       14764,
-      "05L/23R - HIRL. ALS 23R. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 2 and below. H24. Customs. Jet A-1. Fire 9.",
+      14764,
+      "05L/23R - HIRL. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 3 and below. H24. Customs. Jet A-1. Fire 9.",
       43.3508333333333,
       77.035,
       "PCN 51/R/A/W/T"
@@ -1977,7 +1977,7 @@
       15420,
       14436,
       14436,
-      "05L/23R - HIRL. ALS 23R. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 2 and below. H24. Customs. Jet A-1. Fire 9.",
+      "05L/23R - HIRL. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 3 and below. H24. Customs. Jet A-1. Fire 9.",
       43.3508333333333,
       77.035,
       "PCN 65/R/B/X/T"
@@ -1995,7 +1995,7 @@
       12730,
       12730,
       12730,
-      "05L/23R - HIRL. ALS 23R. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 2 and below. H24. Customs. Jet A-1. Fire 9.",
+      "05L/23R - HIRL. 05R/23L - HIRL. ALS 23L. Rwy 05R/23L closed at surface condition code 3 and below. H24. Customs. Jet A-1. Fire 9.",
       43.3508333333333,
       77.035,
       "PCN 65/R/B/X/T"
@@ -2091,7 +2091,7 @@
       12795,
       11483,
       11483,
-      "04/22 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
+      "04/22 - HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
       51.0175,
       71.4666666666667,
       "PCN 73/F/C/W/T"
@@ -2109,7 +2109,7 @@
       12795,
       11483,
       11483,
-      "04/22 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
+      "04/22 - HIRL. ALS. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 9.",
       51.0175,
       71.4666666666667,
       "PCN 73/F/C/W/T"
@@ -2205,7 +2205,7 @@
       11975,
       11483,
       11483,
-      "13/31 - HIRL. ALS 13. H24. Customs. Jet A-1. Fire 7 , up to Cat 9 O/R.",
+      "13/31 - HIRL. ALS 13. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 5 , O/R up to CAT 7 for commercial passenger flights and up to CAT 8 for cargo flights.",
       42.8508333333333,
       71.3002777777778,
       "PCN 60/F/B/X/T"
@@ -2213,7 +2213,7 @@
     [
       "RW31",
       311,
-      2186,
+      2190,
       11483,
       6,
       "Taraz (Aulie-Ata)",
@@ -2223,7 +2223,7 @@
       11975,
       11483,
       10105,
-      "13/31 - HIRL. ALS 13. H24. Customs. Jet A-1. Fire 7 , up to Cat 9 O/R.",
+      "13/31 - HIRL. ALS 13. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 5 , O/R up to CAT 7 for commercial passenger flights and up to CAT 8 for cargo flights.",
       42.8508333333333,
       71.3002777777778,
       "PCN 60/F/B/X/T"
@@ -2281,7 +2281,7 @@
       9846,
       8533,
       8533,
-      "04/22 - HIRL. by NOTAM. Customs: 0200-1400Z. Jet A-1. Fire 5 , out of regulations Cat 3.",
+      "04/22 - HIRL. by NOTAM. ATND SKD 0200-1400Z. Customs: 0200-1400Z. Jet A-1. Fire 5 , out of regulations Cat 3.",
       47.7013888888889,
       67.7341666666667,
       "PCN 34/R/B/X/T"
@@ -2299,7 +2299,7 @@
       9846,
       8533,
       8533,
-      "04/22 - HIRL. by NOTAM. Customs: 0200-1400Z. Jet A-1. Fire 5 , out of regulations Cat 3.",
+      "04/22 - HIRL. by NOTAM. ATND SKD 0200-1400Z. Customs: 0200-1400Z. Jet A-1. Fire 5 , out of regulations Cat 3.",
       47.7013888888889,
       67.7341666666667,
       "PCN 34/R/B/X/T"
@@ -2395,7 +2395,7 @@
       9675,
       9183,
       9183,
-      "04/22 - HIRL. By NOTAM. ATND SKD H24. Customs: H24. Jet A-1. Fire 6.",
+      "04/22 - HIRL. By NOTAM. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       51.1502777777778,
       51.535,
       "PCN 46/R/B/W/T"
@@ -2413,7 +2413,7 @@
       9675,
       9183,
       9183,
-      "04/22 - HIRL. By NOTAM. ATND SKD H24. Customs: H24. Jet A-1. Fire 6.",
+      "04/22 - HIRL. By NOTAM. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       51.1502777777778,
       51.535,
       "PCN 46/R/B/W/T"
@@ -2509,7 +2509,7 @@
       10659,
       10167,
       10167,
-      "08/26 - HIRL. By NOTAM. ATND SKD 0200-1100Z. Customs. Rwy",
+      "08/26 - HIRL. By NOTAM. ATND SKD By NOTAM. Customs. Rwy",
       50.3502777777778,
       80.2333333333333,
       "PCN 47/R/B/X/T"
@@ -2527,7 +2527,7 @@
       10659,
       10167,
       8947,
-      "08/26 - HIRL. By NOTAM. ATND SKD 0200-1100Z. Customs. Rwy",
+      "08/26 - HIRL. By NOTAM. ATND SKD By NOTAM. Customs. Rwy",
       50.3502777777778,
       80.2333333333333,
       "PCN 47/R/B/X/T"
@@ -2547,7 +2547,7 @@
       10820,
       10000,
       10000,
-      "11/29 - HIRL. H24. Customs. Jet A-1. Fire 7 , up to CAT 9 O/R.",
+      "11/29 - HIRL. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7 , up to CAT 8 O/R.",
       43.8516666666667,
       51.0844444444444,
       "PCN 52/F/C/W/T"
@@ -2565,7 +2565,7 @@
       10820,
       10000,
       10000,
-      "11/29 - HIRL. H24. Customs. Jet A-1. Fire 7 , up to CAT 9 O/R.",
+      "11/29 - HIRL. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7 , up to CAT 8 O/R.",
       43.8516666666667,
       51.0844444444444,
       "PCN 52/F/C/W/T"
@@ -2585,7 +2585,7 @@
       10823,
       9839,
       9839,
-      "14/32 - RL. ALS 14. H24. Customs. Jet A-1. ABN. Fire 8 Cat 9 O/R.",
+      "14/32 - HIRL. ALS 14. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 8 Cat 9 O/R.",
       47.1175,
       51.8172222222222,
       "PCN 84/F/C/X/T"
@@ -2603,7 +2603,7 @@
       10823,
       9839,
       9839,
-      "14/32 - RL. ALS 14. H24. Customs. Jet A-1. ABN. Fire 8 Cat 9 O/R.",
+      "14/32 - HIRL. ALS 14. H24. ATND SKD H24. Customs: H24. Jet A-1. ABN. Fire 8 Cat 9 O/R.",
       47.1175,
       51.8172222222222,
       "PCN 84/F/C/X/T"
@@ -2892,7 +2892,7 @@
       "08/26 - HIRL. ALS 26. H24. PPR for non-scheduled, GA, MIL or other than scheduled arrival traffic, except in case of SAR or emergency landing. ATND SKD H24. PPR at least 24 hrs in advance for non-scheduled, GA, MIL or other than scheduled arrival traffic. Customs: H24. F-3, Jet A-1. Fire 7. Kaunas (S. Dariaus/S.",
       54.9522222222222,
       24.0836111111111,
-      "PCN 64/F/B/X/T, "
+      "PCN 64/F/B/X/T"
     ],
     [
       "RW26",
@@ -2910,7 +2910,7 @@
       "08/26 - HIRL. ALS 26. H24. PPR for non-scheduled, GA, MIL or other than scheduled arrival traffic, except in case of SAR or emergency landing. ATND SKD H24. PPR at least 24 hrs in advance for non-scheduled, GA, MIL or other than scheduled arrival traffic. Customs: H24. F-3, Jet A-1. Fire 7. Kaunas (S. Dariaus/S.",
       54.9522222222222,
       24.0836111111111,
-      "PCN 64/F/B/X/T, "
+      "PCN 64/F/B/X/T"
     ]
   ],
   "EYPA": [
@@ -2930,7 +2930,7 @@
       "01/19 - HIRL. H24. PPR for non-scheduled, GA, MIL or other than scheduled arrival traffic, except in case of SAR or emergency landing. ATND SKD H24. PPR at least 24 hrs in advance for non-scheduled, GA, MIL or other than scheduled arrival traffic. Customs: H24. F-3, Jet A-1. Fire 7.",
       55.9677777777778,
       21.085,
-      "PCN 120/F/A/W/T"
+      "PCN 120/F/A/W/T,"
     ],
     [
       "RW19",
@@ -2948,7 +2948,7 @@
       "01/19 - HIRL. H24. PPR for non-scheduled, GA, MIL or other than scheduled arrival traffic, except in case of SAR or emergency landing. ATND SKD H24. PPR at least 24 hrs in advance for non-scheduled, GA, MIL or other than scheduled arrival traffic. Customs: H24. F-3, Jet A-1. Fire 7.",
       55.9677777777778,
       21.085,
-      "PCN 120/F/A/W/T"
+      "PCN 120/F/A/W/T,"
     ]
   ],
   "EYSA": [
@@ -3179,7 +3179,7 @@
     [
       "RW08",
       76,
-      236,
+      237,
       8202,
       6,
       "Bydgoszcz",
@@ -3189,7 +3189,7 @@
       8202,
       8202,
       8202,
-      "08/26 - CONC/ASPH. HIRL. HIALS 26. 08L/26R - GRASS. MTOW-13. Mon and Wed-Fri 0530-2000Z, Tue and Sun 0530-2100Z, Sat 0530-1730Z. ATND SKD Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z. O/T 6hr in advance. Customs: H24. F-3, Jet A-1. Fire 7 Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z.",
+      "08/26 - CONC/ASPH. HIRL. HIALS 26. 08L/26R - GRASS. MTOW-13. Mon and Wed-Fri 0530-2000Z, Tue and Sun 0530-2100Z, Sat 0530-1730Z. ATND SKD Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z. O/T 6hr in advance. Customs: H24. Jet A-1. Fire 7 Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z.",
       53.0855555555556,
       17.9686111111111,
       "PCN 70/F/B/X/T"
@@ -3207,7 +3207,7 @@
       8202,
       8202,
       8202,
-      "08/26 - CONC/ASPH. HIRL. HIALS 26. 08L/26R - GRASS. MTOW-13. Mon and Wed-Fri 0530-2000Z, Tue and Sun 0530-2100Z, Sat 0530-1730Z. ATND SKD Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z. O/T 6hr in advance. Customs: H24. F-3, Jet A-1. Fire 7 Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z.",
+      "08/26 - CONC/ASPH. HIRL. HIALS 26. 08L/26R - GRASS. MTOW-13. Mon and Wed-Fri 0530-2000Z, Tue and Sun 0530-2100Z, Sat 0530-1730Z. ATND SKD Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z. O/T 6hr in advance. Customs: H24. Jet A-1. Fire 7 Mon-Thu 0700-2100Z, Fri and Sun 0700-2200Z, Sat 0700-1900Z.",
       53.0855555555556,
       17.9686111111111,
       "PCN 70/F/B/X/T"
@@ -3216,10 +3216,10 @@
   "EPGD": [
     [
       "RW11",
-      107,
+      106,
       451,
       9186,
-      6,
+      7,
       "Gdansk (Lech Walesa)",
       "GDN",
       488,
@@ -3234,10 +3234,10 @@
     ],
     [
       "RW29",
-      287,
+      286,
       488,
       9186,
-      6,
+      7,
       "Gdansk (Lech Walesa)",
       "GDN",
       488,
@@ -3255,7 +3255,7 @@
     [
       "RW07",
       72,
-      791,
+      792,
       8366,
       6,
       "Krakow (Balice)",
@@ -3292,10 +3292,10 @@
   "EPKS": [
     [
       "RW11",
-      113,
+      112,
       272,
       8202,
-      5,
+      6,
       "Poznan (Krzesiny)",
       "EPKS",
       276,
@@ -3310,10 +3310,10 @@
     ],
     [
       "RW29",
-      293,
+      292,
       274,
       8202,
-      5,
+      6,
       "Poznan (Krzesiny)",
       "EPKS",
       276,
@@ -3331,7 +3331,7 @@
     [
       "RW08",
       84,
-      970,
+      971,
       10499,
       6,
       "Katowice (Pyrzowice)",
@@ -3349,7 +3349,7 @@
     [
       "RW26",
       264,
-      1007,
+      1004,
       10499,
       6,
       "Katowice (Pyrzowice)",
@@ -3387,7 +3387,7 @@
     [
       "RW25",
       251,
-      626,
+      627,
       8268,
       6,
       "Lublin",
@@ -3407,7 +3407,7 @@
     [
       "RW10",
       101,
-      617,
+      618,
       9843,
       6,
       "Lask",
@@ -3463,7 +3463,7 @@
     [
       "RW25",
       245,
-      606,
+      607,
       8202,
       6,
       "Lodz",
@@ -3645,7 +3645,7 @@
       8202,
       8202,
       8202,
-      "08/26 - CONC/ASPH. HIRL. ALS 08. First and last 1772'(540m) 0430-0059Z. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "08/26 - CONC/ASPH. HIRL. ALS 08. First and last 1772'(540m) 0415-0130Z. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
       52.4502777777778,
       20.6502777777778,
       "PCN 53/F/B/X/T"
@@ -3663,7 +3663,7 @@
       8202,
       8202,
       8202,
-      "08/26 - CONC/ASPH. HIRL. ALS 08. First and last 1772'(540m) 0430-0059Z. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "08/26 - CONC/ASPH. HIRL. ALS 08. First and last 1772'(540m) 0415-0130Z. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
       52.4502777777778,
       20.6502777777778,
       "PCN 53/F/B/X/T"
@@ -3672,10 +3672,10 @@
   "EPPO": [
     [
       "RW10",
-      103,
-      308,
+      102,
+      309,
       8215,
-      5,
+      6,
       "Poznan (Lawica)",
       "POZ",
       309,
@@ -3690,10 +3690,10 @@
     ],
     [
       "RW28",
-      283,
-      288,
+      282,
+      289,
       8215,
-      5,
+      6,
       "Poznan (Lawica)",
       "POZ",
       309,
@@ -3721,7 +3721,7 @@
       10696,
       10499,
       10499,
-      "09/27 - HIRL. First 2297'(700m) of Rwy 09 Mon-Sun 0330-2359Z. O/T 48hr PPR. See NOTAM. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 8 or CAT 9 O/R at least 24 hrs in advance via operation email.",
+      "09/27 - HIRL. ALS 27. First 2297' (700m) Rwy 09 Last 2297' (700m) Rwy 09 Mon-Sun 0330-2359Z. O/T 48hr PPR. See NOTAM. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 8 or CAT 9 O/R at least 24 hrs in advance via operation email.",
       50.1016666666667,
       22.0169444444444,
       "PCN 54/F/B/W/T"
@@ -3739,7 +3739,7 @@
       11811,
       10499,
       10472,
-      "09/27 - HIRL. First 2297'(700m) of Rwy 09 Mon-Sun 0330-2359Z. O/T 48hr PPR. See NOTAM. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 8 or CAT 9 O/R at least 24 hrs in advance via operation email.",
+      "09/27 - HIRL. ALS 27. First 2297' (700m) Rwy 09 Last 2297' (700m) Rwy 09 Mon-Sun 0330-2359Z. O/T 48hr PPR. See NOTAM. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 8 or CAT 9 O/R at least 24 hrs in advance via operation email.",
       50.1016666666667,
       22.0169444444444,
       "PCN 54/F/B/W/T"
@@ -3749,9 +3749,9 @@
     [
       "RW13",
       126,
-      119,
+      120,
       8202,
-      5,
+      6,
       "Szczecin (Goleniow)",
       "SZZ",
       156,
@@ -3759,7 +3759,7 @@
       8202,
       8202,
       8202,
-      "13/31 - ASPHALT. HIRL. Mon-Sun 0400-0200Z. ATND SKD 0700-0000Z. See NOTAM. O/T O/R. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 9 O/R.",
+      "13/31 - ASPHALT. HIRL. 0600-2100Z. See NOTAM. ATND SKD 0700-0000Z. See NOTAM. O/T O/R. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 9 O/R.",
       53.5836111111111,
       14.9002777777778,
       "PCN 80/F/A/W/T"
@@ -3767,9 +3767,9 @@
     [
       "RW31",
       306,
-      155,
+      156,
       8202,
-      5,
+      6,
       "Szczecin (Goleniow)",
       "SZZ",
       156,
@@ -3777,7 +3777,7 @@
       8202,
       8202,
       8202,
-      "13/31 - ASPHALT. HIRL. Mon-Sun 0400-0200Z. ATND SKD 0700-0000Z. See NOTAM. O/T O/R. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 9 O/R.",
+      "13/31 - ASPHALT. HIRL. 0600-2100Z. See NOTAM. ATND SKD 0700-0000Z. See NOTAM. O/T O/R. Customs: H24. F-3, Jet A-1. Fire 7 , CAT 9 O/R.",
       53.5836111111111,
       14.9002777777778,
       "PCN 80/F/A/W/T"
@@ -3843,7 +3843,7 @@
     [
       "RW19",
       193,
-      464,
+      465,
       8202,
       6,
       "Olsztyn-Mazury",
@@ -3865,7 +3865,7 @@
       108,
       362,
       9186,
-      6,
+      7,
       "Warsaw (Chopin)",
       "WAW",
       362,
@@ -3881,9 +3881,9 @@
     [
       "RW29",
       288,
-      337,
+      338,
       9186,
-      6,
+      7,
       "Warsaw (Chopin)",
       "WAW",
       362,
@@ -3898,10 +3898,10 @@
     ],
     [
       "RW15",
-      146,
-      352,
+      145,
+      353,
       12106,
-      6,
+      7,
       "Warsaw (Chopin)",
       "WAW",
       362,
@@ -3916,10 +3916,10 @@
     ],
     [
       "RW33",
-      326,
+      325,
       351,
       12106,
-      6,
+      7,
       "Warsaw (Chopin)",
       "WAW",
       362,
@@ -3937,7 +3937,7 @@
     [
       "RW11",
       111,
-      404,
+      405,
       8212,
       5,
       "Wroclaw (Strachowice)",
@@ -3947,7 +3947,7 @@
       8212,
       8212,
       8212,
-      "11/29 - CONC/ASPH. HIRL. MIALS 11. ALS 29. H24. E and F Cat Acft PPR from the AD operator except Acft in emergency situations or Acft with EPWR as an alternate AD. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "11/29 - CONC/ASPH. HIRL. MIALS 11. ALS 29. H24. E and F Cat Acft PPR from the AD operator except Acft in emergency situations or Acft with EPWR as an alternate AD. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       51.1005555555556,
       16.8836111111111,
       "PCN 65/F/B/X/T"
@@ -3965,7 +3965,7 @@
       8212,
       8212,
       8212,
-      "11/29 - CONC/ASPH. HIRL. MIALS 11. ALS 29. H24. E and F Cat Acft PPR from the AD operator except Acft in emergency situations or Acft with EPWR as an alternate AD. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "11/29 - CONC/ASPH. HIRL. MIALS 11. ALS 29. H24. E and F Cat Acft PPR from the AD operator except Acft in emergency situations or Acft with EPWR as an alternate AD. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       51.1005555555556,
       16.8836111111111,
       "PCN 65/F/B/X/T"
@@ -3985,7 +3985,7 @@
       8205,
       8205,
       8205,
-      "06/24 - CONCRETE. HIRL. Mon, Tue, Wed, Thu 0600-0900Z, 1100-1600Z, 1800-2100Z; Fri 0600-0900Z, 1100-1330Z; Sun 1330-1600Z, 1800-2100Z. ATND SKD Mon-Fri 0600-2100Z, Sun 1300-2100Z. Customs: Mon-Thu 0600-2100Z, Fri 0600-1400Z, Sun 1300-2100Z. Traffic from/to non-Schengen states PNR 48hr in advance. Jet A-1. Fire 5 , CAT 7 O/R 24hr.",
+      "06/24 - CONCRETE. HIRL. Mon-Fri 0700-0900Z, 1200-1600Z, 1930-2100Z; Sun 1400-1600Z, 1930-2100Z. ATND SKD Mon-Fri 0600-2100Z, Sun 1300-2100Z. Customs: Mon-Fri 0600-2100Z, Sun 1300-2100Z. Traffic from/to non-Schengen states PNR 48hr in advance. Jet A-1. Fire 5 , CAT 7 O/R 24hr.",
       52.1341666666667,
       15.7858333333333,
       "PCN 57/R/A/W/T"
@@ -3993,7 +3993,7 @@
     [
       "RW24",
       240,
-      187,
+      188,
       8205,
       5,
       "Zielona Gora (Babimost)",
@@ -4003,7 +4003,7 @@
       8205,
       8205,
       8205,
-      "06/24 - CONCRETE. HIRL. Mon, Tue, Wed, Thu 0600-0900Z, 1100-1600Z, 1800-2100Z; Fri 0600-0900Z, 1100-1330Z; Sun 1330-1600Z, 1800-2100Z. ATND SKD Mon-Fri 0600-2100Z, Sun 1300-2100Z. Customs: Mon-Thu 0600-2100Z, Fri 0600-1400Z, Sun 1300-2100Z. Traffic from/to non-Schengen states PNR 48hr in advance. Jet A-1. Fire 5 , CAT 7 O/R 24hr.",
+      "06/24 - CONCRETE. HIRL. Mon-Fri 0700-0900Z, 1200-1600Z, 1930-2100Z; Sun 1400-1600Z, 1930-2100Z. ATND SKD Mon-Fri 0600-2100Z, Sun 1300-2100Z. Customs: Mon-Fri 0600-2100Z, Sun 1300-2100Z. Traffic from/to non-Schengen states PNR 48hr in advance. Jet A-1. Fire 5 , CAT 7 O/R 24hr.",
       52.1341666666667,
       15.7858333333333,
       "PCN 57/R/A/W/T"
@@ -4023,7 +4023,7 @@
       5971,
       5971,
       5971,
-      "09/27 - HIRL. HIALS 09. ALS 27. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "09/27 - HIRL. HIALS 09. ALS 27. 0500-1700Z, O/T O/R 24hr in advance. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
       46.1683333333333,
       21.2519444444444,
       "PCN 41/R/C/W/T"
@@ -4041,7 +4041,7 @@
       8202,
       6562,
       5971,
-      "09/27 - HIRL. HIALS 09. ALS 27. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
+      "09/27 - HIRL. HIALS 09. ALS 27. 0500-1700Z, O/T O/R 24hr in advance. ATND SKD H24. Customs: H24. F-3, Jet A-1. Fire 7.",
       46.1683333333333,
       21.2519444444444,
       "PCN 41/R/C/W/T"
@@ -4050,10 +4050,10 @@
   "LRBC": [
     [
       "RW16",
-      160,
-      607,
+      158,
+      608,
       8202,
-      5,
+      7,
       "Bacau (George Enescu)",
       "BCM",
       608,
@@ -4068,10 +4068,10 @@
     ],
     [
       "RW34",
-      340,
-      591,
+      338,
+      590,
       8202,
-      5,
+      7,
       "Bacau (George Enescu)",
       "BCM",
       608,
@@ -4099,7 +4099,7 @@
       7054,
       7054,
       7054,
-      "09/27 - ASPHALT. HIRL. ALS 09. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD Mon-Thu 0300-2200Z, Fri 0300-1500Z, Sun 1800-2200Z. O/T O/R 24hr in advance. Customs: Mon-Thu 0300-2200Z, Fri 0300-1500Z, Sun 1800-2200Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
+      "09/27 - ASPHALT. HIRL. ALS 09. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD Mon-Fri 0500-1700Z, Sun 0930-1330Z. O/T O/R 24hr in advance. Customs: Mon-Fri 0500-1700Z, Sun 0930-1330Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
       47.6513888888889,
       23.4666666666667,
       "PCN 57/R/D/W/T"
@@ -4117,7 +4117,7 @@
       7054,
       7054,
       7054,
-      "09/27 - ASPHALT. HIRL. ALS 09. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD Mon-Thu 0300-2200Z, Fri 0300-1500Z, Sun 1800-2200Z. O/T O/R 24hr in advance. Customs: Mon-Thu 0300-2200Z, Fri 0300-1500Z, Sun 1800-2200Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
+      "09/27 - ASPHALT. HIRL. ALS 09. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD Mon-Fri 0500-1700Z, Sun 0930-1330Z. O/T O/R 24hr in advance. Customs: Mon-Fri 0500-1700Z, Sun 0930-1330Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
       47.6513888888889,
       23.4666666666667,
       "PCN 57/R/D/W/T"
@@ -4241,7 +4241,7 @@
     [
       "RW07",
       67,
-      1037,
+      1039,
       6693,
       5,
       "Cluj-Napoca (Avram Iancu)",
@@ -4251,7 +4251,7 @@
       6890,
       6693,
       5906,
-      "07/25 - HIRL. ALS 25. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
+      "07/25 - HIRL. HIALS 07. HIALS 25. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       46.7841666666667,
       23.6847222222222,
       "PCN 114/R/B/W/T"
@@ -4269,7 +4269,7 @@
       6890,
       6693,
       6693,
-      "07/25 - HIRL. ALS 25. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
+      "07/25 - HIRL. HIALS 07. HIALS 25. H24. ATND SKD H24. Customs: H24. Jet A-1. Fire 7.",
       46.7841666666667,
       23.6847222222222,
       "PCN 114/R/B/W/T"
@@ -4316,10 +4316,10 @@
   "LRIA": [
     [
       "RW14",
-      144,
+      143,
       411,
       7874,
-      5,
+      6,
       "Iasi",
       "IAS",
       411,
@@ -4334,10 +4334,10 @@
     ],
     [
       "RW32",
-      324,
+      323,
       332,
       7874,
-      5,
+      6,
       "Iasi",
       "IAS",
       411,
@@ -4354,10 +4354,10 @@
   "LROD": [
     [
       "RW01",
-      7,
-      468,
+      6,
+      480,
       8268,
-      4,
+      6,
       "Oradea",
       "OMR",
       480,
@@ -4372,10 +4372,10 @@
     ],
     [
       "RW19",
-      187,
+      186,
       449,
       8268,
-      4,
+      6,
       "Oradea",
       "OMR",
       480,
@@ -4505,7 +4505,7 @@
     [
       "RW01",
       8,
-      413,
+      414,
       8202,
       5,
       "Satu Mare",
@@ -4515,7 +4515,7 @@
       9514,
       8202,
       8202,
-      "01/19 - HIRL. ALS 19. Mon-Sat 0500-1700Z. Customs. Jet A-1. Fire 5 , O/R CAT 7 not later than 24hr before.",
+      "01/19 - HIRL. ALS 19. Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. ATND SKD Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. Customs: Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. Jet A-1. Fire 5 , O/R CAT 7 not later than 24hr before.",
       47.7005555555556,
       22.8836111111111,
       "PCN 61/R/C/W/T"
@@ -4523,7 +4523,7 @@
     [
       "RW19",
       188,
-      406,
+      407,
       8202,
       5,
       "Satu Mare",
@@ -4533,7 +4533,7 @@
       9514,
       8202,
       8202,
-      "01/19 - HIRL. ALS 19. Mon-Sat 0500-1700Z. Customs. Jet A-1. Fire 5 , O/R CAT 7 not later than 24hr before.",
+      "01/19 - HIRL. ALS 19. Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. ATND SKD Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. Customs: Mon-Sat 0500-1700Z. O/T O/R 24 hr in advance. Jet A-1. Fire 5 , O/R CAT 7 not later than 24hr before.",
       47.7005555555556,
       22.8836111111111,
       "PCN 61/R/C/W/T"
@@ -4591,7 +4591,7 @@
       7694,
       6759,
       6759,
-      "16/34 - HIRL. ALS 34. Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. ATND SKD Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. Customs: H24. Jet A-1. Fire 7.",
+      "16/34 - HIRL. ALS 34. Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. ATND SKD Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. Customs: Winter: 0530-1730Z, Summer: 0430-1630Z. Jet A-1. Fire 7.",
       45.0522222222222,
       28.7025,
       "PCN 61/F/C/W/T"
@@ -4609,7 +4609,7 @@
       6955,
       6759,
       6539,
-      "16/34 - HIRL. ALS 34. Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. ATND SKD Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. Customs: H24. Jet A-1. Fire 7.",
+      "16/34 - HIRL. ALS 34. Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. ATND SKD Winter: 0530-1730Z, Summer: 0430-1630Z, O/T O/R not later than 1300Z. Customs: Winter: 0530-1730Z, Summer: 0430-1630Z. Jet A-1. Fire 7.",
       45.0522222222222,
       28.7025,
       "PCN 61/F/C/W/T"
@@ -4629,7 +4629,7 @@
       7464,
       6562,
       6542,
-      "07/25 - HIRL. ALS 07. MIALS 25. H24. ATND SKD 0630-1800Z. O/T O/R 24hr in advance. Customs: 0630-1800Z. O/T O/R 24hr in advance. Jet A-1. ABN. Fire 7.",
+      "07/25 - HIRL. ALS 07. MIALS 25. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD 0630-1800Z. O/T O/R 24hr in advance. Customs: 0630-1800Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
       46.4669444444444,
       24.4019444444444,
       "PCN 70/F/D/W/T"
@@ -4647,7 +4647,7 @@
       7349,
       6562,
       6542,
-      "07/25 - HIRL. ALS 07. MIALS 25. H24. ATND SKD 0630-1800Z. O/T O/R 24hr in advance. Customs: 0630-1800Z. O/T O/R 24hr in advance. Jet A-1. ABN. Fire 7.",
+      "07/25 - HIRL. ALS 07. MIALS 25. 0500-1700Z. O/T O/R 24hr in advance. ATND SKD 0630-1800Z. O/T O/R 24hr in advance. Customs: 0630-1800Z. O/T O/R 24hr in advance. Jet A-1. Fire 7.",
       46.4669444444444,
       24.4019444444444,
       "PCN 70/F/D/W/T"
@@ -4695,7 +4695,7 @@
     [
       "RW01",
       10,
-      1329,
+      1330,
       10171,
       -10,
       "Talakan",
@@ -4713,7 +4713,7 @@
     [
       "RW19",
       190,
-      1297,
+      1298,
       10171,
       -10,
       "Talakan",
@@ -4764,7 +4764,9 @@
       "05/23 - RL. ALS 23. H24 except Sun 0200-1200. Customs. Jet A-1. Fire 8 Fire 9 O/R.",
       62.085,
       129.767777777778,
-      "PCN 64/R/B/W/T"
+      "PCN 64/R/B/W/T",
+      109,
+      7375
     ]
   ],
   "UELL": [
@@ -4774,14 +4776,14 @@
       2816,
       11811,
       -14,
-      "Neryungri (Chulman)",
+      "Neryungri",
       "NER",
       2816,
       11811,
       13123,
       11811,
       11811,
-      "08/26 - RL. NOV 01 - MAR 31: 39/R/A/W/T Sun-Mon 2200-1030, Mon-Tue 2100-0800, Tue-Wed 2300-0900, Wed-Thu 2100-1300, Thu-Fri 2200-1230, Fri-Sat 2100-1100. For Russian users only. Jet A-1. Fire 7.",
+      "08/26 - RL. NOV 01 - MAR 31: 39/R/A/W/T Sun-Mon 2100-0800, Mon-Tue 2100-0830, Tue-Sat 2100-0800, Sat-Sun 2100-0330. For Russian users only. Jet A-1. Fire 7.",
       56.9022222222222,
       124.902222222222,
       "PCN 35/R/A/W/T"
@@ -4792,14 +4794,14 @@
       2701,
       11811,
       -14,
-      "Neryungri (Chulman)",
+      "Neryungri",
       "NER",
       2816,
       11811,
       13123,
       11811,
       11811,
-      "08/26 - RL. NOV 01 - MAR 31: 39/R/A/W/T Sun-Mon 2200-1030, Mon-Tue 2100-0800, Tue-Wed 2300-0900, Wed-Thu 2100-1300, Thu-Fri 2200-1230, Fri-Sat 2100-1100. For Russian users only. Jet A-1. Fire 7.",
+      "08/26 - RL. NOV 01 - MAR 31: 39/R/A/W/T Sun-Mon 2100-0800, Mon-Tue 2100-0830, Tue-Sat 2100-0800, Sat-Sun 2100-0330. For Russian users only. Jet A-1. Fire 7.",
       56.9022222222222,
       124.902222222222,
       "PCN 35/R/A/W/T"
@@ -4808,10 +4810,10 @@
   "UERP": [
     [
       "RW18",
-      173,
+      175,
       1656,
       8202,
-      -9,
+      -11,
       "Poliarny",
       "PYJ",
       1673,
@@ -4826,10 +4828,10 @@
     ],
     [
       "RW36",
-      353,
+      355,
       1642,
       8202,
-      -9,
+      -11,
       "Poliarny",
       "PYJ",
       1673,
@@ -4847,7 +4849,7 @@
     [
       "RW07",
       68,
-      1122,
+      1123,
       9186,
       -12,
       "Mirny",
@@ -4860,12 +4862,14 @@
       "07/25 - HIRL. Sun-Fri: 2300-1030. Fri-Sat: 2330-1030. For Russian users only. Jet A-1. Fire 7 , Cat 3 outside of AD ops hrs.",
       62.5336111111111,
       114.034166666667,
-      "PCN 39/R/A/X/T"
+      "PCN 39/R/A/X/T",
+      66,
+      2788
     ],
     [
       "RW25",
       248,
-      1155,
+      1161,
       9186,
       -12,
       "Mirny",
@@ -4884,10 +4888,10 @@
   "UEST": [
     [
       "RW03",
-      25,
+      27,
       23,
       9843,
-      -17,
+      -19,
       "Tiksi",
       "IKS",
       30,
@@ -4902,10 +4906,10 @@
     ],
     [
       "RW21",
-      205,
+      207,
       30,
       9843,
-      -17,
+      -19,
       "Tiksi",
       "IKS",
       30,
@@ -4954,7 +4958,9 @@
       "18/36 - HIRL. Rwy 36 Right-Hand Circuit. 2100-0700. Customs. Jet A-1. Fire 3 Cat 8 - 2100-0700.",
       50.4183333333333,
       127.4025,
-      "PCN 56/R/A/W/T"
+      "PCN 56/R/A/W/T",
+      85,
+      4379
     ]
   ],
   "UHBW": [
@@ -5012,7 +5018,9 @@
       "05L/23R - HIRL. ALS. 05R/23L - HIRL. T/O of heavy ACFT such as B747, B777, A-330, Il-96, Il-86, An-124 ACFT from RWY05R/23L shall be carried out after taxiing of 200 M from RWY extremity. H24. Customs. Jet A-1. Fire 9.",
       48.5186111111111,
       135.184166666667,
-      "PCN 57/R/A/W/T"
+      "PCN 57/R/A/W/T",
+      36,
+      1919
     ],
     [
       "RW23R",
@@ -5072,39 +5080,43 @@
   "UHKD": [
     [
       "RW01",
-      12,
+      13,
       80,
       8097,
-      -12,
+      -13,
       "Komsomolsk-Na-Amure (Dzemgi)",
       "UHKD",
       82,
-      7933,
-      10558,
-      7933,
-      7933,
-      "01/19 - RL. First 50m of RWY 01/19 not used for TKOF. Mon-Fri 2300-1000. Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 6.",
+      8097,
+      9081,
+      8097,
+      8097,
+      "01/19 - RL. Mon-Fri 2300-1000. Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 6.",
       50.6008333333333,
       137.069166666667,
-      "PCN 24/R/A/X/T"
+      "PCN 24/R/A/X/T",
+      349,
+      10606
     ],
     [
       "RW19",
-      192,
+      193,
       77,
       8097,
-      -12,
+      -13,
       "Komsomolsk-Na-Amure (Dzemgi)",
       "UHKD",
       82,
-      7933,
-      8917,
-      7933,
-      7933,
-      "01/19 - RL. First 50m of RWY 01/19 not used for TKOF. Mon-Fri 2300-1000. Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 6.",
+      8097,
+      9081,
+      8097,
+      8097,
+      "01/19 - RL. Mon-Fri 2300-1000. Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 6.",
       50.6008333333333,
       137.069166666667,
-      "PCN 24/R/A/X/T"
+      "PCN 24/R/A/X/T",
+      773,
+      23825
     ]
   ],
   "UHKM": [
@@ -5121,7 +5133,7 @@
       11145,
       11047,
       9833,
-      "09/27 - 11 APR-30 JUN RWY 09 first 900m and RWY 27 first 2097m 01 JUL-10 APR RWY 09 first 900m and RWY 27 first 2097m PCN24/R/B/X/T. 2300-0700 except Sat, Sun, Hol. For Russian Users Only. Jet A-1. Fire 3.",
+      "09/27 - 11 APR-30 JUN RWY 09 first 900m and RWY 27 first 2097m 01 JUL-10 APR RWY 09 first 900m and RWY 27 first 2097m PCN24/R/B/X/T. Sun-Fri 2300-0700. For Russian Users Only. Jet A-1. Fire 3.",
       48.9180555555556,
       140.033888888889,
       "PCN 20/R/B/X/T"
@@ -5139,7 +5151,7 @@
       10335,
       9833,
       9833,
-      "09/27 - 11 APR-30 JUN RWY 09 first 900m and RWY 27 first 2097m 01 JUL-10 APR RWY 09 first 900m and RWY 27 first 2097m PCN24/R/B/X/T. 2300-0700 except Sat, Sun, Hol. For Russian Users Only. Jet A-1. Fire 3.",
+      "09/27 - 11 APR-30 JUN RWY 09 first 900m and RWY 27 first 2097m 01 JUL-10 APR RWY 09 first 900m and RWY 27 first 2097m PCN24/R/B/X/T. Sun-Fri 2300-0700. For Russian Users Only. Jet A-1. Fire 3.",
       48.9180555555556,
       140.033888888889,
       "PCN 20/R/B/X/T"
@@ -5183,6 +5195,48 @@
       "PCN 53/R/A/W/T"
     ]
   ],
+  "UHMD": [
+    [
+      "RW02",
+      17,
+      22,
+      6562,
+      -5,
+      "Provideniya Bay",
+      "PVS",
+      69,
+      6398,
+      6890,
+      6398,
+      6398,
+      "02/20 - Sun-Fri 2100-0600, Sat,Sun and Hol clsd. Jet A-1. Fire 3.",
+      64.3686111111111,
+      173.234722222222,
+      "AUW-132",
+      1244,
+      24793
+    ],
+    [
+      "RW20",
+      197,
+      68,
+      6562,
+      -5,
+      "Provideniya Bay",
+      "PVS",
+      69,
+      6562,
+      7218,
+      6562,
+      6562,
+      "02/20 - Sun-Fri 2100-0600, Sat,Sun and Hol clsd. Jet A-1. Fire 3.",
+      64.3686111111111,
+      173.234722222222,
+      "AUW-132",
+      634,
+      23507
+    ]
+  ],
   "UHMM": [
     [
       "RW10",
@@ -5200,7 +5254,9 @@
       "10/28 - HIRL. 01 NOV - 10 APR. 2130-0930. Customs: Service available during hours of scheduled operations. Jet A-1. JASU. Fire 8.",
       59.9016666666667,
       150.717222222222,
-      "PCN 64/R/B/X/T"
+      "PCN 64/R/B/X/T",
+      364,
+      26204
     ],
     [
       "RW28",
@@ -5218,7 +5274,9 @@
       "10/28 - HIRL. 01 NOV - 10 APR. 2130-0930. Customs: Service available during hours of scheduled operations. Jet A-1. JASU. Fire 8.",
       59.9016666666667,
       150.717222222222,
-      "PCN 64/R/B/X/T"
+      "PCN 64/R/B/X/T",
+      55,
+      3100
     ]
   ],
   "UHPP": [
@@ -5263,7 +5321,7 @@
     [
       "RW13",
       125,
-      383,
+      364,
       7549,
       -8,
       "Iturup",
@@ -5281,7 +5339,7 @@
     [
       "RW31",
       305,
-      383,
+      379,
       7549,
       -8,
       "Iturup",
@@ -5390,7 +5448,9 @@
       "01/19 - HIRL. PAPI except B777-300 and its modifications. 2100-1200. AD is avlb as alternate 1200-2100 w/o ACFT service for departure. AD is avlb H24 for ARR and DEP of ACFT and HEL all types executing SAR flights. Customs: 2100-1100. Jet A-1. Fire 8 Cat 7: 0900-2100.",
       46.8841666666667,
       142.716666666667,
-      "PCN 60/R/A/X/T"
+      "PCN 60/R/A/X/T",
+      46,
+      1624
     ],
     [
       "RW19",
@@ -5415,7 +5475,7 @@
     [
       "RW07R",
       72,
-      32,
+      33,
       11490,
       -11,
       "Vladivostok (Knevichi)",
@@ -5428,7 +5488,9 @@
       "07R/25L - HIRL. ALS 25L. H24. Mon 0700-0900 PPR. Customs: H24. Jet A-1. Fire 9.",
       43.3858333333333,
       132.135833333333,
-      "PCN 63/R/B/W/T"
+      "PCN 63/R/B/W/T",
+      41,
+      2811
     ],
     [
       "RW25L",
@@ -5452,10 +5514,10 @@
   "UIAA": [
     [
       "RW11",
-      109,
-      2270,
+      110,
+      2271,
       9183,
-      -8,
+      -9,
       "Chita (Kadala)",
       "HTA",
       2270,
@@ -5466,14 +5528,16 @@
       "11/29 - RL. 2100-0900. Customs: H24. Jet A-1. Fire 7 ,Cat 8 PPR 10 days in advance.",
       52.0183333333333,
       113.300833333333,
-      "PCN 49/R/A/W/T"
+      "PCN 49/R/A/W/T",
+      1001,
+      30095
     ],
     [
       "RW29",
-      289,
+      290,
       2201,
       9183,
-      -8,
+      -9,
       "Chita (Kadala)",
       "HTA",
       2270,
@@ -5484,7 +5548,9 @@
       "11/29 - RL. 2100-0900. Customs: H24. Jet A-1. Fire 7 ,Cat 8 PPR 10 days in advance.",
       52.0183333333333,
       113.300833333333,
-      "PCN 49/R/A/W/T"
+      "PCN 49/R/A/W/T",
+      1305,
+      42322
     ]
   ],
   "UIBB": [
@@ -5496,12 +5562,12 @@
       -2,
       "Bratsk",
       "BTK",
-      1611,
+      1610,
       10367,
       11351,
       10613,
       10367,
-      "12/30 - HIRL. 0000 - 1200. Customs: Mon, Wed - Sat: 0000 - 1200. Tue, Sun: 0000-0800. O/T PPR 48HR. Jet A-1. Fire 8 Outside AD OPR HR: CAT 4, allowing to change to CAT 8, PPR.",
+      "12/30 - HIRL. 0000 - 1200. Customs. Jet A-1. Fire 8 Outside AD OPR HR: CAT 4, allowing to change to CAT 8, PPR.",
       56.3672222222222,
       101.685833333333,
       "PCN 54/R/A/W/T"
@@ -5509,20 +5575,22 @@
     [
       "RW30",
       297,
-      1602,
+      1603,
       10367,
       -2,
       "Bratsk",
       "BTK",
-      1611,
+      1610,
       10367,
       10367,
       10613,
       10367,
-      "12/30 - HIRL. 0000 - 1200. Customs: Mon, Wed - Sat: 0000 - 1200. Tue, Sun: 0000-0800. O/T PPR 48HR. Jet A-1. Fire 8 Outside AD OPR HR: CAT 4, allowing to change to CAT 8, PPR.",
+      "12/30 - HIRL. 0000 - 1200. Customs. Jet A-1. Fire 8 Outside AD OPR HR: CAT 4, allowing to change to CAT 8, PPR.",
       56.3672222222222,
       101.685833333333,
-      "PCN 54/R/A/W/T"
+      "PCN 54/R/A/W/T",
+      29,
+      1902
     ]
   ],
   "UIII": [
@@ -5534,7 +5602,7 @@
       -5,
       "Irkutsk",
       "IKT",
-      1686,
+      1688,
       10387,
       11043,
       10387,
@@ -5542,7 +5610,9 @@
       "12/30 - HIRL. H24, rwy clsd Thu 0800-0900. Customs: H24. Jet A-1. Fire 8.",
       52.2666666666667,
       104.385277777778,
-      "PCN 45/R/A/W/T"
+      "PCN 45/R/A/W/T",
+      114,
+      3248
     ],
     [
       "RW30",
@@ -5552,7 +5622,7 @@
       -5,
       "Irkutsk",
       "IKT",
-      1686,
+      1688,
       10387,
       11699,
       10387,
@@ -5560,7 +5630,9 @@
       "12/30 - HIRL. H24, rwy clsd Thu 0800-0900. Customs: H24. Jet A-1. Fire 8.",
       52.2666666666667,
       104.385277777778,
-      "PCN 45/R/A/W/T"
+      "PCN 45/R/A/W/T",
+      65,
+      2756
     ]
   ],
   "UIIR": [
@@ -5580,7 +5652,9 @@
       "14/32 - 15 NOV- 15 MAR Mon-Fri 0100-0900. For Russian users only. Jet A-1. Fire 7.",
       52.3669444444444,
       104.183333333333,
-      "PCN 31/R/B/W/T"
+      "PCN 31/R/B/W/T",
+      87,
+      1788
     ],
     [
       "RW32",
@@ -5598,7 +5672,9 @@
       "14/32 - 15 NOV- 15 MAR Mon-Fri 0100-0900. For Russian users only. Jet A-1. Fire 7.",
       52.3669444444444,
       104.183333333333,
-      "PCN 31/R/B/W/T"
+      "PCN 31/R/B/W/T",
+      102,
+      2493
     ]
   ],
   "UITT": [
@@ -5642,10 +5718,10 @@
   "UIUU": [
     [
       "RW08",
-      83,
+      84,
       1700,
       11155,
-      -5,
+      -6,
       "Ulan-Ude (Mukhino)",
       "UUD",
       1700,
@@ -5660,10 +5736,10 @@
     ],
     [
       "RW26",
-      263,
+      264,
       1651,
       11155,
-      -5,
+      -6,
       "Ulan-Ude (Mukhino)",
       "UUD",
       1700,
@@ -5737,7 +5813,7 @@
     [
       "RW30",
       300,
-      70,
+      69,
       8009,
       18,
       "Arkhangelsk (Vaskovo)",
@@ -5775,7 +5851,7 @@
     [
       "RW24",
       238,
-      43,
+      41,
       8406,
       24,
       "Naryan-Mar",
@@ -5788,7 +5864,9 @@
       "06/24 - ALS. Winter season: SALS length 898m. 0500-1700. For Russian users only. Jet A-1. Fire 5 Cat 3 outside AD OPS HR.",
       67.6344444444445,
       53.1175,
-      "PCN 25/R/B/X/T"
+      "PCN 25/R/B/X/T",
+      82,
+      5364
     ]
   ],
   "ULLI": [
@@ -5826,7 +5904,9 @@
       "10L/28R - CONCRETE. HIRL. ALS. 10R/28L - CONCRETE. HIRL. ALS 10R. H24. Customs: Customs H24. Migration Mon-Fri 0530-1430, Sat, Sun, Hol U/S. Jet A-1. Fire 9 0500-1700 CAT 7 for the other RWY. 1700-0500 CAT 5 for the other RWY.",
       59.8,
       30.2519444444444,
-      "PCN 84/R/C/W/T"
+      "PCN 84/R/C/W/T",
+      65,
+      3779
     ],
     [
       "RW10R",
@@ -5868,10 +5948,10 @@
   "ULMK": [
     [
       "RW11",
-      110,
+      111,
       518,
       8189,
-      16,
+      17,
       "Apatity (Khibiny)",
       "KVK",
       525,
@@ -5886,10 +5966,10 @@
     ],
     [
       "RW29",
-      290,
+      291,
       485,
       8189,
-      16,
+      17,
       "Apatity (Khibiny)",
       "KVK",
       525,
@@ -5920,7 +6000,9 @@
       "13/31 - RL. H24. Charter flights O/R. Customs: Mon-Fri 0600-1400, 1400-0600 O/R. Jet A-1. Fire 7.",
       68.7691666666667,
       32.7502777777778,
-      "PCN 46/R/B/X/T"
+      "PCN 46/R/B/X/T",
+      373,
+      15344
     ],
     [
       "RW31",
@@ -5938,7 +6020,9 @@
       "13/31 - RL. H24. Charter flights O/R. Customs: Mon-Fri 0600-1400, 1400-0600 O/R. Jet A-1. Fire 7.",
       68.7691666666667,
       32.7502777777778,
-      "PCN 46/R/B/X/T"
+      "PCN 46/R/B/X/T",
+      169,
+      14412
     ]
   ],
   "ULNR": [
@@ -5983,7 +6067,7 @@
     [
       "RW01",
       9,
-      150,
+      149,
       8281,
       9,
       "Pskov",
@@ -5996,7 +6080,9 @@
       "01/19 - HIRL. HIALS. Mon-Sun 0400-1900. Customs. Jet A-1. Fire 5.",
       57.7691666666667,
       28.385,
-      "PCN 45R/A/X/T"
+      "PCN 45R/A/X/T",
+      57,
+      1338
     ],
     [
       "RW19",
@@ -6014,7 +6100,9 @@
       "01/19 - HIRL. HIALS. Mon-Sun 0400-1900. Customs. Jet A-1. Fire 5.",
       57.7691666666667,
       28.385,
-      "PCN 45R/A/X/T"
+      "PCN 45R/A/X/T",
+      48,
+      2339
     ]
   ],
   "ULPB": [
@@ -6031,10 +6119,12 @@
       8704,
       8212,
       8212,
-      "01/19 - RL. 0730-1600. Customs. Jet A-1. Fire 7.",
+      "01/19 - RL. 0730-1600. Customs. Jet A-1. Fire 5 ,Cat 3 O/T, Cat 6,7 O/R.",
       61.8836111111111,
       34.1508333333333,
-      "PCN 38/R/A/X/T"
+      "PCN 38/R/A/X/T",
+      264,
+      17824
     ],
     [
       "RW19",
@@ -6049,10 +6139,12 @@
       8704,
       8212,
       8212,
-      "01/19 - RL. 0730-1600. Customs. Jet A-1. Fire 7.",
+      "01/19 - RL. 0730-1600. Customs. Jet A-1. Fire 5 ,Cat 3 O/T, Cat 6,7 O/R.",
       61.8836111111111,
       34.1508333333333,
-      "PCN 38/R/A/X/T"
+      "PCN 38/R/A/X/T",
+      379,
+      22080
     ]
   ],
   "ULWC": [
@@ -6090,7 +6182,9 @@
       "03/21 - 0400-2030. O/T PPR (8202) 675-206. Customs: PPR 72 HR. Jet A-1. Fire 5 CAT 3 outside AD opr hr.",
       59.2683333333333,
       38.0169444444444,
-      "PCN 37/R/B/X/T"
+      "PCN 37/R/B/X/T",
+      164,
+      8583
     ]
   ],
   "ULWW": [
@@ -6107,7 +6201,7 @@
       5876,
       4826,
       4826,
-      "15/33 - ALS. Mon,Wed, Fri 0430-1800;Tue,Thu 0500-1400;Sat 0530-1030;Sun 1630-2059,Hol clsd. For Russian Users Only. F-3, Jet A-1. Fire 3.",
+      "15/33 - ALS. Mon-Thu 0430-1800;Fri 0430-2000;Sat 0530-1300;Sun 1530-2059. For Russian Users Only. F-3, Jet A-1. Fire 3.",
       59.2691666666667,
       39.9352777777778,
       "PCN 13/R/B/X/T"
@@ -6115,7 +6209,7 @@
     [
       "RW33",
       330,
-      386,
+      384,
       4925,
       14,
       "Vologda",
@@ -6125,17 +6219,59 @@
       5876,
       4826,
       4826,
-      "15/33 - ALS. Mon,Wed, Fri 0430-1800;Tue,Thu 0500-1400;Sat 0530-1030;Sun 1630-2059,Hol clsd. For Russian Users Only. F-3, Jet A-1. Fire 3.",
+      "15/33 - ALS. Mon-Thu 0430-1800;Fri 0430-2000;Sat 0530-1300;Sun 1530-2059. For Russian Users Only. F-3, Jet A-1. Fire 3.",
       59.2691666666667,
       39.9352777777778,
       "PCN 13/R/B/X/T"
+    ]
+  ],
+  "UMKK": [
+    [
+      "RW06",
+      59,
+      43,
+      10991,
+      7,
+      "Kaliningrad (Khrabrovo)",
+      "KGD",
+      43,
+      10991,
+      12303,
+      10991,
+      10991,
+      "06/24 - HIRL. ALS 24. H24. Customs. Jet A-1. Fire 7 Cat 8 0800-1600, H24 O/R.",
+      54.8847222222222,
+      20.5858333333333,
+      "PCN 64/R/C/X/T",
+      39,
+      3166
+    ],
+    [
+      "RW24",
+      239,
+      38,
+      10991,
+      7,
+      "Kaliningrad (Khrabrovo)",
+      "KGD",
+      43,
+      10991,
+      11647,
+      10991,
+      10991,
+      "06/24 - HIRL. ALS 24. H24. Customs. Jet A-1. Fire 7 Cat 8 0800-1600, H24 O/R.",
+      54.8847222222222,
+      20.5858333333333,
+      "PCN 64/R/C/X/T",
+      28,
+      1870
     ]
   ],
   "UNAA": [
     [
       "RW02",
       22,
-      830,
+      831,
       10663,
       3,
       "Abakan",
@@ -6148,12 +6284,14 @@
       "02/20 - HIRL. TORA,TODA,ASDA excluding DTHR. H24. Customs. Jet A-1. Fire 7.",
       53.7344444444444,
       91.3836111111111,
-      "PCN 80/F/B/W/T"
+      "PCN 80/F/B/W/T",
+      33,
+      721
     ],
     [
       "RW20",
       202,
-      823,
+      825,
       10663,
       3,
       "Abakan",
@@ -6166,7 +6304,9 @@
       "02/20 - HIRL. TORA,TODA,ASDA excluding DTHR. H24. Customs. Jet A-1. Fire 7.",
       53.7344444444444,
       91.3836111111111,
-      "PCN 80/F/B/W/T"
+      "PCN 80/F/B/W/T",
+      39,
+      475
     ]
   ],
   "UNBB": [
@@ -6210,7 +6350,7 @@
   "UNBG": [
     [
       "RW02",
-      19,
+      20,
       953,
       7549,
       6,
@@ -6224,12 +6364,14 @@
       "02/20 - Mon-Sun: 0100 - 1000. O/T PPR. For Russian users only. Jet A-1. Fire 7.",
       51.9669444444444,
       85.8338888888889,
-      "PCN 57/F/A/Y/T"
+      "PCN 57/F/A/Y/T",
+      232,
+      9156
     ],
     [
       "RW20",
-      199,
-      967,
+      200,
+      966,
       7549,
       6,
       "Gorno-Altaisk",
@@ -6242,7 +6384,9 @@
       "02/20 - Mon-Sun: 0100 - 1000. O/T PPR. For Russian users only. Jet A-1. Fire 7.",
       51.9669444444444,
       85.8338888888889,
-      "PCN 57/F/A/Y/T"
+      "PCN 57/F/A/Y/T",
+      655,
+      18510
     ]
   ],
   "UNEE": [
@@ -6362,10 +6506,10 @@
   "UNKL": [
     [
       "RW11",
-      109,
+      110,
       941,
       12139,
-      4,
+      3,
       "Krasnoyarsk",
       "KJA",
       941,
@@ -6380,10 +6524,10 @@
     ],
     [
       "RW29",
-      289,
+      290,
       941,
       12139,
-      4,
+      3,
       "Krasnoyarsk",
       "KJA",
       941,
@@ -6523,10 +6667,12 @@
       9517,
       8205,
       8205,
-      "07/25 - RL. H24. Customs. Jet A-1. Fire 8 ,Cat 9 PPR.",
+      "07/25 - RL. H24. Customs. Jet A-1. Fire 7 ,Cat 8 O/R 24hr, Cat 9 PPR.",
       54.9666666666667,
       73.3016666666667,
-      "PCN 54/F/C/W/T"
+      "PCN 54/F/C/W/T",
+      158,
+      9891
     ],
     [
       "RW25",
@@ -6541,7 +6687,7 @@
       9517,
       8205,
       8205,
-      "07/25 - RL. H24. Customs. Jet A-1. Fire 8 ,Cat 9 PPR.",
+      "07/25 - RL. H24. Customs. Jet A-1. Fire 7 ,Cat 8 O/R 24hr, Cat 9 PPR.",
       54.9666666666667,
       73.3016666666667,
       "PCN 54/F/C/W/T"
@@ -6564,7 +6710,9 @@
       "15/33 - DLY 0330-1100. For Russian users only. J. Fire 4.",
       60.7016666666667,
       77.6516666666667,
-      "PCN 14/R/A/X/T"
+      "PCN 14/R/A/X/T",
+      31,
+      1181
     ],
     [
       "RW33",
@@ -6582,7 +6730,9 @@
       "15/33 - DLY 0330-1100. For Russian users only. J. Fire 4.",
       60.7016666666667,
       77.6516666666667,
-      "PCN 14/R/A/X/T"
+      "PCN 14/R/A/X/T",
+      45,
+      1240
     ]
   ],
   "UNTT": [
@@ -6620,7 +6770,9 @@
       "03/21 - By Notam, O/T PPR. Customs: Customs by coordination/Immigration NIL. Jet A-1. Fire 7.",
       56.3688888888889,
       85.2013888888889,
-      "PCN 67/R/B/X/T"
+      "PCN 67/R/B/X/T",
+      42,
+      1328
     ]
   ],
   "UNWW": [
@@ -6640,7 +6792,9 @@
       "01/19 - H24. Customs: By arrangement. Jet A-1. Fire 7.",
       53.8019444444444,
       86.8686111111111,
-      "PCN 38/R/A/W/T"
+      "PCN 38/R/A/W/T",
+      281,
+      14757
     ],
     [
       "RW19",
@@ -6658,7 +6812,9 @@
       "01/19 - H24. Customs: By arrangement. Jet A-1. Fire 7.",
       53.8019444444444,
       86.8686111111111,
-      "PCN 38/R/A/W/T"
+      "PCN 38/R/A/W/T",
+      265,
+      20793
     ]
   ],
   "UOHH": [
@@ -6703,17 +6859,17 @@
     [
       "RW12",
       118,
-      82,
+      76,
       8245,
       16,
       "Igarka",
       "IAA",
-      82,
+      83,
       8245,
       9557,
       8245,
       8245,
-      "12/30 - HIRL. during the period from 02 NOV to 31 MAR. Mon 0200 - Sat 1300 H24, Sun u/s. For Russian users only. Jet A-1. Fire 3 Cat 5 Mon 0200-1300, Tue-Sat 0100-1300.",
+      "12/30 - HIRL. during the period from 02 NOV to 31 MAR. H24. For Russian users only. Jet A-1. Fire 2 Cat 5 0100-1300.",
       67.4338888888889,
       86.6175,
       "PCN 35/R/A/X/T"
@@ -6726,24 +6882,26 @@
       16,
       "Igarka",
       "IAA",
-      82,
+      83,
       8245,
       8927,
       8245,
       8245,
-      "12/30 - HIRL. during the period from 02 NOV to 31 MAR. Mon 0200 - Sat 1300 H24, Sun u/s. For Russian users only. Jet A-1. Fire 3 Cat 5 Mon 0200-1300, Tue-Sat 0100-1300.",
+      "12/30 - HIRL. during the period from 02 NOV to 31 MAR. H24. For Russian users only. Jet A-1. Fire 2 Cat 5 0100-1300.",
       67.4338888888889,
       86.6175,
-      "PCN 35/R/A/X/T"
+      "PCN 35/R/A/X/T",
+      238,
+      14297
     ]
   ],
   "UOOO": [
     [
       "RW01",
-      13,
+      14,
       538,
       9255,
-      19,
+      18,
       "Norilsk (Alykel)",
       "NSK",
       597,
@@ -6751,17 +6909,17 @@
       9747,
       9255,
       9255,
-      "01/19 - HIRL. ALS 19. H24. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - HIRL. ALS 19. H24. For Russian users only. Jet A-1. Fire 4 ,Cat 7 Sun-Sat: 2300-1400, Sat-Sun: 2300-0500.",
       69.3013888888889,
       87.3186111111111,
       "PCN 52/R/A/W/T"
     ],
     [
       "RW19",
-      193,
+      194,
       597,
       9255,
-      19,
+      18,
       "Norilsk (Alykel)",
       "NSK",
       597,
@@ -6769,7 +6927,7 @@
       9747,
       9255,
       9255,
-      "01/19 - HIRL. ALS 19. H24. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - HIRL. ALS 19. H24. For Russian users only. Jet A-1. Fire 4 ,Cat 7 Sun-Sat: 2300-1400, Sat-Sun: 2300-0500.",
       69.3013888888889,
       87.3186111111111,
       "PCN 52/R/A/W/T"
@@ -6792,7 +6950,9 @@
       "03/21 - RL. H24. Customs: 0500-1700 O/T O/R. Jet A-1. Fire 7.",
       45.0002777777778,
       37.3355555555556,
-      "PCN 52/R/B/W/T"
+      "PCN 52/R/B/W/T",
+      406,
+      31922
     ],
     [
       "RW21",
@@ -6871,7 +7031,7 @@
     [
       "RW23L",
       225,
-      120,
+      119,
       9846,
       8,
       "Krasnodar (Pashkovskiy)",
@@ -6929,7 +7089,7 @@
     [
       "RW14",
       141,
-      0,
+      6,
       7349,
       7,
       "Makhachkala (Uytash)",
@@ -6947,7 +7107,7 @@
     [
       "RW32",
       321,
-      14,
+      13,
       7349,
       7,
       "Makhachkala (Uytash)",
@@ -6977,10 +7137,12 @@
       14107,
       12795,
       12795,
-      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 7 CAT 8, 0500-1700",
+      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 7 ,Cat 8 72hrs PPR.",
       44.2183333333333,
       43.0833333333333,
-      "PCN 54/R/A/W/T"
+      "PCN 54/R/A/W/T",
+      55,
+      3832
     ],
     [
       "RW29",
@@ -6995,7 +7157,7 @@
       14107,
       12795,
       12795,
-      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 7 CAT 8, 0500-1700",
+      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 7 ,Cat 8 72hrs PPR.",
       44.2183333333333,
       43.0833333333333,
       "PCN 54/R/A/W/T"
@@ -7015,7 +7177,7 @@
       8202,
       7218,
       0,
-      "06/24 - RL. Rwy 06 Landing not allowed. Rwy 24 Takeoff not allowed. 0600-1800. Customs. Jet A-1. Fire 6 0600-1700.",
+      "06/24 - RL. Rwy 06 Landing not allowed. Rwy 24 Takeoff not allowed. 0600-1800. Customs. Jet A-1. Fire 6 0600-1800.",
       43.5022222222222,
       43.6338888888889,
       "PCN 47/F/C/X/T"
@@ -7033,7 +7195,7 @@
       0,
       0,
       7218,
-      "06/24 - RL. Rwy 06 Landing not allowed. Rwy 24 Takeoff not allowed. 0600-1800. Customs. Jet A-1. Fire 6 0600-1700.",
+      "06/24 - RL. Rwy 06 Landing not allowed. Rwy 24 Takeoff not allowed. 0600-1800. Customs. Jet A-1. Fire 6 0600-1800.",
       43.5022222222222,
       43.6338888888889,
       "PCN 47/F/C/X/T"
@@ -7091,7 +7253,7 @@
       10335,
       9843,
       9843,
-      "09/27 - 0500-1600. O/T PPR. Customs: 0500-1600 O/R. For Russian users only. Jet A-1. Fire 6 Cat 3 outside AD ops hr.",
+      "09/27 - 0600-1600. Customs: Mon-Fri 0500-1600 O/R. For Russian users only. Jet A-1. Fire 6 Cat 3 outside AD ops hr.",
       43.3177777777778,
       45.0019444444444,
       "PCN 43/R/B/X/T"
@@ -7099,7 +7261,7 @@
     [
       "RW27",
       268,
-      1142,
+      1126,
       9843,
       8,
       "Magas",
@@ -7109,10 +7271,12 @@
       10335,
       9843,
       9843,
-      "09/27 - 0500-1600. O/T PPR. Customs: 0500-1600 O/R. For Russian users only. Jet A-1. Fire 6 Cat 3 outside AD ops hr.",
+      "09/27 - 0600-1600. Customs: Mon-Fri 0500-1600 O/R. For Russian users only. Jet A-1. Fire 6 Cat 3 outside AD ops hr.",
       43.3177777777778,
       45.0019444444444,
-      "PCN 43/R/B/X/T"
+      "PCN 43/R/B/X/T",
+      258,
+      14212
     ]
   ],
   "URMT": [
@@ -7170,7 +7334,9 @@
       "05/23 - HIRL. ALS. H24. Customs. Jet A-1. Fire 8.",
       47.485,
       39.9180555555556,
-      "PCN 57/R/A/W/T"
+      "PCN 57/R/A/W/T",
+      69,
+      3904
     ],
     [
       "RW23",
@@ -7195,7 +7361,7 @@
     [
       "RW10",
       96,
-      118,
+      119,
       9216,
       8,
       "Taganrog (Yuzhny)",
@@ -7213,7 +7379,7 @@
     [
       "RW28",
       276,
-      69,
+      66,
       9216,
       8,
       "Taganrog (Yuzhny)",
@@ -7233,7 +7399,7 @@
     [
       "RW02",
       22,
-      50,
+      51,
       8202,
       7,
       "Sochi",
@@ -7264,7 +7430,9 @@
       "02/20 - RL. Rwy 02 Takeoff not allowed. Rwy 20 Landing not allowed. 06/24 - RL. Rwy 06 Takeoff not allowed. Rwy 24 Landing not allowed. H24. Customs. Jet A-1. Fire 9.",
       43.4352777777778,
       39.9355555555556,
-      "PCN 49/R/A/W/T"
+      "PCN 49/R/A/W/T",
+      50,
+      1296
     ],
     [
       "RW06",
@@ -7287,7 +7455,7 @@
     [
       "RW24",
       238,
-      86,
+      87,
       9498,
       7,
       "Sochi",
@@ -7300,7 +7468,9 @@
       "02/20 - RL. Rwy 02 Takeoff not allowed. Rwy 20 Landing not allowed. 06/24 - RL. Rwy 06 Takeoff not allowed. Rwy 24 Landing not allowed. H24. Customs. Jet A-1. Fire 9.",
       43.4352777777778,
       39.9355555555556,
-      "PCN 63/R/B/W/T"
+      "PCN 63/R/B/W/T",
+      46,
+      1365
     ]
   ],
   "URWA": [
@@ -7338,7 +7508,9 @@
       "09/27 - HIRL. H24. Customs. Jet A-1. Fire 7.",
       46.2833333333333,
       48.0011111111111,
-      "PCN 40/F/C/X/T"
+      "PCN 40/F/C/X/T",
+      62,
+      5255
     ]
   ],
   "URWI": [
@@ -7452,7 +7624,9 @@
       "09/27 - HIRL. ALS 27. H24. Customs. Jet A-1. Fire 8.",
       55.3008333333333,
       61.5005555555556,
-      "PCN 60/R/A/W/T"
+      "PCN 60/R/A/W/T",
+      38,
+      3051
     ]
   ],
   "USCM": [
@@ -7535,7 +7709,7 @@
     [
       "RW10",
       96,
-      23,
+      22,
       8698,
       29,
       "Bovanenkovo",
@@ -7649,7 +7823,7 @@
     [
       "RW16",
       162,
-      361,
+      360,
       8307,
       20,
       "Nyagan",
@@ -7667,7 +7841,7 @@
     [
       "RW34",
       342,
-      358,
+      341,
       8307,
       20,
       "Nyagan",
@@ -7756,14 +7930,16 @@
       "12/30 - RL. Mon-Fri, Sun 0400-1400. Sat clsd. O/T PPR. For Russian users only. Jet A-1. Fire 5.",
       61.3180555555556,
       63.6008333333333,
-      "PCN 27/R/A/X/T"
+      "PCN 27/R/A/X/T",
+      173,
+      12057
     ]
   ],
   "USHU": [
     [
       "RW18",
       175,
-      188,
+      187,
       7552,
       17,
       "Uray",
@@ -7776,12 +7952,14 @@
       "18/36 - RL. ALS. Mon-Fri 0400-1300, Sat 0500-1300.Sun clsd. O/T only on previous request. For Russian users only. Jet A-1. Fire 5.",
       60.1011111111111,
       64.8180555555555,
-      "PCN 20/R/A/X/T"
+      "PCN 20/R/A/X/T",
+      43,
+      2756
     ],
     [
       "RW36",
       355,
-      181,
+      180,
       7552,
       17,
       "Uray",
@@ -7801,7 +7979,7 @@
     [
       "RW01",
       10,
-      533,
+      530,
       8202,
       15,
       "Izhevsk",
@@ -7819,7 +7997,7 @@
     [
       "RW19",
       190,
-      510,
+      497,
       8202,
       15,
       "Izhevsk",
@@ -7838,8 +8016,8 @@
   "USKK": [
     [
       "RW03",
-      33,
-      487,
+      32,
+      471,
       8868,
       16,
       "Kirov (Pobedilovo)",
@@ -7856,8 +8034,8 @@
     ],
     [
       "RW21",
-      213,
-      471,
+      212,
+      465,
       8868,
       16,
       "Kirov (Pobedilovo)",
@@ -7908,7 +8086,9 @@
       "14/32 - 0300-1330. For Russian users only. Jet A-1. Fire 6.",
       65.4691666666667,
       72.6858333333333,
-      "PCN 40/R/A/X/T"
+      "PCN 40/R/A/X/T",
+      23,
+      508
     ]
   ],
   "USMQ": [
@@ -7971,7 +8151,7 @@
     [
       "RW27",
       267,
-      203,
+      201,
       8369,
       21,
       "Novy Urengoy",
@@ -8042,7 +8222,9 @@
       "03/21 - HIRL. H24. Customs. Jet A-1. Fire 7.",
       57.9025,
       56.0175,
-      "PCN 55/R/C/W/T"
+      "PCN 55/R/C/W/T",
+      34,
+      1410
     ],
     [
       "RW21",
@@ -8060,7 +8242,9 @@
       "03/21 - HIRL. H24. Customs. Jet A-1. Fire 7.",
       57.9025,
       56.0175,
-      "PCN 55/R/C/W/T"
+      "PCN 55/R/C/W/T",
+      185,
+      13533
     ]
   ],
   "USRK": [
@@ -8085,7 +8269,7 @@
     [
       "RW35",
       352,
-      219,
+      217,
       8225,
       18,
       "Kogalym",
@@ -8105,7 +8289,7 @@
     [
       "RW01",
       7,
-      443,
+      435,
       8222,
       18,
       "Noyabrsk",
@@ -8123,7 +8307,7 @@
     [
       "RW19",
       187,
-      442,
+      426,
       8222,
       18,
       "Noyabrsk",
@@ -8136,7 +8320,9 @@
       "01/19 - RL. 10 NOV - 30 APR. Daily 0300-1300. Customs: H24 For Russian users only. Jet A-1. Fire 6.",
       63.1833333333333,
       75.2669444444444,
-      "PCN 39/R/A/X/T"
+      "PCN 39/R/A/X/T",
+      33,
+      1109
     ]
   ],
   "USRR": [
@@ -8194,7 +8380,9 @@
       "08L/26R - HIRL. It is prohibited for B747 ACFT to use RWY 08L/26R PAPI. from 05DEC until 31 MAR. 08R/26L - HIRL. ALS 26L. from 05 DEC until 31 MAR. H24. Customs. Jet A-1. Fire 8 Fire 9: 4 days PPR.",
       56.735,
       60.8005555555556,
-      "PCN 101/F/D/W/T"
+      "PCN 101/F/D/W/T",
+      83,
+      3277
     ],
     [
       "RW26R",
@@ -8212,7 +8400,9 @@
       "08L/26R - HIRL. It is prohibited for B747 ACFT to use RWY 08L/26R PAPI. from 05DEC until 31 MAR. 08R/26L - HIRL. ALS 26L. from 05 DEC until 31 MAR. H24. Customs. Jet A-1. Fire 8 Fire 9: 4 days PPR.",
       56.735,
       60.8005555555556,
-      "PCN 101/F/D/W/T"
+      "PCN 101/F/D/W/T",
+      292,
+      17703
     ],
     [
       "RW08R",
@@ -8230,7 +8420,9 @@
       "08L/26R - HIRL. It is prohibited for B747 ACFT to use RWY 08L/26R PAPI. from 05DEC until 31 MAR. 08R/26L - HIRL. ALS 26L. from 05 DEC until 31 MAR. H24. Customs. Jet A-1. Fire 8 Fire 9: 4 days PPR.",
       56.735,
       60.8005555555556,
-      "PCN 52/R/B/W/T"
+      "PCN 52/R/B/W/T",
+      62,
+      1171
     ],
     [
       "RW26L",
@@ -8248,7 +8440,9 @@
       "08L/26R - HIRL. It is prohibited for B747 ACFT to use RWY 08L/26R PAPI. from 05DEC until 31 MAR. 08R/26L - HIRL. ALS 26L. from 05 DEC until 31 MAR. H24. Customs. Jet A-1. Fire 8 Fire 9: 4 days PPR.",
       56.735,
       60.8005555555556,
-      "PCN 52/R/B/W/T"
+      "PCN 52/R/B/W/T",
+      324,
+      16998
     ]
   ],
   "USTJ": [
@@ -8268,7 +8462,9 @@
       "08/26 - RL. By Notam. Jet A-1. Fire 7.",
       58.0513888888889,
       68.3358333333333,
-      "PCN 44/R/B/W/T"
+      "PCN 44/R/B/W/T",
+      70,
+      4986
     ],
     [
       "RW26",
@@ -8286,7 +8482,9 @@
       "08/26 - RL. By Notam. Jet A-1. Fire 7.",
       58.0513888888889,
       68.3358333333333,
-      "PCN 44/R/B/W/T"
+      "PCN 44/R/B/W/T",
+      75,
+      5265
     ]
   ],
   "USTR": [
@@ -8324,7 +8522,9 @@
       "03/21 - HIRL. 20 NOV - 31 MAR 12/30 - RL. 20 NOV - 31 MAR H24. Customs. Jet A-1. Fire 7 Cat 8 OR 5 HR prior to ARR.",
       57.1669444444444,
       65.3166666666667,
-      "PCN 75/R/C/X/T"
+      "PCN 75/R/C/X/T",
+      39,
+      1833
     ],
     [
       "RW12",
@@ -8380,7 +8580,9 @@
       "02/20 - RL. By Notam. For Russian users only. Jet A-1. Fire 6.",
       55.4680555555556,
       65.4025,
-      "PCN 50/F/D/X/T"
+      "PCN 50/F/D/X/T",
+      73,
+      3691
     ],
     [
       "RW20",
@@ -8398,7 +8600,9 @@
       "02/20 - RL. By Notam. For Russian users only. Jet A-1. Fire 6.",
       55.4680555555556,
       65.4025,
-      "PCN 50/F/D/X/T"
+      "PCN 50/F/D/X/T",
+      95,
+      5964
     ]
   ],
   "UUBA": [
@@ -8474,7 +8678,9 @@
       "13/31 - RL. H24. Customs. Jet A-1. Fire 6.",
       54.5358333333333,
       36.3675,
-      "PCN 65/F/D/X/T"
+      "PCN 65/F/D/X/T",
+      201,
+      13189
     ]
   ],
   "UUBI": [
@@ -8494,7 +8700,9 @@
       "11/29 - HIRL. ALS 11. Mon-Thu 0700-1400, Fri-Sun 0700-1000. Outside by arrangement 24 HR. For Russian Users Only. Jet A-1. Fire 5 CAT 3 outside AD ops hr.",
       56.9347222222222,
       40.9191666666667,
-      "PCN 53/F/D/X/T"
+      "PCN 53/F/D/X/T",
+      52,
+      1863
     ],
     [
       "RW29",
@@ -8512,7 +8720,9 @@
       "11/29 - HIRL. ALS 11. Mon-Thu 0700-1400, Fri-Sun 0700-1000. Outside by arrangement 24 HR. For Russian Users Only. Jet A-1. Fire 5 CAT 3 outside AD ops hr.",
       56.9347222222222,
       40.9191666666667,
-      "PCN 53/F/D/X/T"
+      "PCN 53/F/D/X/T",
+      82,
+      4281
     ]
   ],
   "UUBP": [
@@ -8550,7 +8760,9 @@
       "16/34 - 0600-1500. ARR of non-sked and intl flights by prior arrangement 24 HR before arrival. Customs: PPR 24 HR. Jet A-1. Fire 6.",
       53.2025,
       34.1680555555556,
-      "PCN 24/R/B/W/T"
+      "PCN 24/R/B/W/T",
+      40,
+      1148
     ]
   ],
   "UUBW": [
@@ -8570,7 +8782,9 @@
       "12/30 - HIRL. HIALS 30. 0400-2300. Customs: H24. Jet A-1. Fire 8.",
       55.5505555555556,
       38.15,
-      "PCN 65/R/B/W/T"
+      "PCN 65/R/B/W/T",
+      57,
+      2700
     ],
     [
       "RW30",
@@ -8588,16 +8802,18 @@
       "12/30 - HIRL. HIALS 30. 0400-2300. Customs: H24. Jet A-1. Fire 8.",
       55.5505555555556,
       38.15,
-      "PCN 65/R/B/W/T"
+      "PCN 65/R/B/W/T",
+      90,
+      4238
     ]
   ],
   "UUDD": [
     [
       "RW13L",
-      135,
+      134,
       543,
       12467,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8608,14 +8824,16 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 94/R/A/W/T"
+      "PCN 94/R/A/W/T",
+      105,
+      7093
     ],
     [
       "RW31R",
-      315,
+      314,
       523,
       12467,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8626,14 +8844,16 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 94/R/A/W/T"
+      "PCN 94/R/A/W/T",
+      82,
+      3395
     ],
     [
       "RW13C",
-      135,
-      544,
+      134,
+      545,
       7776,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8644,14 +8864,16 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 74/R/C/X/T"
+      "PCN 74/R/C/X/T",
+      104,
+      4773
     ],
     [
       "RW31C",
-      315,
-      524,
+      314,
+      525,
       7776,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8662,14 +8884,16 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 74/R/C/X/T"
+      "PCN 74/R/C/X/T",
+      101,
+      5348
     ],
     [
       "RW13R",
-      135,
-      592,
+      134,
+      593,
       11483,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8680,14 +8904,16 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 57/R/A/W/T"
+      "PCN 57/R/A/W/T",
+      90,
+      6470
     ],
     [
       "RW31L",
-      315,
+      314,
       531,
       11483,
-      11,
+      12,
       "Moscow (Domodedovo)",
       "DME",
       592,
@@ -8698,7 +8924,9 @@
       "13C/31C - HIRL. 13L/31R - HIRL. ALS. 13R/31L - HIRL. ALS 13R. H24. Customs. Jet A-1. Fire 9 Fire cat 7 RWY 14C/32C.",
       55.4013888888889,
       37.9011111111111,
-      "PCN 57/R/A/W/T"
+      "PCN 57/R/A/W/T",
+      100,
+      4616
     ]
   ],
   "UUDL": [
@@ -8718,7 +8946,9 @@
       "05/23 - HIRL. Winter period 01 DEC - 15 MAR: 0500-1700. Customs: H24, by prior request. Jet A-1. Fire 7.",
       57.5516666666667,
       40.1511111111111,
-      "PCN 38/R/C/X/T"
+      "PCN 38/R/C/X/T",
+      50,
+      820
     ],
     [
       "RW23",
@@ -8736,7 +8966,9 @@
       "05/23 - HIRL. Winter period 01 DEC - 15 MAR: 0500-1700. Customs: H24, by prior request. Jet A-1. Fire 7.",
       57.5516666666667,
       40.1511111111111,
-      "PCN 38/R/C/X/T"
+      "PCN 38/R/C/X/T",
+      76,
+      2066
     ]
   ],
   "UUEE": [
@@ -8756,7 +8988,9 @@
       "06C/24C - HIRL. ALS 24C. 06L/24R - HIRL. ALS. 06R/24L - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.9675,
       37.4022222222222,
-      "PCN 69/R/A/W/T"
+      "PCN 69/R/A/W/T",
+      138,
+      5085
     ],
     [
       "RW24R",
@@ -8774,12 +9008,14 @@
       "06C/24C - HIRL. ALS 24C. 06L/24R - HIRL. ALS. 06R/24L - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.9675,
       37.4022222222222,
-      "PCN 69/R/A/W/T"
+      "PCN 69/R/A/W/T",
+      471,
+      26686
     ],
     [
       "RW06C",
       63,
-      620,
+      619,
       11654,
       12,
       "Moscow (Sheremetyevo)",
@@ -8792,7 +9028,9 @@
       "06C/24C - HIRL. ALS 24C. 06L/24R - HIRL. ALS. 06R/24L - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.9675,
       37.4022222222222,
-      "PCN 68/R/A/W/T"
+      "PCN 68/R/A/W/T",
+      93,
+      6817
     ],
     [
       "RW24C",
@@ -8828,7 +9066,9 @@
       "06C/24C - HIRL. ALS 24C. 06L/24R - HIRL. ALS. 06R/24L - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.9675,
       37.4022222222222,
-      "PCN 64/R/A/W/T"
+      "PCN 64/R/A/W/T",
+      65,
+      4117
     ],
     [
       "RW24L",
@@ -8853,7 +9093,7 @@
     [
       "RW11",
       109,
-      735,
+      736,
       8202,
       8,
       "Belgorod",
@@ -8884,14 +9124,56 @@
       "11/29 - HIRL. H24. Customs. Jet A-1. Fire 7.",
       50.635,
       36.5844444444444,
-      "PCN 57/F/D/X/T"
+      "PCN 57/F/D/X/T",
+      56,
+      2230
+    ]
+  ],
+  "UUOD": [
+    [
+      "RW03",
+      28,
+      353,
+      7218,
+      10,
+      "Voronezh (Pridacha)",
+      "UUOD",
+      358,
+      7218,
+      7710,
+      7218,
+      0,
+      "03/21 - RL. Rwy 03 Landing not allowed. Rwy 21 Takeoff not allowed. Mon-Fri 0500-1400, Sat, Sun, Hol - U/S. Customs: O/R For Russian Users Only. Jet A-1. ABN. Fire 7.",
+      51.6505555555556,
+      39.2511111111111,
+      "PCN 30/R/A/W/T",
+      91,
+      1853
+    ],
+    [
+      "RW21",
+      208,
+      358,
+      7218,
+      10,
+      "Voronezh (Pridacha)",
+      "UUOD",
+      358,
+      7218,
+      0,
+      0,
+      7218,
+      "03/21 - RL. Rwy 03 Landing not allowed. Rwy 21 Takeoff not allowed. Mon-Fri 0500-1400, Sat, Sun, Hol - U/S. Customs: O/R For Russian Users Only. Jet A-1. ABN. Fire 7.",
+      51.6505555555556,
+      39.2511111111111,
+      "PCN 30/R/A/W/T"
     ]
   ],
   "UUOK": [
     [
       "RW12",
       116,
-      659,
+      656,
       8205,
       8,
       "Kursk (Vostochny)",
@@ -8904,7 +9186,9 @@
       "12/30 - Rwy 12/30 first 50m are not avbl for take-off. Mon-Sun 0400-1900. Customs: By coordination. Jet A-1. Fire 6.",
       51.75,
       36.2852777777778,
-      "PCN 22/R/A/X/T"
+      "PCN 22/R/A/X/T",
+      97,
+      6791
     ],
     [
       "RW30",
@@ -8922,16 +9206,18 @@
       "12/30 - Rwy 12/30 first 50m are not avbl for take-off. Mon-Sun 0400-1900. Customs: By coordination. Jet A-1. Fire 6.",
       51.75,
       36.2852777777778,
-      "PCN 22/R/A/X/T"
+      "PCN 22/R/A/X/T",
+      410,
+      30659
     ]
   ],
   "UUOL": [
     [
       "RW15",
-      150,
+      149,
       578,
       7687,
-      10,
+      11,
       "Lipetsk",
       "LPK",
       587,
@@ -8942,14 +9228,16 @@
       "15/33 - H24. Customs: By coordination. Jet A-1. Fire 6.",
       52.7002777777778,
       39.5341666666667,
-      "PCN 41/R/B/W/T"
+      "PCN 41/R/B/W/T",
+      45,
+      3468
     ],
     [
       "RW33",
-      330,
-      568,
+      329,
+      571,
       7687,
-      10,
+      11,
       "Lipetsk",
       "LPK",
       587,
@@ -8960,7 +9248,9 @@
       "15/33 - H24. Customs: By coordination. Jet A-1. Fire 6.",
       52.7002777777778,
       39.5341666666667,
-      "PCN 41/R/B/W/T"
+      "PCN 41/R/B/W/T",
+      32,
+      1706
     ]
   ],
   "UUOO": [
@@ -8985,7 +9275,7 @@
     [
       "RW30",
       301,
-      485,
+      486,
       7546,
       10,
       "Voronezh (Chertovitskoye)",
@@ -9015,10 +9305,10 @@
       7218,
       5906,
       5906,
-      "04/22 - ALS. For Russian users only.",
+      "04/22 - RL. ALS. For Russian users only.",
       51.3186111111111,
       37.7669444444444,
-      "PCN 21/R/B/W/T"
+      "PCN 17/R/B/W/T"
     ],
     [
       "RW22",
@@ -9033,17 +9323,17 @@
       7218,
       5906,
       5906,
-      "04/22 - ALS. For Russian users only.",
+      "04/22 - RL. ALS. For Russian users only.",
       51.3186111111111,
       37.7669444444444,
-      "PCN 21/R/B/W/T"
+      "PCN 17/R/B/W/T"
     ]
   ],
   "UUOT": [
     [
       "RW14",
       142,
-      401,
+      389,
       6886,
       11,
       "Tambov (Donskoe)",
@@ -9056,12 +9346,14 @@
       "14/32 - RL. First 50m of Rwy 14 not used for takeoff. Mon-Fri: 0530-1330, Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 5.",
       52.8011111111111,
       41.4833333333333,
-      "PCN 23/R/C/X/T"
+      "PCN 23/R/C/X/T",
+      62,
+      2739
     ],
     [
       "RW32",
       322,
-      416,
+      410,
       6886,
       11,
       "Tambov (Donskoe)",
@@ -9074,7 +9366,9 @@
       "14/32 - RL. First 50m of Rwy 14 not used for takeoff. Mon-Fri: 0530-1330, Sat,Sun,Hol clsd. For Russian users only. Jet A-1. Fire 5.",
       52.8011111111111,
       41.4833333333333,
-      "PCN 23/R/C/X/T"
+      "PCN 23/R/C/X/T",
+      52,
+      1735
     ]
   ],
   "UUWW": [
@@ -9094,7 +9388,9 @@
       "01/19 - HIRL. ALS 19. 06/24 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.5858333333333,
       37.2677777777778,
-      "PCN 105/F/D/X/T"
+      "PCN 105/F/D/X/T",
+      39,
+      1679
     ],
     [
       "RW19",
@@ -9112,7 +9408,9 @@
       "01/19 - HIRL. ALS 19. 06/24 - HIRL. ALS. H24. Customs. Jet A-1. Fire 9.",
       55.5858333333333,
       37.2677777777778,
-      "PCN 105/F/D/X/T"
+      "PCN 105/F/D/X/T",
+      77,
+      4137
     ],
     [
       "RW06",
@@ -9155,7 +9453,7 @@
     [
       "RW17",
       174,
-      446,
+      430,
       8691,
       21,
       "Ukhta",
@@ -9168,12 +9466,14 @@
       "17/35 - RL. 0500-1700. For Russian users only. Jet A-1. Fire 5 during AD OPR HR, O/T Cat 3.",
       63.5666666666667,
       53.8008333333333,
-      "PCN 34/F/B/X/T"
+      "PCN 34/F/B/X/T",
+      37,
+      1656
     ],
     [
       "RW35",
       354,
-      482,
+      474,
       8691,
       21,
       "Ukhta",
@@ -9186,7 +9486,9 @@
       "17/35 - RL. 0500-1700. For Russian users only. Jet A-1. Fire 5 during AD OPR HR, O/T Cat 3.",
       63.5666666666667,
       53.8008333333333,
-      "PCN 34/F/B/X/T"
+      "PCN 34/F/B/X/T",
+      44,
+      1935
     ]
   ],
   "UUYS": [
@@ -9206,7 +9508,9 @@
       "13/31 - ALS 31. 0400-1600, ALTN during AD ops hr. For Russian users only. Jet A-1. Fire 5 O/T Cat 3.",
       66.0008333333333,
       57.3666666666667,
-      "PCN 31/R/A/X/T"
+      "PCN 31/R/A/X/T",
+      18,
+      256
     ],
     [
       "RW31",
@@ -9231,7 +9535,7 @@
     [
       "RW08",
       77,
-      574,
+      544,
       7218,
       25,
       "Vorkuta",
@@ -9244,12 +9548,14 @@
       "08/26 - Rwy 08 Right-Hand Circuit. First 300 m available only for landing. for for hel Mon-Sat 0400-1600. For Russian users only. Fire 5.",
       67.4841666666667,
       63.985,
-      "PCN 13/R/B/X/T"
+      "PCN 13/R/B/X/T",
+      53,
+      787
     ],
     [
       "RW26",
       257,
-      598,
+      599,
       7218,
       25,
       "Vorkuta",
@@ -9282,12 +9588,14 @@
       "18/36 - H24. Customs. Jet A-1. Fire 7.",
       61.6355555555556,
       50.8352777777778,
-      "PCN 49/F/D/X/T"
+      "PCN 49/F/D/X/T",
+      33,
+      1663
     ],
     [
       "RW36",
       3,
-      332,
+      331,
       8212,
       19,
       "Syktyvkar",
@@ -9300,7 +9608,9 @@
       "18/36 - H24. Customs. Jet A-1. Fire 7.",
       61.6355555555556,
       50.8352777777778,
-      "PCN 49/F/D/X/T"
+      "PCN 49/F/D/X/T",
+      78,
+      3041
     ]
   ],
   "UWGG": [
@@ -9317,10 +9627,12 @@
       9843,
       9843,
       9843,
-      "18L/36R - CONCRETE. HIRL. ALS 18L. 18R/36L - HIRL. H24. Customs. Jet A-1. Fire 8.",
+      "18L/36R - CONCRETE. HIRL. ALS 18L. 18R/36L - ASPH/CONC. HIRL. Rwy 18R Runway closed. Rwy 36L Runway closed. H24. Customs. Jet A-1. Fire 8.",
       56.2188888888889,
       43.7833333333333,
-      "PCN 60/R/B/W/T"
+      "PCN 60/R/B/W/T",
+      277,
+      12992
     ],
     [
       "RW36R",
@@ -9335,7 +9647,7 @@
       9843,
       9843,
       9843,
-      "18L/36R - CONCRETE. HIRL. ALS 18L. 18R/36L - HIRL. H24. Customs. Jet A-1. Fire 8.",
+      "18L/36R - CONCRETE. HIRL. ALS 18L. 18R/36L - ASPH/CONC. HIRL. Rwy 18R Runway closed. Rwy 36L Runway closed. H24. Customs. Jet A-1. Fire 8.",
       56.2188888888889,
       43.7833333333333,
       "PCN 60/R/B/W/T"
@@ -9347,7 +9659,7 @@
       10,
       991,
       6506,
-      13,
+      14,
       "Bugulma",
       "UUA",
       991,
@@ -9365,7 +9677,7 @@
       190,
       961,
       6506,
-      13,
+      14,
       "Bugulma",
       "UUA",
       991,
@@ -9393,7 +9705,7 @@
       12795,
       12303,
       12303,
-      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 8.",
+      "11/29 - HIRL. H24. Customs. Jet A-1. Fire 8.",
       55.6011111111111,
       49.2688888888889,
       "PCN 55/R/A/W/T"
@@ -9411,7 +9723,7 @@
       12795,
       12303,
       12303,
-      "11/29 - HIRL. ALS 11. H24. Customs. Jet A-1. Fire 8.",
+      "11/29 - HIRL. H24. Customs. Jet A-1. Fire 8.",
       55.6011111111111,
       49.2688888888889,
       "PCN 55/R/A/W/T"
@@ -9490,7 +9802,9 @@
       "16/34 - 0540-1330. For Russian users only. Jet A-1. Fire 5.",
       56.7008333333333,
       47.8852777777778,
-      "PCN 16/F/D/Y/T"
+      "PCN 16/F/D/Y/T",
+      146,
+      9114
     ]
   ],
   "UWKS": [
@@ -9528,7 +9842,9 @@
       "06/24 - HIRL. 0500-1930. Jet A-1. Fire 6.",
       56.0844444444444,
       47.3355555555556,
-      "PCN 55/F/D/X/T"
+      "PCN 55/F/D/X/T",
+      59,
+      2772
     ]
   ],
   "UWLL": [
@@ -9566,7 +9882,9 @@
       "02/20 - HIRL. Rwy 20 Right-Hand Circuit. H24. Customs: By prior request 72hrs. Jet A-1. Fire 7.",
       54.2675,
       48.2183333333333,
-      "PCN 64/R/C/X/T"
+      "PCN 64/R/C/X/T",
+      45,
+      3651
     ]
   ],
   "UWLW": [
@@ -9687,7 +10005,7 @@
     [
       "RW10",
       104,
-      588,
+      568,
       9186,
       12,
       "Penza",
@@ -9700,7 +10018,9 @@
       "10/28 - HIRL. H24. For Russian users only. Jet A-1. Fire 6.",
       53.1013888888889,
       45.0183333333333,
-      "PCN 44/R/B/X/T"
+      "PCN 44/R/B/X/T",
+      234,
+      8750
     ],
     [
       "RW28",
@@ -9718,7 +10038,9 @@
       "10/28 - HIRL. H24. For Russian users only. Jet A-1. Fire 6.",
       53.1013888888889,
       45.0183333333333,
-      "PCN 44/R/B/X/T"
+      "PCN 44/R/B/X/T",
+      371,
+      30423
     ]
   ],
   "UWPS": [
@@ -9844,7 +10166,7 @@
       13,
       "Samara (Kurumoch)",
       "KUF",
-      477,
+      421,
       9846,
       11158,
       9846,
@@ -9862,7 +10184,7 @@
       13,
       "Samara (Kurumoch)",
       "KUF",
-      477,
+      421,
       9846,
       11158,
       9846,
@@ -9870,7 +10192,9 @@
       "05/23 - ASPH/CONC. HIRL. Rwy 05 Runway closed. Rwy 23 Runway closed. 15/33 - HIRL. ALS 15. H24. Customs. Jet A-1. Fire 8.",
       53.5002777777778,
       50.1505555555556,
-      "PCN 82/R/C/X/T"
+      "PCN 82/R/C/X/T",
+      268,
+      18349
     ]
   ],
   "URKG": [
@@ -9887,10 +10211,12 @@
       6890,
       6890,
       10171,
-      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - Rwy 01 Takeoff Use 2100m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
       44.5691666666667,
       38.0022222222222,
-      "PCN 62/F/D/X/T"
+      "PCN 62/F/D/X/T",
+      423,
+      6496
     ],
     [
       "RW01EXT",
@@ -9905,10 +10231,12 @@
       7546,
       7546,
       0,
-      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - Rwy 01 Takeoff Use 2300m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
       44.5691666666667,
       38.0022222222222,
-      "PCN 62/F/D/X/T"
+      "PCN 62/F/D/X/T",
+      420,
+      5840
     ],
     [
       "RW19",
@@ -9923,7 +10251,7 @@
       10663,
       10171,
       0,
-      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - Rwy 01 Takeoff Use 2100m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
       44.5691666666667,
       38.0022222222222,
       "PCN 62/F/D/X/T"
@@ -9941,7 +10269,7 @@
       0,
       0,
       0,
-      "01/19 - Rwy 01 Takeoff Use 2000m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
+      "01/19 - Rwy 01 Takeoff Use 2300m TORA - Per Approval From ARPT. Rwy 19 Landing not allowed. 0530-1700. O/T 48hr PPR. For Russian users only. Jet A-1. Fire 7.",
       44.5691666666667,
       38.0022222222222,
       "PCN 62/F/D/X/T"
@@ -10065,7 +10393,7 @@
     [
       "RW07",
       72,
-      10,
+      9,
       8199,
       28,
       "Amderma",
@@ -10083,7 +10411,7 @@
     [
       "RW25",
       252,
-      13,
+      12,
       8199,
       28,
       "Amderma",
@@ -10139,7 +10467,7 @@
   ],
   "URFF": [
     [
-      "RW01",
+      "RW01L",
       7,
       598,
       12142,
@@ -10151,13 +10479,15 @@
       13454,
       12142,
       12142,
-      "01/19 - REINFORCED CONCRETE. ALS.",
+      "01L/19R - REINFORCED CONCRETE. CAT-I CALVERT. 01R/19L - CEMENT-CONCRETE. ALSF-II.",
       45.0502777777778,
       33.9736111111111,
-      "PCN 53/R/B/X/T"
+      "PCN 52/R/B/W/T",
+      81,
+      6007
     ],
     [
-      "RW19",
+      "RW19R",
       187,
       578,
       12142,
@@ -10169,10 +10499,48 @@
       13454,
       12142,
       12142,
-      "01/19 - REINFORCED CONCRETE. ALS.",
+      "01L/19R - REINFORCED CONCRETE. CAT-I CALVERT. 01R/19L - CEMENT-CONCRETE. ALSF-II.",
       45.0502777777778,
       33.9736111111111,
-      "PCN 53/R/B/X/T"
+      "PCN 52/R/B/W/T"
+    ],
+    [
+      "RW01R",
+      3,
+      611,
+      10499,
+      7,
+      "Simferopol",
+      "SIP",
+      597,
+      10499,
+      10991,
+      10499,
+      10499,
+      "01L/19R - REINFORCED CONCRETE. CAT-I CALVERT. 01R/19L - CEMENT-CONCRETE. ALSF-II.",
+      45.0502777777778,
+      33.9736111111111,
+      "PCN 64/R/A/W/T"
+    ],
+    [
+      "RW19L",
+      183,
+      625,
+      10499,
+      7,
+      "Simferopol",
+      "SIP",
+      597,
+      10499,
+      10991,
+      10499,
+      10499,
+      "01L/19R - REINFORCED CONCRETE. CAT-I CALVERT. 01R/19L - CEMENT-CONCRETE. ALSF-II.",
+      45.0502777777778,
+      33.9736111111111,
+      "PCN 64/R/A/W/T",
+      270,
+      12834
     ]
   ],
   "UUMB": [
@@ -10325,42 +10693,44 @@
       ""
     ]
   ],
-  "XLLV": [
+  "ULLA": [
     [
       "RW08",
-      78,
+      75,
       52,
       8835,
-      9,
+      12,
       "Levashovo",
-      "XLLV",
-      71,
-      8835,
-      8835,
-      8835,
-      8835,
-      "08/26 - CONCRETE. ALS 26. ",
+      "LEW",
+      74,
+      8825,
+      9481,
+      8825,
+      8825,
+      "08/26 - CEMENT-CONCRETE . ALS 08. ALS 26. ",
       60.083,
       30.183,
-      ""
+      "PCN 53/R/C/W/T"
     ],
     [
       "RW26",
-      258,
+      255,
       71,
       8835,
-      9,
+      12,
       "Levashovo",
-      "XLLV",
-      71,
-      8835,
-      8835,
-      8835,
-      8835,
-      "08/26 - CONCRETE. ALS 26. ",
+      "LEW",
+      74,
+      8825,
+      9481,
+      8825,
+      8825,
+      "08/26 - CEMENT-CONCRETE . ALS 08. ALS 26. ",
       60.083,
       30.183,
-      ""
+      "PCN 53/R/C/W/T",
+      81,
+      3231
     ]
   ],
   "XUDE": [
@@ -10437,6 +10807,158 @@
       57.65,
       34.083,
       ""
+    ]
+  ],
+  "XUBV": [
+    [
+      "RW10",
+      98,
+      657,
+      8212,
+      11,
+      "Pochinok",
+      "XUBV",
+      665,
+      8212,
+      8212,
+      8212,
+      8212,
+      "Military airport",
+      54.334722,
+      34.4675,
+      "PCN 33/R/C/W/T"
+    ],
+    [
+      "RW28",
+      278,
+      658,
+      8212,
+      11,
+      "Pochinok",
+      "XUBV",
+      665,
+      8212,
+      8212,
+      8212,
+      8212,
+      "Military airport",
+      54.334722,
+      34.4675,
+      "PCN 33/R/C/W/T"
+    ]
+  ],
+  "XUDM": [
+    [
+      "RW18",
+      184,
+      526,
+      8268,
+      13,
+      "Sarov Mius",
+      "XUDM",
+      528,
+      8268,
+      8268,
+      8268,
+      8268,
+      "Military airport",
+      54.95111,
+      43.301667,
+      "PCN 27/R/B/W/T"
+    ],
+    [
+      "RW36",
+      4,
+      513,
+      8268,
+      13,
+      "Sarov Mius",
+      "XUDM",
+      528,
+      8268,
+      8268,
+      8268,
+      8268,
+      "Military airport",
+      54.95111,
+      43.301667,
+      "PCN 27/R/B/W/T"
+    ]
+  ],
+  "XUDS": [
+    [
+      "RW06",
+      61,
+      266,
+      9829,
+      14,
+      "Nizhniy Novgorod Sormovo",
+      "XUDS",
+      269,
+      9829,
+      9829,
+      9829,
+      9829,
+      "Military airport",
+      56.316944,
+      43.785278,
+      "PCN 34/R/A/X/T"
+    ],
+    [
+      "RW24",
+      241,
+      266,
+      9829,
+      14,
+      "Nizhniy Novgorod Sormovo",
+      "XUDS",
+      269,
+      9829,
+      9829,
+      9829,
+      9829,
+      "Military airport",
+      56.316944,
+      43.785278,
+      "PCN 34/R/A/X/T"
+    ]
+  ],
+  "XUMT": [
+    [
+      "RW10",
+      100,
+      511,
+      9843,
+      10,
+      "Lukhovitsy Tretyakovo",
+      "XUMT",
+      518,
+      9843,
+      9843,
+      9843,
+      9843,
+      "Military airport",
+      54.905278,
+      39.026944,
+      "PCN 39/R/B/W/T"
+    ],
+    [
+      "RW28",
+      280,
+      508,
+      9843,
+      10,
+      "Lukhovitsy Tretyakovo",
+      "XUMT",
+      518,
+      9843,
+      9843,
+      9843,
+      9843,
+      "Military airport",
+      54.905278,
+      39.026944,
+      "PCN 39/R/B/W/T"
     ]
   ],
   "LZIB": [
@@ -10641,7 +11163,7 @@
       3970,
       3773,
       3773,
-      "06/24 - CONC/ASPH. - NONE. - NONE.",
+      "06/24 - GRASS. MPa. Rwy 06 Runway closed. Rwy 24 Runway closed. Mon-Fri 0700-1500 (0600-1400). O/T and holidays O/R 24hr PNR within operating hours. ATND SKD Mon-Fri 0700-1500 (0600-1400). O/T and holidays O/R 24hr PNR within operating hours. Customs: Flights from/to Non-Schengen states PPR in written form preceding workday before 1100 (1000) via Fax or E-mail. Jet A-1. Fire 3 Cat 4 O/R 24hr PNR.",
       49.2333333333333,
       18.6022222222222,
       "PCN 45/F/B/X/T"
@@ -10659,7 +11181,7 @@
       3970,
       3773,
       3773,
-      "06/24 - CONC/ASPH. - NONE. - NONE.",
+      "06/24 - GRASS. MPa. Rwy 06 Runway closed. Rwy 24 Runway closed. Mon-Fri 0700-1500 (0600-1400). O/T and holidays O/R 24hr PNR within operating hours. ATND SKD Mon-Fri 0700-1500 (0600-1400). O/T and holidays O/R 24hr PNR within operating hours. Customs: Flights from/to Non-Schengen states PPR in written form preceding workday before 1100 (1000) via Fax or E-mail. Jet A-1. Fire 3 Cat 4 O/R 24hr PNR.",
       49.2333333333333,
       18.6022222222222,
       "PCN 45/F/B/X/T"
@@ -10707,7 +11229,7 @@
     [
       "RW01",
       13,
-      2150,
+      2149,
       10049,
       3,
       "Kulob",
@@ -10717,7 +11239,7 @@
       0,
       0,
       10049,
-      "01/19 - RL. Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. During skd operations. Customs. Jet A-1. Fire 6.",
+      "01/19 - ASPH/CONC. - NONE. - NONE. - NONE.",
       37.9841666666667,
       69.8008333333333,
       "PCN 49/F/B/X/T e"
@@ -10725,17 +11247,17 @@
     [
       "RW19",
       193,
-      2293,
+      2296,
       10049,
       3,
       "Kulob",
       "TJU",
       2221,
       9721,
-      10600,
+      10541,
       9721,
       0,
-      "01/19 - RL. Rwy 01 Takeoff not allowed. Rwy 19 Landing not allowed. During skd operations. Customs. Jet A-1. Fire 6.",
+      "01/19 - ASPH/CONC. - NONE. - NONE. - NONE.",
       37.9841666666667,
       69.8008333333333,
       "PCN 49/F/B/X/T e"
@@ -10943,7 +11465,7 @@
       12467,
       11483,
       11483,
-      "16L/34R - RL. ALS. 16R/34L - CONCRETE. - NONE. - NONE.",
+      "16L/34R - RL. ALS. 16R/34L - H24. Customs. Jet A-1. ABN. Fire 8.",
       40.0522222222222,
       53.0011111111111,
       "PCN 70/R/A/X/T"
@@ -10961,14 +11483,14 @@
       12467,
       11483,
       11483,
-      "16L/34R - RL. ALS. 16R/34L - CONCRETE. - NONE. - NONE.",
+      "16L/34R - RL. ALS. 16R/34L - H24. Customs. Jet A-1. ABN. Fire 8.",
       40.0522222222222,
       53.0011111111111,
       "PCN 70/R/A/X/T"
     ],
     [
       "RW16L",
-      162,
+      161,
       237,
       8202,
       6,
@@ -10979,14 +11501,14 @@
       9186,
       8202,
       8202,
-      "16L/34R - RL. ALS. 16R/34L - CONCRETE. - NONE. - NONE.",
+      "16L/34R - RL. ALS. 16R/34L - H24. Customs. Jet A-1. ABN. Fire 8.",
       40.0522222222222,
       53.0011111111111,
       "PCN 26/R/A/X/T"
     ],
     [
       "RW34R",
-      342,
+      341,
       285,
       8202,
       6,
@@ -10997,7 +11519,7 @@
       9186,
       8202,
       8202,
-      "16L/34R - RL. ALS. 16R/34L - CONCRETE. - NONE. - NONE.",
+      "16L/34R - RL. ALS. 16R/34L - H24. Customs. Jet A-1. ABN. Fire 8.",
       40.0522222222222,
       53.0011111111111,
       "PCN 26/R/A/X/T"
@@ -11017,7 +11539,7 @@
       13451,
       12467,
       12467,
-      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. Jet A-1. Fire 8.",
+      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. Jet A-1. Fire 8.",
       37.6175,
       61.8855555555556,
       "PCN 80/R/A/W/T"
@@ -11035,7 +11557,7 @@
       13451,
       12467,
       12467,
-      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. Jet A-1. Fire 8.",
+      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. Jet A-1. Fire 8.",
       37.6175,
       61.8855555555556,
       "PCN 80/R/A/W/T"
@@ -11053,7 +11575,7 @@
       10170,
       9186,
       9186,
-      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. Jet A-1. Fire 8.",
+      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. Jet A-1. Fire 8.",
       37.6175,
       61.8855555555556,
       "PCN 40/R/A/X/T"
@@ -11071,7 +11593,7 @@
       10170,
       9186,
       9186,
-      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. © JEPPESEN, 1982, 2025. ALL RIGHTS RESERVED. Jet A-1. Fire 8.",
+      "17L/35R - HIRL. 17R/35L - HIRL. H24. Customs. Jet A-1. Fire 8.",
       37.6175,
       61.8855555555556,
       "PCN 40/R/A/X/T"
@@ -11839,10 +12361,10 @@
     [
       "RW04",
       41,
-      1543,
+      1550,
       10820,
-      4,
-      "Andijan",
+      5,
+      "Andijan (Andijan Intl)",
       "AZN",
       1568,
       10820,
@@ -11857,10 +12379,10 @@
     [
       "RW22",
       221,
-      1559,
+      1568,
       10820,
-      4,
-      "Andijan",
+      5,
+      "Andijan (Andijan Intl)",
       "AZN",
       1568,
       10820,
@@ -11933,7 +12455,7 @@
     [
       "RW28",
       283,
-      1533,
+      1534,
       10745,
       5,
       "Namangan",
@@ -11953,7 +12475,7 @@
     [
       "RW15",
       148,
-      248,
+      247,
       9865,
       7,
       "Nukus (Nukus Intl)",
@@ -11971,7 +12493,7 @@
     [
       "RW33",
       328,
-      246,
+      245,
       9865,
       7,
       "Nukus (Nukus Intl)",
@@ -11991,17 +12513,17 @@
     [
       "RW13",
       133,
-      320,
+      319,
       9843,
-      6,
-      "Urgench",
+      7,
+      "Urgench (Urgench Intl)",
       "UGC",
       321,
       9843,
       11155,
       10007,
       9843,
-      "13/31 - HIRL. H24. Customs. Jet A-1. Fire 8. Vostochny Intl.",
+      "13/31 - ASPH/CONC. - NONE. - NONE. - NONE.",
       41.5833333333333,
       60.635,
       "PCN 57/F/B/X/T"
@@ -12009,17 +12531,17 @@
     [
       "RW31",
       313,
-      319,
+      318,
       9843,
-      6,
-      "Urgench",
+      7,
+      "Urgench (Urgench Intl)",
       "UGC",
       321,
       9843,
       10827,
       10007,
       9843,
-      "13/31 - HIRL. H24. Customs. Jet A-1. Fire 8. Vostochny Intl.",
+      "13/31 - ASPH/CONC. - NONE. - NONE. - NONE.",
       41.5833333333333,
       60.635,
       "PCN 57/F/B/X/T"
@@ -12032,7 +12554,7 @@
       1118,
       13123,
       6,
-      "Navoi",
+      "Navoi (Navoi Intl)",
       "NVI",
       1142,
       13123,
@@ -12050,7 +12572,7 @@
       1140,
       13123,
       6,
-      "Navoi",
+      "Navoi (Navoi Intl)",
       "NVI",
       1142,
       13123,
@@ -12070,7 +12592,7 @@
       739,
       9843,
       5,
-      "Bukhara",
+      "Bukhara (Bukhara Intl)",
       "BHK",
       751,
       9843,
@@ -12088,7 +12610,7 @@
       751,
       9843,
       5,
-      "Bukhara",
+      "Bukhara (Bukhara Intl)",
       "BHK",
       751,
       9843,
@@ -12108,7 +12630,7 @@
       1229,
       9288,
       5,
-      "Karshi",
+      "Karshi (Karshi Intl)",
       "KSQ",
       1232,
       9288,
@@ -12123,10 +12645,10 @@
     [
       "RW34",
       339,
-      1219,
+      1220,
       9288,
       5,
-      "Karshi",
+      "Karshi (Karshi Intl)",
       "KSQ",
       1232,
       9288,
@@ -12146,7 +12668,7 @@
       2179,
       10187,
       5,
-      "Samarkand",
+      "Samarkand (Samarkand Intl)",
       "SKD",
       2223,
       10187,
@@ -12164,7 +12686,7 @@
       2221,
       10187,
       5,
-      "Samarkand",
+      "Samarkand (Samarkand Intl)",
       "SKD",
       2223,
       10187,
@@ -12215,6 +12737,44 @@
       "PCN 65/R/A/W/T"
     ]
   ],
+  "UZTP": [
+    [
+      "RW08",
+      76,
+      1538,
+      13123,
+      6,
+      "Tashkent (Vostochny Intl)",
+      "UZTP",
+      1583,
+      13123,
+      13615,
+      13369,
+      13123,
+      "08/26 - HIRL. ALS. During hours of scheduled operations. Customs. Jet A-1. Fire 9.",
+      41.3022222222222,
+      69.3855555555556,
+      "PCN 85/R/B/W/T"
+    ],
+    [
+      "RW26",
+      256,
+      1583,
+      13123,
+      6,
+      "Tashkent (Vostochny Intl)",
+      "UZTP",
+      1583,
+      13123,
+      13615,
+      13369,
+      13123,
+      "08/26 - HIRL. ALS. During hours of scheduled operations. Customs. Jet A-1. Fire 9.",
+      41.3022222222222,
+      69.3855555555556,
+      "PCN 85/R/B/W/T"
+    ]
+  ],
   "UZTT": [
     [
       "RW08L",
@@ -12222,14 +12782,14 @@
       1369,
       13123,
       5,
-      "Tashkent (Islam Karimov)",
+      "Tashkent (Islam Karimov Intl)",
       "TAS",
       1417,
       13123,
       13615,
       13123,
       12303,
-      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9. Tashkent (Vostochny Intl.",
+      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9.",
       41.2511111111111,
       69.2691666666667,
       "PCN 67/R/A/X/T"
@@ -12240,14 +12800,14 @@
       1414,
       13123,
       5,
-      "Tashkent (Islam Karimov)",
+      "Tashkent (Islam Karimov Intl)",
       "TAS",
       1417,
       13123,
       13615,
       13123,
       12303,
-      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9. Tashkent (Vostochny Intl.",
+      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9.",
       41.2511111111111,
       69.2691666666667,
       "PCN 67/R/A/X/T"
@@ -12258,14 +12818,14 @@
       1369,
       12812,
       5,
-      "Tashkent (Islam Karimov)",
+      "Tashkent (Islam Karimov Intl)",
       "TAS",
       1417,
       12320,
       12320,
       12320,
       11663,
-      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9. Tashkent (Vostochny Intl.",
+      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9.",
       41.2511111111111,
       69.2691666666667,
       "PCN 69/F/A/X/T"
@@ -12273,17 +12833,17 @@
     [
       "RW26L",
       256,
-      1417,
+      1412,
       12812,
       5,
-      "Tashkent (Islam Karimov)",
+      "Tashkent (Islam Karimov Intl)",
       "TAS",
       1417,
       12812,
       13304,
       12812,
       12139,
-      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9. Tashkent (Vostochny Intl.",
+      "08L/26R - HIRL. ALS 08L. 08R/26L - RL. H24. Customs. Jet A-1. Fire 9.",
       41.2511111111111,
       69.2691666666667,
       "PCN 69/F/A/X/T"
@@ -20862,10 +21422,10 @@
   "LTAC": [
     [
       "RW03L",
-      30,
+      32,
       3104,
       11125,
-      6,
+      4,
       "Ankara (Esenboga Intl)",
       "ESB",
       3158,
@@ -20880,10 +21440,10 @@
     ],
     [
       "RW21R",
-      210,
+      212,
       3124,
       11125,
-      6,
+      4,
       "Ankara (Esenboga Intl)",
       "ESB",
       3158,
@@ -20897,47 +21457,11 @@
       "PCN 139/F/A/W/T"
     ],
     [
-      "RW03C",
-      30,
-      3099,
-      12310,
-      6,
-      "Ankara (Esenboga Intl)",
-      "ESB",
-      3158,
-      12310,
-      12310,
-      12507,
-      12310,
-      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
-      40.1186111111111,
-      32.9852777777778,
-      "PCN 139/F/A/W/T"
-    ],
-    [
-      "RW21C",
-      210,
-      3126,
-      12310,
-      6,
-      "Ankara (Esenboga Intl)",
-      "ESB",
-      3158,
-      12310,
-      12310,
-      12507,
-      12310,
-      "03C/21C - HIRL. ALS. 03L/21R - HIRL. ALS. 03R/21L - ASPHALT. PCR: 1510/F/A/W/T. HIRL. ALS 03R. ALS 21L. H24. ATND SKD H24. Customs: H24. F-3, Jet A-1. ABN. Fire 10.",
-      40.1186111111111,
-      32.9852777777778,
-      "PCN 139/F/A/W/T"
-    ],
-    [
       "RW03R",
-      30,
-      3088,
+      32,
+      3099,
       12303,
-      6,
+      4,
       "Ankara (Esenboga Intl)",
       "ESB",
       3158,
@@ -20952,10 +21476,10 @@
     ],
     [
       "RW21L",
-      210,
-      3158,
+      212,
+      3126,
       12303,
-      6,
+      4,
       "Ankara (Esenboga Intl)",
       "ESB",
       3158,
@@ -20972,10 +21496,10 @@
   "LTAF": [
     [
       "RW05",
-      47,
+      50,
       52,
       9022,
-      6,
+      3,
       "Adana (Adana Intl)",
       "ADA",
       63,
@@ -20990,10 +21514,10 @@
     ],
     [
       "RW23",
-      227,
+      230,
       63,
       9022,
-      6,
+      3,
       "Adana (Adana Intl)",
       "ADA",
       63,
@@ -21196,10 +21720,10 @@
   "LTAN": [
     [
       "RW01L",
-      11,
+      12,
       3367,
       10984,
-      6,
+      4,
       "Konya",
       "KYA",
       3392,
@@ -21214,10 +21738,10 @@
     ],
     [
       "RW19R",
-      191,
+      192,
       3392,
       10984,
-      6,
+      4,
       "Konya",
       "KYA",
       3392,
@@ -21232,10 +21756,10 @@
     ],
     [
       "RW01R",
-      11,
+      12,
       3352,
       10984,
-      6,
+      4,
       "Konya",
       "KYA",
       3392,
@@ -21250,10 +21774,10 @@
     ],
     [
       "RW19L",
-      191,
+      192,
       3382,
       10984,
-      6,
+      4,
       "Konya",
       "KYA",
       3392,
@@ -21382,7 +21906,7 @@
   "LTAT": [
     [
       "RW03L",
-      26,
+      25,
       2837,
       10991,
       6,
@@ -21400,7 +21924,7 @@
     ],
     [
       "RW21R",
-      206,
+      205,
       2762,
       10991,
       6,
@@ -21418,7 +21942,7 @@
     ],
     [
       "RW03R",
-      26,
+      25,
       2828,
       10991,
       6,
@@ -21436,7 +21960,7 @@
     ],
     [
       "RW21L",
-      206,
+      205,
       2757,
       10991,
       6,
@@ -21570,10 +22094,10 @@
   "LTAZ": [
     [
       "RW11",
-      111,
+      112,
       3062,
       9843,
-      6,
+      5,
       "Kapadokya",
       "NAV",
       3090,
@@ -21588,10 +22112,10 @@
     ],
     [
       "RW29",
-      291,
+      292,
       3084,
       9843,
-      6,
+      5,
       "Kapadokya",
       "NAV",
       3090,
@@ -22437,7 +22961,7 @@
       104,
       3791,
       9843,
-      7,
+      6,
       "Erzincan (Yildirim Akbulut)",
       "ERC",
       3791,
@@ -22455,7 +22979,7 @@
       284,
       3760,
       9843,
-      7,
+      6,
       "Erzincan (Yildirim Akbulut)",
       "ERC",
       3791,
@@ -22848,10 +23372,10 @@
   "LTCO": [
     [
       "RW16",
-      158,
+      160,
       5392,
       9843,
-      7,
+      4,
       "Agri (Ahmed-I Hani)",
       "AJI",
       5461,
@@ -22866,10 +23390,10 @@
     ],
     [
       "RW34",
-      338,
+      340,
       5461,
       9843,
-      7,
+      4,
       "Agri (Ahmed-I Hani)",
       "AJI",
       5461,
@@ -23152,8 +23676,8 @@
   "LTDA": [
     [
       "RW04",
-      37,
-      256,
+      38,
+      253,
       8924,
       5,
       "Hatay",
@@ -23170,10 +23694,10 @@
     ],
     [
       "RW22",
-      217,
-      259,
+      218,
+      256,
       8924,
-      6,
+      5,
       "Hatay",
       "HTY",
       259,
@@ -23193,7 +23717,7 @@
       44,
       2826,
       9843,
-      6,
+      5,
       "Isparta (Suleyman Demirel)",
       "ISE",
       2835,
@@ -23211,7 +23735,7 @@
       224,
       2835,
       9843,
-      6,
+      5,
       "Isparta (Suleyman Demirel)",
       "ISE",
       2835,
@@ -24347,7 +24871,7 @@
       "PCN 60"
     ]
   ],
-"ZBAA": [
+  "ZBAA": [
     [
       "RW18L",
       181,
@@ -24693,7 +25217,7 @@
       11811,
       9383,
       9186,
-      "12/30 - Rwy 12 Right-Hand Circuit. During skd operations or O/R. Customs. J. Fire 6.",
+      "12/30 - HIRL. Rwy 12 Right-Hand Circuit. During skd operations or O/R. Customs. J. Fire 6.",
       49.5525,
       117.333333333333,
       ""
@@ -24711,7 +25235,7 @@
       9842,
       9383,
       9186,
-      "12/30 - Rwy 12 Right-Hand Circuit. During skd operations or O/R. Customs. J. Fire 6.",
+      "12/30 - HIRL. Rwy 12 Right-Hand Circuit. During skd operations or O/R. Customs. J. Fire 6.",
       49.5525,
       117.333333333333,
       ""
@@ -24831,37 +25355,73 @@
   ],
   "ZBYN": [
     [
-      "RW13",
-      131,
-      2548,
+      "RW13L",
+      133,
+      2544,
       11811,
-      -4,
+      -6,
       "Taiyuan (Wusu)",
       "TYN",
-      2579,
+      2585,
       11811,
       11811,
       12008,
       11811,
-      "13/31 - HIRL. H24. Customs. Jet A-1. Fire 9.",
+      "13L/31R - HIRL. 13R/31L - CONCRETE. PCR: 820/R/A/W/T. HIRL. ALS 31L. Rwy 13R Right-Hand Circuit. first 800 m PCR: 970/R/A/W/T H24. Customs. Jet A-1. Fire 9.",
       37.7358333333333,
       112.618888888889,
       ""
     ],
     [
-      "RW31",
-      311,
-      2579,
+      "RW31R",
+      313,
+      2578,
       11811,
-      -4,
+      -6,
       "Taiyuan (Wusu)",
       "TYN",
-      2579,
+      2585,
       11811,
       11811,
       12008,
       11811,
-      "13/31 - HIRL. H24. Customs. Jet A-1. Fire 9.",
+      "13L/31R - HIRL. 13R/31L - CONCRETE. PCR: 820/R/A/W/T. HIRL. ALS 31L. Rwy 13R Right-Hand Circuit. first 800 m PCR: 970/R/A/W/T H24. Customs. Jet A-1. Fire 9.",
+      37.7358333333333,
+      112.618888888889,
+      ""
+    ],
+    [
+      "RW13R",
+      133,
+      2553,
+      11811,
+      -6,
+      "Taiyuan (Wusu)",
+      "TYN",
+      2585,
+      11811,
+      11811,
+      11811,
+      11811,
+      "13L/31R - HIRL. 13R/31L - CONCRETE. PCR: 820/R/A/W/T. HIRL. ALS 31L. Rwy 13R Right-Hand Circuit. first 800 m PCR: 970/R/A/W/T H24. Customs. Jet A-1. Fire 9.",
+      37.7358333333333,
+      112.618888888889,
+      ""
+    ],
+    [
+      "RW31L",
+      313,
+      2585,
+      11811,
+      -6,
+      "Taiyuan (Wusu)",
+      "TYN",
+      2585,
+      11811,
+      11811,
+      11811,
+      11811,
+      "13L/31R - HIRL. 13R/31L - CONCRETE. PCR: 820/R/A/W/T. HIRL. ALS 31L. Rwy 13R Right-Hand Circuit. first 800 m PCR: 970/R/A/W/T H24. Customs. Jet A-1. Fire 9.",
       37.7358333333333,
       112.618888888889,
       ""
@@ -24919,7 +25479,7 @@
       11155,
       11155,
       11155,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -24937,7 +25497,7 @@
       11155,
       11155,
       11155,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -24955,7 +25515,7 @@
       11811,
       11811,
       11811,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -24973,7 +25533,7 @@
       11811,
       11811,
       11811,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -24991,7 +25551,7 @@
       12467,
       12467,
       12467,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -25009,7 +25569,7 @@
       12467,
       12467,
       11811,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -25027,7 +25587,7 @@
       12467,
       12467,
       12467,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -25045,7 +25605,7 @@
       12467,
       12467,
       12467,
-      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
+      "01L/19R - CONCRETE. PCR: 890/R/A/W/T. HIRL. Rwy 19R Right-Hand Circuit. 01R/19L - CONCRETE. PCR: 1130/R/A/W/T. HIRL. Rwy 19L Right-Hand Circuit. 02L/20R - HIRL. ALS. Rwy 02L Right-Hand Circuit. 02R/20L - CONCRETE. PCR: 1170/R/A/W/T. HIRL. ALS. Rwy 02R Right-Hand Circuit. 03/21 - CONCRETE. PCR: 890/R/A/W/T. HIRL. H24. Customs: During sked operations or O/R. Jet A-1. Fire 10.",
       23.385,
       113.301388888889,
       ""
@@ -25072,7 +25632,7 @@
     ],
     [
       "RW36R",
-      361,
+      1,
       188,
       12467,
       -4,
@@ -25108,7 +25668,7 @@
     ],
     [
       "RW36L",
-      361,
+      1,
       198,
       10499,
       -4,
@@ -25137,7 +25697,7 @@
       571,
       10499,
       11155,
-      10696,
+      10499,
       10499,
       "01/19 - HIRL. H24. Customs: By Operational Requirements. J. Fire 8.",
       25.2169444444444,
@@ -25155,7 +25715,7 @@
       571,
       10499,
       11155,
-      10696,
+      10499,
       10499,
       "01/19 - HIRL. H24. Customs: By Operational Requirements. J. Fire 8.",
       25.2169444444444,
@@ -25165,11 +25725,47 @@
   ],
   "ZGNN": [
     [
+      "RW04",
+      50,
+      388,
+      12467,
+      -3,
+      "Nanning (Wuxu)",
+      "NNG",
+      420,
+      12467,
+      12467,
+      12467,
+      12467,
+      "04/22 - CONCRETE. PCR: 880/R/A/W/T. HIRL. ALS 04. Rwy 04 Right-Hand Circuit. 05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
+      22.6016666666667,
+      108.167777777778,
+      ""
+    ],
+    [
+      "RW22",
+      230,
+      394,
+      12467,
+      -3,
+      "Nanning (Wuxu)",
+      "NNG",
+      420,
+      12467,
+      12467,
+      12467,
+      12467,
+      "04/22 - CONCRETE. PCR: 880/R/A/W/T. HIRL. ALS 04. Rwy 04 Right-Hand Circuit. 05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
+      22.6016666666667,
+      108.167777777778,
+      ""
+    ],
+    [
       "RW05",
-      48,
+      50,
       417,
       10499,
-      -2,
+      -3,
       "Nanning (Wuxu)",
       "NNG",
       420,
@@ -25177,17 +25773,17 @@
       10499,
       10499,
       10499,
-      "05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
+      "04/22 - CONCRETE. PCR: 880/R/A/W/T. HIRL. ALS 04. Rwy 04 Right-Hand Circuit. 05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
       22.6016666666667,
       108.167777777778,
       ""
     ],
     [
       "RW23",
-      228,
+      230,
       415,
       10499,
-      -2,
+      -3,
       "Nanning (Wuxu)",
       "NNG",
       420,
@@ -25195,7 +25791,7 @@
       10499,
       10499,
       10499,
-      "05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
+      "04/22 - CONCRETE. PCR: 880/R/A/W/T. HIRL. ALS 04. Rwy 04 Right-Hand Circuit. 05/23 - CONCRETE. PCR: 940/R/A/W/T. HIRL. Rwy 05 Right-Hand Circuit. H24. Customs. J. Fire 8.",
       22.6016666666667,
       108.167777777778,
       ""
@@ -25215,7 +25811,7 @@
       10499,
       10499,
       10499,
-      "04/22 - ASPHALT. PCR: 1730/F/B/X/T. Rwy 22 Right-Hand Circuit. H24. Customs. J. Fire 7.",
+      "04/22 - ASPHALT. PCR: 1730/F/B/X/T. HIRL. Rwy 22 Right-Hand Circuit. H24. Customs. J. Fire 7.",
       23.5505555555556,
       116.500277777778,
       ""
@@ -25233,7 +25829,7 @@
       10499,
       10499,
       10499,
-      "04/22 - ASPHALT. PCR: 1730/F/B/X/T. Rwy 22 Right-Hand Circuit. H24. Customs. J. Fire 7.",
+      "04/22 - ASPHALT. PCR: 1730/F/B/X/T. HIRL. Rwy 22 Right-Hand Circuit. H24. Customs. J. Fire 7.",
       23.5505555555556,
       116.500277777778,
       ""
@@ -25242,10 +25838,10 @@
   "ZGSZ": [
     [
       "RW15",
-      155,
+      156,
       12,
       11155,
-      -2,
+      -3,
       "Shenzhen (Baoan)",
       "SZX",
       13,
@@ -25253,17 +25849,17 @@
       11155,
       11155,
       11155,
-      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16/34 - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
       22.6341666666667,
       113.801944444444,
       ""
     ],
     [
       "RW33",
-      335,
+      336,
       12,
       11155,
-      -2,
+      -3,
       "Shenzhen (Baoan)",
       "SZX",
       13,
@@ -25271,17 +25867,17 @@
       11155,
       11155,
       11155,
-      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16/34 - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
       22.6341666666667,
       113.801944444444,
       ""
     ],
     [
-      "RW16",
-      155,
+      "RW16L",
+      156,
       13,
       12467,
-      -2,
+      -3,
       "Shenzhen (Baoan)",
       "SZX",
       13,
@@ -25289,17 +25885,17 @@
       12467,
       12467,
       12467,
-      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16/34 - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
       22.6341666666667,
       113.801944444444,
       ""
     ],
     [
-      "RW34",
-      335,
+      "RW34R",
+      336,
       13,
       12467,
-      -2,
+      -3,
       "Shenzhen (Baoan)",
       "SZX",
       13,
@@ -25307,7 +25903,43 @@
       12467,
       12467,
       12467,
-      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16/34 - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16 Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      22.6341666666667,
+      113.801944444444,
+      ""
+    ],
+    [
+      "RW16R",
+      156,
+      13,
+      11811,
+      -3,
+      "Shenzhen (Baoan)",
+      "SZX",
+      13,
+      11811,
+      11811,
+      11811,
+      11811,
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
+      22.6341666666667,
+      113.801944444444,
+      ""
+    ],
+    [
+      "RW34L",
+      336,
+      13,
+      11811,
+      -3,
+      "Shenzhen (Baoan)",
+      "SZX",
+      13,
+      11811,
+      11811,
+      11811,
+      11811,
+      "15/33 - CONCRETE. PCR: 720/R/A/W/T. HIRL. ALS. Rwy 15 Right-Hand Circuit. 16L/34R - CONCRETE. PCR: 900/R/A/W/T. HIRL. Rwy 16L Right-Hand Circuit. 16R/34L - CONCRETE. PCR: 1030/R/A/W/T. HIRL. ALS 16R. Rwy 16R Right-Hand Circuit. H24. Customs. Jet A-1. Fire 9.",
       22.6341666666667,
       113.801944444444,
       ""
@@ -25511,7 +26143,7 @@
       11811,
       11811,
       11811,
-      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
+      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. HIRL. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
       19.9333333333333,
       110.451666666667,
       ""
@@ -25529,7 +26161,7 @@
       11811,
       11811,
       11811,
-      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
+      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. HIRL. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
       19.9333333333333,
       110.451666666667,
       ""
@@ -25547,7 +26179,7 @@
       11811,
       11811,
       11811,
-      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
+      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. HIRL. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
       19.9333333333333,
       110.451666666667,
       ""
@@ -25565,7 +26197,7 @@
       11811,
       11811,
       11811,
-      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
+      "09/27 - CONCRETE. PCR: 1200/R/B/W/T. HIRL. ALS 09. Rwy 09 Right-Hand Circuit. 10/28 - CONCRETE. PCR: 1000/R/A/W/T. HIRL. ALS 10. Rwy 28 Right-Hand Circuit. H24. Customs. J. Fire 9.",
       19.9333333333333,
       110.451666666667,
       ""
@@ -25585,7 +26217,7 @@
       10499,
       10499,
       10499,
-      "15/33 - CONCRETE. PCR: 1030/R/B/W/T. Rwy 33 Right-Hand Circuit. By operational requirements. Customs: During skd operations or O/R. J. Fire 7.",
+      "15/33 - CONCRETE. PCR: 1030/R/B/W/T. HIRL. Rwy 33 Right-Hand Circuit. By operational requirements. Customs: During skd operations or O/R. J. Fire 7.",
       19.1341666666667,
       110.450555555556,
       ""
@@ -25603,7 +26235,7 @@
       10499,
       10499,
       10499,
-      "15/33 - CONCRETE. PCR: 1030/R/B/W/T. Rwy 33 Right-Hand Circuit. By operational requirements. Customs: During skd operations or O/R. J. Fire 7.",
+      "15/33 - CONCRETE. PCR: 1030/R/B/W/T. HIRL. Rwy 33 Right-Hand Circuit. By operational requirements. Customs: During skd operations or O/R. J. Fire 7.",
       19.1341666666667,
       110.450555555556,
       ""
@@ -25765,7 +26397,7 @@
     [
       "RW18L",
       180,
-      6388,
+      6383,
       13123,
       -3,
       "Lanzhou (Zhongchuan)",
@@ -25783,7 +26415,7 @@
     [
       "RW36R",
       360,
-      6329,
+      6322,
       13123,
       -3,
       "Lanzhou (Zhongchuan)",
@@ -25887,7 +26519,7 @@
       12467,
       12467,
       12467,
-      "05L/23R - Rwy 23R Right-Hand Circuit. 05R/23L - CONCRETE. PCR: 910/R/A/W/T. ALS 05R. Rwy 05R Right-Hand Circuit. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
       34.4508333333333,
       108.75,
       ""
@@ -25905,13 +26537,13 @@
       12467,
       12467,
       11778,
-      "05L/23R - Rwy 23R Right-Hand Circuit. 05R/23L - CONCRETE. PCR: 910/R/A/W/T. ALS 05R. Rwy 05R Right-Hand Circuit. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
       34.4508333333333,
       108.75,
       ""
     ],
     [
-      "RW05R",
+      "RW06L",
       52,
       1557,
       12467,
@@ -25923,13 +26555,13 @@
       12467,
       12467,
       12467,
-      "05L/23R - Rwy 23R Right-Hand Circuit. 05R/23L - CONCRETE. PCR: 910/R/A/W/T. ALS 05R. Rwy 05R Right-Hand Circuit. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
       34.4508333333333,
       108.75,
       ""
     ],
     [
-      "RW23L",
+      "RW24R",
       232,
       1538,
       12467,
@@ -25941,7 +26573,43 @@
       12467,
       12467,
       12467,
-      "05L/23R - Rwy 23R Right-Hand Circuit. 05R/23L - CONCRETE. PCR: 910/R/A/W/T. ALS 05R. Rwy 05R Right-Hand Circuit. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      34.4508333333333,
+      108.75,
+      ""
+    ],
+    [
+      "RW06R",
+      52,
+      1556,
+      9843,
+      -3,
+      "Xi'An (Xianyang)",
+      "XIY",
+      1584,
+      9843,
+      9843,
+      9843,
+      9843,
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
+      34.4508333333333,
+      108.75,
+      ""
+    ],
+    [
+      "RW24L",
+      232,
+      1541,
+      9843,
+      -3,
+      "Xi'An (Xianyang)",
+      "XIY",
+      1584,
+      9843,
+      9843,
+      9843,
+      9843,
+      "05L/23R - Rwy 23R Right-Hand Circuit. 06L/24R - CONCRETE. PCR: 910/R/A/W/T. ALS 06L. Rwy 06L Right-Hand Circuit. 06R/24L - CONCRETE. PCR: 980/R/A/W/T. H24. Customs: During skd operations or O/R. Jet A-1. Fire 9.",
       34.4508333333333,
       108.75,
       ""
@@ -25999,7 +26667,7 @@
       9843,
       9843,
       9843,
-      "02/20 - ASPH/CONC. PCR: 620/R/B/W/T. First 200m concrete PCR: 620/R/B/W/T, 200-500m asphalt PCR: 1280/F/B/X/T. By operational requirements. Customs. Fuel: U. Fire 8.",
+      "02/20 - ASPH/CONC. PCR: 620/R/B/W/T. HIRL. First 200m concrete PCR: 620/R/B/W/T, 200-500m asphalt PCR: 1280/F/B/X/T. By operational requirements. Customs. Fuel: U. Fire 8.",
       26.6686111111111,
       100.235555555556,
       ""
@@ -26017,7 +26685,7 @@
       9843,
       9843,
       9843,
-      "02/20 - ASPH/CONC. PCR: 620/R/B/W/T. First 200m concrete PCR: 620/R/B/W/T, 200-500m asphalt PCR: 1280/F/B/X/T. By operational requirements. Customs. Fuel: U. Fire 8.",
+      "02/20 - ASPH/CONC. PCR: 620/R/B/W/T. HIRL. First 200m concrete PCR: 620/R/B/W/T, 200-500m asphalt PCR: 1280/F/B/X/T. By operational requirements. Customs. Fuel: U. Fire 8.",
       26.6686111111111,
       100.235555555556,
       ""
@@ -26187,7 +26855,7 @@
       11155,
       11155,
       11155,
-      "03/21 - CONCRETE. PCR: 1120/R/B/W/T. H24. Customs: 2hr before T/O and 0.5-1hr after T/O. Fuel: U. Fire 8.",
+      "03/21 - CONCRETE. PCR: 1120/R/B/W/T. H24. Customs: 2hr before T/O and 0.5-1hr after T/O. Fuel: U. Fire 9.",
       28.8522222222222,
       115.9,
       ""
@@ -26205,7 +26873,7 @@
       11155,
       11155,
       11155,
-      "03/21 - CONCRETE. PCR: 1120/R/B/W/T. H24. Customs: 2hr before T/O and 0.5-1hr after T/O. Fuel: U. Fire 8.",
+      "03/21 - CONCRETE. PCR: 1120/R/B/W/T. H24. Customs: 2hr before T/O and 0.5-1hr after T/O. Fuel: U. Fire 9.",
       28.8522222222222,
       115.9,
       ""
@@ -26337,7 +27005,7 @@
       11811,
       11811,
       11811,
-      "01/19 - CONCRETE. PCR: 800/R/A/W/T. During skd operations or O/R. Customs. Jet A-1. Fire 9.",
+      "01/19 - CONCRETE. PCR: 800/R/A/W/T. HIRL. During skd operations or O/R. Customs. Jet A-1. Fire 9.",
       36.8511111111111,
       117.216666666667,
       ""
@@ -26355,7 +27023,7 @@
       11811,
       11811,
       11811,
-      "01/19 - CONCRETE. PCR: 800/R/A/W/T. During skd operations or O/R. Customs. Jet A-1. Fire 9.",
+      "01/19 - CONCRETE. PCR: 800/R/A/W/T. HIRL. During skd operations or O/R. Customs. Jet A-1. Fire 9.",
       36.8511111111111,
       117.216666666667,
       ""
@@ -27036,10 +27704,10 @@
   "ZSWZ": [
     [
       "RW03",
-      32,
+      34,
       17,
       10499,
-      -4,
+      -6,
       "Wenzhou (Longwan)",
       "WNZ",
       17,
@@ -27054,10 +27722,10 @@
     ],
     [
       "RW21",
-      212,
+      214,
       17,
       10499,
-      -4,
+      -6,
       "Wenzhou (Longwan)",
       "WNZ",
       17,
@@ -27605,7 +28273,7 @@
       11483,
       10696,
       10499,
-      "08/26 - Rwy 08 Right-Hand Circuit. H24. Customs: By operational requirements. Jet A-1. Fire 8.",
+      "08/26 - Rwy 08 Right-Hand Circuit. H24. Customs: By operational requirements. Jet A-1. Fire 9.",
       39.5352777777778,
       76.0175,
       ""
@@ -27623,7 +28291,7 @@
       11483,
       10696,
       10499,
-      "08/26 - Rwy 08 Right-Hand Circuit. H24. Customs: By operational requirements. Jet A-1. Fire 8.",
+      "08/26 - Rwy 08 Right-Hand Circuit. H24. Customs: By operational requirements. Jet A-1. Fire 9.",
       39.5352777777778,
       76.0175,
       ""
@@ -27780,10 +28448,10 @@
   "ZYCC": [
     [
       "RW06",
-      58,
+      60,
       706,
       10499,
-      -9,
+      -11,
       "Changchun (Longjia)",
       "CGQ",
       706,
@@ -27798,10 +28466,10 @@
     ],
     [
       "RW24",
-      238,
+      240,
       646,
       10499,
-      -9,
+      -11,
       "Changchun (Longjia)",
       "CGQ",
       706,
@@ -27969,17 +28637,17 @@
     [
       "RW17L",
       169,
-      477,
-      8530,
+      480,
+      11811,
       -11,
       "Qiqihar (Sanjiazi)",
       "NDG",
-      483,
-      8530,
-      8530,
-      8530,
-      8530,
-      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
+      495,
+      11811,
+      11811,
+      11811,
+      11811,
+      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. HIRL. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
       47.2341666666667,
       123.916666666667,
       ""
@@ -27987,17 +28655,17 @@
     [
       "RW35R",
       349,
-      474,
-      8530,
+      495,
+      11811,
       -11,
       "Qiqihar (Sanjiazi)",
       "NDG",
-      483,
-      8530,
-      8530,
-      8530,
-      8530,
-      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
+      495,
+      11811,
+      11811,
+      11811,
+      11811,
+      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. HIRL. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
       47.2341666666667,
       123.916666666667,
       ""
@@ -28010,12 +28678,12 @@
       -11,
       "Qiqihar (Sanjiazi)",
       "NDG",
-      483,
+      495,
       9843,
       9843,
       9843,
       9843,
-      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
+      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. HIRL. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
       47.2341666666667,
       123.916666666667,
       ""
@@ -28028,12 +28696,12 @@
       -11,
       "Qiqihar (Sanjiazi)",
       "NDG",
-      483,
+      495,
       9843,
       9843,
       9843,
       9843,
-      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
+      "17L/35R - CONCRETE. PCR: 740/R/A/W/T. HIRL. 17R/35L - CONCRETE. PCR: 820/R/A/W/T. During skd operations or O/R. Customs. J. Fire 6.",
       47.2341666666667,
       123.916666666667,
       ""
@@ -28569,7 +29237,7 @@
     [
       "RW11",
       107,
-      4787,
+      4790,
       7218,
       -4,
       "Gurvansaikhan",
@@ -28755,5 +29423,4 @@
       "PCN 21/R/B/X/U"
     ]
   ]
-
 }
