@@ -1,10 +1,10 @@
 "RA-09609": ["Lx",
 	"cgformula", "((x * 1000.0) / y * 100.0 / 113.69) + 25.0",
-        "aircraft", 25852.0883, 233.937 //32.96%
+    "aircraft", 25852.0883, 233.937 //32.96%
 	"cabinmodel", "SalonA",
 	"lopa", -410.0, 150.0,
 
-        "cockpit", 
+    "cockpit", 
 	"Cockpit crew:", 340.0, -311.0, 
 	"Cabin crew:", 170.0, -278.0,
                  
@@ -59,11 +59,11 @@
 
     "RA-09009": ["7x",
 	"cgformula", "((x * 1000.0) / y * 100.0 / 131.79) + 25.0",
-        "aircraft", 35881.37957, 589.209, //37.46 %
+    "aircraft", 35881.37957, 589.209, //37.46 %
 	"cabinmodel", "SalonA",
 	"lopa", -410.0, 150.0,
 
-        "cockpit", 
+    "cockpit", 
 	"Cockpit crew:", 340.0, -367.0, 
 	"Cabin crew:", 170.0, -343.2,
 
