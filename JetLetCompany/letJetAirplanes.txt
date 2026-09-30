@@ -6,8 +6,8 @@
 	"lopa", -410.0, 150.0,
 
     "cockpit", 
-	"Cockpit crew:", 340.0, -311.0, 
-	"Cabin crew:", 170.0, -278.0,
+	"Cockpit crew:", 340.0, -105.74, 
+	"Cabin crew:", 170.0, -47.26,
                  
 	"aircraft items", 
 	"Flight Deck Crew Baggage:", 44.0, 6.35, 
@@ -64,8 +64,8 @@
 	"lopa", -470.0, 150.0,
 
     "cockpit", 
-	"Cockpit crew:", 340.0, -367.0, 
-	"Cabin crew:", 170.0, -343.2,
+	"Cockpit crew:", 340.0, -124.78, 
+	"Cabin crew:", 170.0, -58.34,
 
 	"aircraft items", 
 	"Flight Deck Crew Baggage:", 44.0, 7.46, 
