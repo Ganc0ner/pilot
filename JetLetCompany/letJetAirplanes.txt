@@ -60,7 +60,7 @@
     "RA-09009": ["7x",
 	"cgformula", "((x * 1000.0) / y * 100.0 / 131.79) + 25.0",
     "aircraft", 35881.37957, 589.209,
-	"cabinmodel", "SalonA",
+	"cabinmodel", "Salon7A",
 	"lopa", -470.0, 160.0,
 
     "cockpit", 
@@ -120,8 +120,8 @@
 "RA-09608": ["8x",
 	"cgformula", "((x * 1000.0) / y * 100.0 / 131.793) + 25.0",
 	"aircraft", 35511.59822, 684.24,
-	"cabinmodel", "SalonA",
-	"lopa", -490.0, 190.0,
+	"cabinmodel", "Salon7A",
+	"lopa", -455.0, 185.0,
 
 	"cockpit", 
 	"Cockpit crew:", 340.0, -132.26, 
