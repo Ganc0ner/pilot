@@ -61,7 +61,7 @@
 	"cgformula", "((x * 1000.0) / y * 100.0 / 131.79) + 25.0",
     "aircraft", 35881.37957, 589.209,
 	"cabinmodel", "SalonA",
-	"lopa", -470.0, 150.0,
+	"lopa", -470.0, 160.0,
 
     "cockpit", 
 	"Cockpit crew:", 340.0, -124.78, 
